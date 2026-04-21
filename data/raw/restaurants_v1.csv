@@ -1,0 +1,921 @@
+name,address,rating,reviews,website,lat,lng,category,no_website
+Sphère,"18 Rue La Boétie, 75008 Paris, France",4.8,13276,https://restaurantsphere.com/,48.8742665,2.3169387,"establishment, food, point_of_interest, restaurant",False
+Le Marais Restaurant Paris,"47 R. de Turbigo, 75003 Paris, France",4.6,2012,https://www.privateaser.com/lieu/44897-le-marais-restaurant,48.86513799999999,2.3540023,"establishment, food, point_of_interest, restaurant",False
+Chouchou,"23 Bd de Sébastopol, 75001 Paris, France",4.7,24103,http://www.restaurantchouchouparis.fr/,48.8599744,2.3487234,"bar, establishment, food, point_of_interest, restaurant",False
+Le Tout-Paris,"8 Quai du Louvre, 75001 Paris, France",4.6,2030,http://letoutparis.fr/?y_source=1_MjM2NzUwMDEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D,48.8587493,2.3422529,"establishment, food, point_of_interest, restaurant",False
+Le Cinq,"31 Av. George V, 75008 Paris, France",4.6,1563,https://www.fourseasons.com/paris/dining/restaurants/le_cinq/?utm_source=google&utm_medium=organicsearch&utm_campaign=tor-par-fab-mid-seo-na&utm_content=na-na&utm_term=na,48.868849,2.300683,"bar, establishment, food, point_of_interest, restaurant",False
+Le Paris Paris,"8 Rue de Montfaucon, 75006 Paris, France",4.4,1440,http://www.leparisparis.fr/,48.85257900000001,2.3357251,"cafe, establishment, food, point_of_interest, restaurant",False
+Le Colimaçon,"44 Rue Vieille du Temple, 75004 Paris, France",4.7,2951,https://le-colimacon.fr/,48.85795100000001,2.3582686,"establishment, food, point_of_interest, restaurant",False
+L'Oiseau Blanc,"19 Av. Kléber, 75116 Paris, France",4.6,1915,https://www.peninsula.com/en/paris/hotel-fine-dining/french-rooftop-loiseau-blanc,48.8707437,2.2933137,"establishment, food, point_of_interest, restaurant",False
+La Petite Rose des Sables,"6 Rue de Lancry, 75010 Paris, France",4.9,1165,,48.8689454,2.3602061,"bar, establishment, food, point_of_interest, restaurant",True
+L'Orangerie,"31 Av. George V, 75008 Paris, France",4.8,397,https://www.fourseasons.com/paris/dining/restaurants/l-orangerie/?utm_source=google&utm_medium=organicsearch&utm_campaign=tor-par-fab-mid-seo-na&utm_content=na-na&utm_term=na,48.8688845,2.300262500000001,"establishment, food, point_of_interest, restaurant",False
+Les Baux de Paris,"71 Rue Mouffetard, 75005 Paris, France",4.7,1892,https://www.instagram.com/lesbaux_paris/,48.8423354,2.3500704,"bar, establishment, food, point_of_interest, restaurant",False
+LArchimede | Restaurant Republique Paris 10 (Canal Saint Martin) | Terrasse,"11 Rue Marie et Louise, 75010 Paris, France",4.8,1344,https://larchimede.paris/,48.871889,2.366516,"bar, establishment, food, point_of_interest, restaurant",False
+Restaurant Musa Oberkampf - Paris 11,"117 Rue Saint-Maur, 75011 Paris, France",4.9,1836,https://www.musa.paris/,48.86631240000001,2.376627,"bar, establishment, food, point_of_interest, restaurant",False
+Restaurant Bus Toqué Paris,"107 Av. des Champs-Élysées, 75008 Paris, France",4.8,965,https://www.bustoque.fr/,48.871919,2.299742,"establishment, food, point_of_interest, restaurant, tourist_attraction",False
+Au Pied de Cochon,"6 Rue Coquillière, 75001 Paris, France",4.4,22681,https://www.pieddecochon.com/,48.86351759999999,2.3437221,"cafe, establishment, food, meal_takeaway, point_of_interest, restaurant",False
+Le Christine,"1 Rue Christine, 75006 Paris, France",4.6,2188,https://lechristine.becsparisiens.fr/,48.8543056,2.3402167,"establishment, food, point_of_interest, restaurant",False
+Noûsh,"Enseigne bleue, 60 Rue Saint-Lazare, 75009 Paris, France",4.7,1021,https://www.restaurant-trinite.fr/noush,48.876922,2.3331904,"bar, establishment, food, point_of_interest, restaurant",False
+Le Bistro des Augustins,"39 Quai des Grands Augustins, 75006 Paris, France",4.5,2488,https://lebistrodesaugustins.shop/,48.8546972,2.3420468,"establishment, food, point_of_interest, restaurant",False
+Tigermilk,"77 Rue d'Aboukir, 75002 Paris, France",4.7,10120,https://tigermilkrestaurants.com/fr/restaurants/sentier-iie/,48.8679134,2.3473008,"establishment, food, point_of_interest, restaurant",False
+Epicure,"112 Rue du Faubourg Saint-Honoré, 75008 Paris, France",4.7,1727,https://www.oetkerhotels.com/hotels/le-bristol-paris/restaurants-bars/epicure/?utm_source=google&utm_medium=organic&utm_campaign=google_local_epicure,48.8717373,2.3148528,"establishment, food, point_of_interest, restaurant",False
+La Poule Noire,"61 Rue Sainte, 13001 Marseille, France",4.7,1440,http://www.restaurant-lapoulenoire.com/,43.2919232,5.3732203,"establishment, food, point_of_interest, restaurant",False
+Alivetu - Table Méditerranéenne,"145 Rue Sainte, 13007 Marseille, France",4.9,874,https://alivetu-restaurant.fr/,43.29073,5.3670703,"establishment, food, point_of_interest, restaurant",False
+"La Pagaille Restaurant, Lounge & Cocktail","37 Rue Caisserie, 13002 Marseille, France",4.8,748,https://la-pagaille.fr/,43.2970037,5.366064199999999,"bar, establishment, food, night_club, point_of_interest, restaurant",False
+Le Bouchon Provençal,"6 Pl. aux Huiles, 13001 Marseille, France",4.6,2208,http://www.lebouchonprovencal.com/,43.2930343,5.3714979,"establishment, food, point_of_interest, restaurant",False
+Ciel | Rooftop | Marseille,"17 Rue Haxo, 13001 Marseille, France",4.4,6672,https://www.ciel-rooftop.com/,43.2938075,5.3774274,"establishment, food, point_of_interest, restaurant",False
+1860 Le Palais,"9 La Canebière Vieux Port, 13001 Marseille, France",4.5,1828,https://www.1860lepalais.fr/,43.2960548,5.3751573,"establishment, food, point_of_interest, restaurant",False
+Bistrot l’Horloge,"11 Cr Honoré d'Estienne d'Orves, 13001 Marseille, France",4.6,2580,https://www.instagram.com/bistrotlhorloge?igsh=MTZ3M3pkajRnazVmZg%3D%3D&utm_source=qr,43.2928013,5.3744795,"bar, establishment, food, point_of_interest, restaurant",False
+Aux Antipodes,"26 Rue Sainte, 13001 Marseille, France",4.8,1262,https://www.facebook.com/auxantipodesmarseille/,43.2925722,5.3753665,"establishment, food, point_of_interest, restaurant",False
+La cigale vieux port,"92 Quai du Port, 13002 Marseille, France",4.4,2396,https://instagram.com/lacigale_marseille?igshid=YmMyMTA2M2Y=,43.2961168,5.3685814,"establishment, food, point_of_interest, restaurant",False
+Acuda - Restaurant Marseille,"34 Pl. aux Huiles, 13001 Marseille, France",4.8,447,https://acudamarseille.com/,43.2923632,5.3716772,"establishment, food, point_of_interest, restaurant",False
+Le Panier Marseillais,"1A Rue du Petit Puits, 13002 Marseille, France",4.5,4378,https://www.lepanierdemarseille.com/,43.29997909999999,5.3686834,"establishment, food, point_of_interest, restaurant, shopping_mall, store, tourist_attraction",False
+Wood la cantine gourmande,"8 Rue de la Guirlande, 13002 Marseille, France",4.7,1088,https://woodlacantinegourmande.com/,43.2967907,5.3704969,"establishment, food, point_of_interest, restaurant",False
+COIN COIN - Restaurant Marseille,"44 Rue Sainte, 13001 Marseille, France",4.6,940,https://www.coincoin-marseille.fr/,43.2923109,5.3737945,"bar, cafe, establishment, food, point_of_interest, restaurant, store",False
+Ourea,"72 Rue de la Paix Marcel Paul, 13006 Marseille, France",4.9,791,http://www.ourea-restaurant.com/,43.2905868,5.3733714,"establishment, food, point_of_interest, restaurant",False
+Chez Nous,"22 Pl. Notre Dame du Mont, 13006 Marseille, France",4.8,822,https://chez-nous-marseille.com/fr,43.291782,5.3841738,"establishment, food, point_of_interest, restaurant",False
+Le Caribou Marseille,"38 Pl. Thiars, 13001 Marseille, France",4.5,2280,http://www.lecaribou13001.fr/,43.2933121,5.3727171,"bar, establishment, food, point_of_interest, restaurant",False
+Ekume,"139 Rue Sainte, 13007 Marseille, France",4.8,646,http://www.ekume-restaurant.fr/,43.29080159999999,5.3674697,"establishment, food, point_of_interest, restaurant",False
+Chez Fonfon,"140 Rue du Vallon des Auffes, 13007 Marseille, France",4.2,3585,http://www.chez-fonfon.com/,43.28561879999999,5.3513021,"bar, establishment, food, point_of_interest, restaurant",False
+Restaurant l'Inattendu,"35 Rue de la Paix Marcel Paul, 13001 Marseille, France",4.5,1253,,43.2920521,5.3729239,"establishment, food, point_of_interest, restaurant",True
+Le Bistro Du Panier,"58 Rue Caisserie, 13002 Marseille, France",4.8,740,,43.2969832,5.366580799999999,"establishment, food, point_of_interest, restaurant",True
+Carmelo,"7 Rue Neuve, 69001 Lyon, France",4.8,37005,https://www.bigmammagroup.com/fr/restaurants-italiens/carmelo?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website,45.7653129,4.8349721,"establishment, food, point_of_interest, restaurant",False
+ART Restaurant Lyon,"3 Rue Sala, 69002 Lyon, France",4.8,1322,https://www.art-restaurant.fr/,45.7567929,4.8273723,"bar, establishment, food, point_of_interest, restaurant",False
+L'Osteria Lyon La Part-Dieu,"133 Rue Servient, 69003 Lyon, France",4.8,6737,https://losteria.net/fr/restaurants/restaurant/lyon-part-dieu/,45.7615107,4.8542206,"establishment, food, point_of_interest, restaurant",False
+Chez Grand-Mère,"11 Rue du Bœuf, 69005 Lyon, France",4.4,3577,http://www.chezgrandmere.fr/,45.7629204,4.8272185,"establishment, food, point_of_interest, restaurant",False
+Agastache Restaurant,"134 Rue Duguesclin, 69006 Lyon, France",4.9,888,http://www.agastache-restaurant-lyon.fr/,45.7664172,4.8476368,"establishment, food, point_of_interest, restaurant",False
+Canaima Restaurant,"24 Rue René Leynaud, 69001 Lyon, France",4.9,845,http://restaurantcanaima.fr/,45.7698684,4.8343093,"establishment, food, point_of_interest, restaurant",False
+Le Bouchon des Cordeliers,"15 Rue Claudia, 69002 Lyon, France",4.7,2847,http://www.bouchondescordeliers.com/,45.7643717,4.8377061,"establishment, food, point_of_interest, restaurant",False
+Le Vieux Lyon,"44 Rue Saint-Jean, 69005 Lyon, France",4.5,3933,https://restaurant-le-vieux-lyon.com/fr,45.7623386,4.827478699999999,"establishment, food, point_of_interest, restaurant",False
+Garden Bistro - Restaurant Français Rue Mercière,"50 Rue Mercière, 69002 Lyon, France",4.7,2668,https://restaurant-garden-bistro.com/,45.7628001,4.8325874,"bar, establishment, food, night_club, point_of_interest, restaurant",False
+La Table d’Ambre,"46 Rue Franklin, 69002 Lyon, France",4.8,753,https://www.latabledambre.fr/,45.751928,4.830551,"establishment, food, point_of_interest, restaurant",False
+Les Fils À Maman Lyon,"25 Rue de l'Arbre Sec, 69001 Lyon, France",4.3,3645,https://www.lesfilsamaman.com/restaurants/lyon/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website,45.7668011,4.837248,"bar, establishment, food, meal_delivery, meal_takeaway, point_of_interest, restaurant",False
+LE COMPTOIR LIBANAIS - Restaurant Libanais Lyon 6ème,"54 Rue de Sèze, 69006 Lyon, France",4.9,9605,https://www.comptoirlibanais-lyon.fr/,45.768244,4.848801799999999,"establishment, food, point_of_interest, restaurant",False
+Copain Comme Canard Lyon Part-Dieu,"22 Rue de la Part-Dieu, 69003 Lyon, France",4.7,1298,http://www.copaincommecanard.com/,45.75911929999999,4.8429989,"establishment, food, point_of_interest, restaurant",False
+Les Infidèles,"57 Rue Mercière, 69002 Lyon, France",4.6,2199,https://lesinfideles-restaurant.com/,45.7622073,4.8328894,"establishment, food, point_of_interest, restaurant",False
+LA GÂCHE,"2 Pl. du Petit Collège, 69005 Lyon, France",4.8,925,http://www.lagache-restaurant.fr/,45.7637588,4.8277242,"establishment, food, point_of_interest, restaurant",False
+Canopée Lyon - Bistronomie de Partage,"12 Rue Major Martin, 69001 Lyon, France",4.8,365,https://www.restaurantcanopeelyon.com/,45.7666115,4.8326521,"establishment, food, point_of_interest, restaurant",False
+LE F2 Restaurant,"2 Place de l'Hôpital, 28 Rue Louis Paufique, 69002 Lyon, France",4.6,1482,https://www.lef2.com/,45.7592145,4.835797400000001,"establishment, food, point_of_interest, restaurant",False
+Tigermilk Lyon,"18 Rue Pizay, 69001 Lyon, France",4.7,5967,https://tigermilkrestaurants.com/fr/restaurants/lyon-viiie/,45.7669618,4.8357101,"establishment, food, point_of_interest, restaurant",False
+Bouchon Tupin,"30 Rue Tupin, 69002 Lyon, France",4.8,2089,http://bouchontupin.com/,45.7628785,4.8349451,"establishment, food, point_of_interest, restaurant",False
+L'Alsacien Lyon,"8 Rue Chavanne, 69001 Lyon, France",4.7,1700,http://www.lalsacien.com/restaurant-alsacien-flammekueche-lyon/,45.7652476,4.8322511,"bar, establishment, food, point_of_interest, restaurant",False
+Les Sales Gosses (à TOULOUSE),"81 Rue Pierre-Paul Riquet, 31000 Toulouse, France",4.8,1958,https://restaurant.lessalesgosses.fr/,43.606032,1.453933,"establishment, food, point_of_interest, restaurant",False
+Oh la vache !,"2 Rue d'Austerlitz, 31000 Toulouse, France",4.7,2047,,43.6054879,1.4475091,"establishment, food, point_of_interest, restaurant",True
+Au Pois Gourmand restaurant terrasse gastronomique,"3 Rue Emile Heybrard, 31300 Toulouse, France",4.8,6919,http://pois-gourmand.fr/,43.609052,1.4096611,"establishment, food, point_of_interest, restaurant",False
+Fogo,"6 Rue des Puits Clos, 31000 Toulouse, France",4.9,442,https://fogo-toulouse.fr/,43.6019429,1.4445828,"establishment, food, point_of_interest, restaurant",False
+Petit Voyage - Restaurant Toulouse,"18 Rue Emile Cartailhac, 31000 Toulouse, France",4.9,916,https://instagram.com/petit.voyage_31,43.6074714,1.4403626,"cafe, establishment, food, meal_takeaway, point_of_interest, restaurant, store",False
+Bistroquet Toulouse,"10 Rue Labeda, 31000 Toulouse, France",4.7,7159,https://linktr.ee/bistroquettoulouse,43.604626,1.448928,"bar, establishment, food, point_of_interest, restaurant",False
+MAMA RESTAURANT TOULOUSE,"54 Bd Lazare Carnot, 31000 Toulouse, France",4.5,1803,https://fr.mamashelter.com/toulouse/restaurants?utm_source=google+Maps&utm_medium=seo+maps&utm_campaign=seo+maps,43.6050267,1.4498231,"establishment, food, point_of_interest, restaurant",False
+Hortùs Toulouse,"17 Rue Croix Baragnon, 31000 Toulouse, France",4.9,858,https://hortus-toulouse.fr/,43.5995326,1.4466319,"establishment, food, point_of_interest, restaurant",False
+Restaurant Une Table à Deux,"10 Rue de la Pleau, 31000 Toulouse, France",4.8,865,http://www.unetableadeux.fr/,43.59679999999999,1.4470155,"establishment, food, point_of_interest, restaurant",False
+Gaïa,"24 Rue Croix Baragnon, 31000 Toulouse, France",4.5,3760,https://gaia-toulouse.com/,43.599856,1.4479622,"establishment, food, point_of_interest, restaurant",False
+L' Atrium - Restaurant Toulouse,"Plaza Hôtel ****, 7 Pl. du Capitole, 31000 Toulouse, France",4.6,863,https://www.restaurantatrium.fr/,43.603728,1.442771,"bar, establishment, food, point_of_interest, restaurant",False
+Hope! Restaurant Toulouse,"19 Rue Saint-Bernard, 31000 Toulouse, France",4.9,386,https://sites.google.com/view/hope-restaurant-pates-gnocchis/accueil,43.6092033,1.4443374,"establishment, food, point_of_interest, restaurant",False
+Reflets Toulouse,"27/29 Rue Charles Viguerie, 31300 Toulouse, France",4.9,209,https://www.reflets-toulouse.com/,43.60026089999999,1.4351447,"establishment, food, point_of_interest, restaurant",False
+Aux Pieds sous la Table,"4, 8 Rue Arnaud Bernard 6, 31000 Toulouse, France",4.6,2690,https://auxpiedssouslatable.fr/,43.6096419,1.4392784,"establishment, food, point_of_interest, restaurant",False
+La Cuisine À Mémé,"17 Rue des Couteliers, 31000 Toulouse, France",4.7,927,http://www.lacuisineameme.fr/,43.5984948,1.4417373,"establishment, food, point_of_interest, restaurant",False
+L'Os à Moëlle Toulouse,"14 Rue Roquelaine, 31000 Toulouse, France",4.5,1407,https://www.losamoelletoulouse.com/,43.610543,1.445354,"establishment, food, point_of_interest, restaurant",False
+BOCA - Tapas españolas,"54 Rue Peyrolières, 31000 Toulouse, France",4.8,1709,https://www.boca-toulouse.fr/,43.6020984,1.4411283,"bar, establishment, food, point_of_interest, restaurant",False
+Restaurant Le Restaurant,"28 Rue Peyrolières, 31000 Toulouse, France",4.8,968,http://www.lerestaurant-toulouse.fr/,43.6008656,1.4407696,"establishment, food, point_of_interest, restaurant",False
+Liquides resto à boire - Toulouse,"6 Rue des Gestes 2-4, 31000 Toulouse, France",4.6,1022,https://www.privateaser.com/lieu/52482-liquides-resto-a-boire,43.6030488,1.4421999,"bar, establishment, food, point_of_interest, restaurant",False
+Cécile,"43 Pl. des Carmes, 31000 Toulouse, France",4.8,1531,https://cecile-toulouse.fr/,43.5974864,1.444595,"establishment, food, point_of_interest, restaurant",False
+Le Plongeoir,"60 Bd Franck Pilatte, 06300 Nice, France",4.2,3620,https://www.leplongeoir.com/,43.6919027,7.290909,"bar, establishment, food, point_of_interest, restaurant",False
+La Rotonde Nice,"37 Prom. des Anglais, 06000 Nice, France",4.4,980,https://www.lenegresco.com/restaurants/la-rotonde,43.694393,7.2579107,"establishment, food, point_of_interest, restaurant",False
+Restaurant JAN,"12 Rue Lascaris, 06300 Nice, France",4.8,1116,http://www.restaurantjan.com/,43.6998607,7.2848981,"establishment, food, point_of_interest, restaurant",False
+Plage Beau Rivage Nice,"107 Quai des États-Unis, 06300 Nice, France",4.1,3622,https://plagenicebeaurivage.com/,43.6947918,7.2695451,"bar, establishment, food, night_club, point_of_interest, restaurant",False
+Château Eza,"Rue de la Pise, 06360 Èze, France",4.6,1542,http://www.chateaueza.com/,43.72769,7.3611586,"establishment, food, lodging, point_of_interest, restaurant",False
+Castel Plage,"8 Quai des États-Unis, 06300 Nice, France",4.3,3308,http://www.castelplage.com/,43.6943897,7.278428399999999,"bar, establishment, food, point_of_interest, restaurant",False
+Boccaccio,"7 Rue Massena, 06000 Nice, France",4.4,4979,https://www.boccaccio-nice.com/,43.697682,7.268434999999999,"establishment, food, point_of_interest, restaurant",False
+Mayssa Beach,"9 Pl. Wilson, 06230 Villefranche-sur-Mer, France",4.6,2504,https://www.mayssabeach.fr/,43.7025059,7.3122182,"bar, establishment, food, point_of_interest, restaurant",False
+"La Pinède Restaurant, Cap D'Ail","10 Av. Raymond Gramaglia, 06320 Cap-d'Ail, France",4.5,1567,http://www.lapinederestaurant.com/,43.7201483,7.394512300000001,"bar, establishment, food, night_club, point_of_interest, restaurant",False
+La Réserve de Nice,"62 Bd Franck Pilatte, 06300 Nice, France",4.5,1434,https://www.lareservedenice.fr/fr/,43.6915351,7.2914292,"establishment, food, point_of_interest, restaurant",False
+La Cabane Villeneuve-Loubet,"1523 Bd Brigitte Bardot, 06270 Villeneuve-Loubet, France",4.3,1710,http://lacabane-restaurant-villeneuve-loubet.fr/,43.6302159,7.1352405,"establishment, food, point_of_interest, restaurant",False
+Le Séjour,"11 Rue Grimaldi, 06000 Nice, France",4.7,860,https://www.sejourcafe.fr/,43.6989508,7.2649516,"establishment, food, point_of_interest, restaurant",False
+La Môme,"6 Rue Florian, 06400 Cannes, France",4.4,3267,https://lamomecannes.com/,43.5517865,7.0234738,"bar, establishment, food, point_of_interest, restaurant",False
+La Route du Miam,"1 Rue Molière, 06100 Nice, France",4.8,675,,43.7129321,7.2613805,"establishment, food, point_of_interest, restaurant",True
+Restaurant Elaïo,"1 Prom. des Anglais, 06000 Nice, France",4.1,811,https://www.elaio-nice.com/,43.6952286,7.265778499999999,"establishment, food, park, point_of_interest, restaurant",False
+Restaurant Le Boudoir,"10 Rue Chauvain, 06000 Nice, France",4.5,864,https://leboudoir-nice.com/,43.6989601,7.2713445,"establishment, food, point_of_interest, restaurant",False
+Restaurant Art'N Blum - Restaurant Nantes,"10 Rue Léon Blum, 44000 Nantes, France",4.8,718,https://restaurant-artnblum.com/,47.2192303,-1.554909,"establishment, food, point_of_interest, restaurant",False
+Lamaccotte - Restaurant Nantes,"7 Rue Saint-Denis, 44000 Nantes, France",4.8,818,https://restaurante.covermanager.com/lamaccotte-2/,47.2178313,-1.552175,"establishment, food, point_of_interest, restaurant",False
+Chez Maman,"2 Rue de la Juiverie, 44000 Nantes, France",4.4,2367,http://www.chez-maman.com/,47.215748,-1.5527114,"establishment, food, point_of_interest, restaurant",False
+Le Cambronne Bistrot Chic,"6 Rue de l'Héronnière, 44000 Nantes, France",4.6,2512,https://www.lecambronne-bistrotchic.fr/,47.2121617,-1.5618667,"establishment, food, point_of_interest, restaurant",False
+Chez Franklin,"10 Rue Franklin, 44000 Nantes, France",4.5,1610,http://chezfranklin.fr/,47.2142641,-1.5631235,"bar, cafe, establishment, food, point_of_interest, restaurant, store",False
+La Cigale,"4 Pl. Graslin, 44000 Nantes, France",4.2,10144,http://www.lacigale.com/,47.21278,-1.5620819,"establishment, food, point_of_interest, restaurant",False
+Pilgrim Restaurant Nantes,"1 Pl. Graslin, 44000 Nantes, France",4.7,649,https://www.pilgrimrestaurant-nantes.com/,47.2131647,-1.561712,"establishment, food, point_of_interest, restaurant",False
+Bonbourg,"2 Place Ste Elisabeth, 44000 Nantes, France",4.8,549,https://www.bonbourgrestaurant.fr/,47.219214,-1.5619802,"establishment, food, point_of_interest, restaurant",False
+Le Lion et L'agneau,"40 Rue Fouré, 44000 Nantes, France",4.9,863,https://www.le-lion-et-lagneau.fr/,47.2116119,-1.5470049,"establishment, food, point_of_interest, restaurant",False
+La Mandale Restaurant,"32 Rue Léon Jamin, 44000 Nantes, France",4.8,518,https://lamandalerestaurant.com/,47.2194637,-1.5590165,"establishment, food, point_of_interest, restaurant",False
+SAIN,"93 Rue Maréchal Joffre, 44000 Nantes, France",4.9,1206,https://sain-nantes.com/,47.2199238,-1.5492551,"establishment, food, point_of_interest, restaurant",False
+Pickles,"2 Rue du Marais, 44000 Nantes, France",4.8,986,http://www.pickles-restaurant.com/,47.2181121,-1.5558443,"establishment, food, point_of_interest, restaurant",False
+L'Alsacien Nantes,"15 All. Commandant Charcot, 44000 Nantes, France",4.8,817,http://www.lalsacien.com/restaurant-alsacien-flammekueche-nantes/,47.2172452,-1.5453684,"bar, establishment, food, point_of_interest, restaurant",False
+Le Homard Fries,"16 Rue Saint-Léonard, 44000 Nantes, France",4.7,1019,https://nantes.lehomardfrites.com/,47.217406,-1.5554184,"establishment, food, point_of_interest, restaurant",False
+République - Restaurant Nantes,"7 Pl. de la République, 44200 Nantes, France",4.7,717,http://republiquecotejardin.com/,47.20488899999999,-1.5549923,"establishment, food, point_of_interest, restaurant",False
+Freia,"22 Bd de Berlin, 44000 Nantes, France",4.8,1299,https://www.freia-restaurant.com/,47.2167031,-1.536549,"establishment, food, point_of_interest, restaurant",False
+Melon,"6 Rue Copernic, 44000 Nantes, France",5.0,165,https://www.bistromelon.com/,47.2150258,-1.5647508,"establishment, food, point_of_interest, restaurant",False
+Balthazar,"6 Rue Santeuil, 44000 Nantes, France",4.7,779,http://www.balthazar.family/,47.2130701,-1.5601635,"establishment, food, point_of_interest, restaurant",False
+Le Cochon qui fume,"15 Rue de Strasbourg, 44000 Nantes, France",4.4,1756,https://foodcollect.fr/store/le-cochon-qui-fume/restaurant,47.2163415,-1.5516676,"bar, establishment, food, point_of_interest, restaurant",False
+RESTAURANT PANIER D’OR,"13 Rue Armand Brossard, 44000 Nantes, France",5.0,589,https://panierdor.fr/,47.2179838,-1.5564095,"establishment, food, point_of_interest, restaurant",False
+Restaurant Les Chauvins,"3 Rue du Faisan, 67000 Strasbourg, France",4.8,1190,https://www.restaurant-les-chauvins.fr/?utm_source=Google&utm_medium=My%20Business,48.5833917,7.7532083,"establishment, food, point_of_interest, restaurant",False
+Restaurant Le Kuhn,"15 Rue Kuhn, 67000 Strasbourg, France",4.6,2645,http://www.lekuhn.com/,48.5848711,7.737640300000001,"establishment, food, point_of_interest, restaurant",False
+Au Vieux Strasbourg,"5 Rue du Maroquin, 67000 Strasbourg, France",4.3,2887,http://vieuxstrasbourg.fr/,48.58054440000001,7.7507889,"establishment, food, point_of_interest, restaurant",False
+Le Tire-Bouchon,"5 Rue des Tailleurs de Pierre, 67000 Strasbourg, France",4.3,5441,https://www.letirebouchon.fr/,48.58059309999999,7.7506662,"establishment, food, point_of_interest, restaurant",False
+La Fignette,"5 Rue de la Vignette, 67000 Strasbourg, France",4.6,7454,https://lafignette.com/,48.5824612,7.7426774,"establishment, food, point_of_interest, restaurant",False
+Le Chapitre - Strasbourg,"95 Rue de Bâle, 67100 Strasbourg, France",4.9,1718,https://restaurantlechapitre.fr/,48.56726690000001,7.765401000000001,"establishment, food, point_of_interest, restaurant",False
+Le Banquet des Sophistes,"5 Rue d'Austerlitz, 67000 Strasbourg, France",4.8,2181,https://le-banquet.com/,48.5787779,7.7520478,"establishment, food, point_of_interest, restaurant",False
+La Cuiller à Pot,"18b Rue Finkwiller, 67000 Strasbourg, France",4.8,840,http://www.lacuillerapot.fr/,48.5787291,7.7425071,"establishment, food, point_of_interest, restaurant",False
+La Hache,"11 Rue de la Douane, 67000 Strasbourg, France",4.6,4516,https://www.la-hache.com/,48.5795016,7.749161200000001,"establishment, food, point_of_interest, restaurant",False
+La Corde à Linge,"2 Pl. Benjamin Zix, 67000 Strasbourg, France",4.2,8860,https://www.lacordealinge.com/,48.58119749999999,7.7426199,"bar, establishment, food, point_of_interest, restaurant",False
+L'Oignon,"4 Rue des Moulins, 67000 Strasbourg, France",4.7,2243,https://www.restaurantloignon.fr/,48.5814329,7.741426700000001,"establishment, food, point_of_interest, restaurant",False
+Le Bistrot Des Cocottes,"5 Rue du Saumon, 67000 Strasbourg, France",4.6,1088,http://www.lebistrotdescocottes.fr/,48.582199,7.746632999999999,"establishment, food, point_of_interest, restaurant",False
+Aux Armes de Strasbourg,"9 Pl. Gutenberg, 67000 Strasbourg, France",4.3,3339,http://auxarmesdestrasbourg.com/,48.58091570000001,7.7486527,"establishment, food, point_of_interest, restaurant",False
+Restaurant Gurtlerhoft,"13 Pl. de la Cathédrale, 67000 Strasbourg, France",4.4,4569,http://www.gurtlerhoft.fr/,48.5818765,7.749532500000001,"establishment, food, point_of_interest, restaurant",False
+La Petite Mairie - Restaurant traditionnel,"8 Rue Brûlée, 67000 Strasbourg, France",4.6,1466,,48.5845012,7.7513863,"establishment, food, point_of_interest, restaurant",True
+Blue Flamingo,"Presqu'île André-Malraux, 67000 Strasbourg, France",4.8,1472,http://www.blue-flamingo.fr/,48.5741577,7.7594714,"bar, establishment, food, point_of_interest, restaurant",False
+Les Chefs d’Oeuvre d'Alsace,"8 Grand'Rue, 67000 Strasbourg, France",4.6,1638,,48.58258439999999,7.739464799999999,"establishment, food, point_of_interest, restaurant",True
+Le Schnockeloch Restaurant Alsacien Strasbourg - Tarte flambée Flammekueche,"2 Rue du Faubourg-National, 67000 Strasbourg, France",4.4,3379,https://www.schnockeloch.com/,48.5827489,7.7381137,"establishment, food, point_of_interest, restaurant",False
+Restaurant Bar - Les Opportunistes - Strasbourg,"3 Rle de la Bruche, 67000 Strasbourg, France",4.9,483,https://lesopportunistes.fr/,48.5804048,7.7567872,"establishment, food, point_of_interest, restaurant",False
+Chez l’Oncle Freddy,"9 Rue des Moulins, 67000 Strasbourg, France",4.4,2947,http://www.chezlonclefreddy.com/,48.5801835,7.7424875,"establishment, food, point_of_interest, restaurant",False
+Le Bistrok Montpellier,"47 Rue de l'Aiguillerie, 34000 Montpellier, France",4.8,846,https://lebistrok.com/restaurant-montpellier/,43.61210150000001,3.8791063,"establishment, food, point_of_interest, restaurant",False
+Les Fils À Maman Montpellier,"12 Rue du Petit Saint-Jean, 34000 Montpellier, France",4.5,4143,https://www.lesfilsamaman.com/restaurants/montpellier/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website,43.60798870000001,3.8755395,"bar, establishment, food, meal_delivery, meal_takeaway, point_of_interest, restaurant",False
+M&lice,"216 Rue Elie Wiesel, 34000 Montpellier, France",4.7,4534,https://melice.fr/,43.599685,3.901824,"bar, cafe, establishment, food, meal_takeaway, point_of_interest, restaurant, store",False
+GOYA Montpellier Restaurant,"216 Rue Elie Wiesel, 34000 Montpellier, France",4.7,1382,http://goyarestaurant.com/,43.5992272,3.9014478,"establishment, food, point_of_interest, restaurant",False
+Casa Di Giorgio - Restaurant Italien à Montpellier,"10 Rue de la Loge, 34000 Montpellier, France",4.4,3643,https://groupe-tandem.fr/casa-di-giorgio-restaurantitalien-montpellier/,43.6096669,3.8776013,"establishment, food, point_of_interest, restaurant",False
+LE GURU,"36 Rue de l'Argenterie, 34000 Montpellier, France",4.7,696,,43.6081549,3.8773556,"establishment, food, point_of_interest, restaurant",True
+Restaurant Il Bar A Pizze - Montpellier,"290 Av. Théroigne de Méricourt, 34000 Montpellier, France",4.9,2094,https://ilbarapizze.fr/,43.5976059,3.899614699999999,"establishment, food, meal_takeaway, point_of_interest, restaurant",False
+"Restaurant Leclère, Cuisine d’arrivage.","8 Rue André Michel, 34000 Montpellier, France",4.9,784,http://www.restaurantleclere.com/,43.6067829,3.873926699999999,"establishment, food, point_of_interest, restaurant",False
+Bambino Rocco,"20 Rue de l'Aiguillerie, 34000 Montpellier, France",4.7,1804,https://bambinorocco.com/,43.6106565,3.877909,"bar, establishment, food, point_of_interest, restaurant",False
+Le Bourdon,"35 Rue Saint-Guilhem, 34000 Montpellier, France",4.6,624,https://restaurant-le-bourdon-montpellier.jimdosite.com/,43.6088937,3.8740388,"establishment, food, point_of_interest, restaurant",False
+Le 17.45 Montpellier - Planches à composer,"6 Pl. Pétrarque, 34000 Montpellier, France",4.9,585,https://www.le17-45.fr/,43.6106304,3.8783447,"establishment, food, point_of_interest, restaurant",False
+CÉNA - Restaurant gastronomique Montpellier,"2 Pl. Pétrarque, 34000 Montpellier, France",4.8,456,https://www.cena-montpellier.fr/fr/,43.6106723,3.8784814,"establishment, food, point_of_interest, restaurant",False
+Le Sheri's - Restaurant Français Montpellier,"59 Rue de l'Aiguillerie, 34000 Montpellier, France",4.7,384,https://www.le-sheris-restaurant-montpellier.fr/,43.61278129999999,3.8790929,"establishment, food, point_of_interest, restaurant",False
+Le Couperet,"3 Rue des Teissiers, 34000 Montpellier, France",4.5,931,https://www.le-couperet-smokehouse-restaurant.fr/,43.6087393,3.8752137,"bar, establishment, food, point_of_interest, restaurant",False
+Rosemarie,"3 Rue des Sœurs Noires, 34000 Montpellier, France",4.4,5472,https://rosemarie-restaurant.fr/,43.6092058,3.8757957,"establishment, food, point_of_interest, restaurant",False
+"ESENCIA, restaurant et cave à vins à Montpellier","11 Rue du Cheval Vert, 34000 Montpellier, France",4.9,251,https://www.esenciamontpellier.com/,43.6057559,3.8747374,"bar, establishment, food, liquor_store, point_of_interest, restaurant, store",False
+La Grange,"30 Rue Jean Jacques Rousseau, 34000 Montpellier, France",4.8,310,,43.612421,3.872994599999999,"establishment, food, point_of_interest, restaurant",True
+Maison Marguerite - Restaurant à Montpellier,"2 Imp. Périer, 34000 Montpellier, France",4.8,567,https://maisonmarguerite34.fr/,43.6105852,3.8761991,"establishment, food, point_of_interest, restaurant",False
+COMME UN DIMANCHE SOUS LE FIGUIER Grillades à la braise /Montpellier,"15 Rue du Petit Saint-Jean, 34000 Montpellier, France",4.6,1150,http://www.dimanchesouslefiguier.fr/,43.6082167,3.8754583,"establishment, food, point_of_interest, restaurant",False
+"MAMY, Restaurant & Bar","7 Pl. Chabaneau, 34000 Montpellier, France",4.9,282,https://www.mamymontpellier.fr/,43.6113973,3.8760801,"establishment, food, point_of_interest, restaurant",False
+Les Drôles BORDEAUX,"21 Rue Saint-Rémi, 33000 Bordeaux, France",4.7,2289,https://www.restaurantlesdroles.fr/,44.8414018,-0.5717426999999999,"establishment, food, point_of_interest, restaurant",False
+MAMA RESTAURANT BORDEAUX,"19 Rue Poquelin Molière, 33000 Bordeaux, France",4.7,1673,https://fr.mamashelter.com/bordeaux/restaurants?utm_source=google+Maps&utm_medium=seo+maps&utm_campaign=seo+maps,44.8399811,-0.5774148,"establishment, food, point_of_interest, restaurant",False
+Palatino,"8 Rue de la Merci, 33000 Bordeaux, France",4.9,25205,https://www.bigmammagroup.com/fr/restaurants-italiens/palatino?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website,44.8388996,-0.5735102,"establishment, food, meal_takeaway, point_of_interest, restaurant",False
+Les Fils à Maman Bordeaux,"19 rue Des Faussets, Pl. Saint-Pierre, 33000 Bordeaux, France",4.4,3350,https://www.lesfilsamaman.com/restaurants/bordeaux/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website,44.8402924,-0.5707148,"bar, establishment, food, meal_delivery, meal_takeaway, point_of_interest, restaurant",False
+French House,"7 Pl. Puy Paulin, 33000 Bordeaux, France",4.7,4183,http://french-house.com/,44.8413158,-0.5762136,"bar, cafe, establishment, food, point_of_interest, restaurant, store",False
+Tigermilk Bordeaux,"1 Rue des Lauriers, 33000 Bordeaux, France",4.8,5496,https://tigermilkrestaurants.com/fr/restaurants/bordeaux-bourse/,44.84106060000001,-0.5724243999999999,"establishment, food, point_of_interest, restaurant",False
+La Fine Bouche,"30 Rue du Hâ, 33000 Bordeaux, France",4.9,939,http://www.lafinebouche33.com/,44.8361154,-0.5769021999999999,"establishment, food, point_of_interest, restaurant",False
+Arcada,"13 Rue de la Rousselle, 33000 Bordeaux, France",4.8,1156,https://www.arcada-restaurant.fr/,44.8375214,-0.5691006,"establishment, food, point_of_interest, restaurant",False
+L'Escalette,"6 Rue de la Boétie, 33000 Bordeaux, France",4.8,559,http://www.lescalette.net/,44.839377,-0.5801141,"establishment, food, point_of_interest, restaurant",False
+Restaurant Influences,"36 Rue Saint-Sernin, 33000 Bordeaux, France",4.8,1168,http://www.restaurant-influences.com/,44.8406881,-0.5822909,"establishment, food, point_of_interest, restaurant",False
+Demeter,"9 Rue Ausone, 33000 Bordeaux, France",4.7,722,http://www.restaurantdemeter.com/,44.8383013,-0.5686540999999999,"establishment, food, point_of_interest, restaurant",False
+Restaurant LouLou.,"16 Rue de la Cr des Aides, 33000 Bordeaux, France",4.6,966,https://louloubordeaux.com/,44.8395708,-0.5699362,"establishment, food, point_of_interest, restaurant",False
+Blind,"12 Rue Castelnau d'Auros, 33000 Bordeaux, France",4.7,874,https://www.blindbordeaux.com/,44.8409752,-0.5817779,"establishment, food, point_of_interest, restaurant",False
+Le Vieux Chaudron,"31 Rue du Pas-Saint-Georges, 33000 Bordeaux, France",4.6,1298,https://www.le-vieux-chaudron.fr/,44.8392344,-0.5721286999999999,"establishment, food, point_of_interest, restaurant",False
+L'Autre Petit Bois,"12 Pl. du Parlement, 33000 Bordeaux, France",4.5,3121,https://www.instagram.com/lautrepetitbois/,44.8408548,-0.5723573,"establishment, food, point_of_interest, restaurant",False
+Ô p'tit Bahut,"10 Rue des Bahutiers, 33000 Bordeaux, France",4.8,661,https://www.optitbahut.fr/,44.8393163,-0.5705108999999999,"bar, establishment, food, point_of_interest, restaurant",False
+Restaurant Son',"14 Rue Paul Louis Lande, 33000 Bordeaux, France",4.9,1282,https://www.son-restaurant.fr/,44.8345709,-0.5753652,"establishment, food, point_of_interest, restaurant",False
+Melodie,"6 Rue des Faussets, 33000 Bordeaux, France",4.5,2661,https://restaurant-melodie.fr/,44.840631,-0.570333,"establishment, food, point_of_interest, restaurant",False
+Passage Secret Bordeaux Restaurant,"19 Cr de l'Intendance, 33000 Bordeaux, France",4.7,278,https://restaurant-passage-secret.com/,44.8422837,-0.5763429999999999,"establishment, food, point_of_interest, restaurant",False
+Zéphirine,"62 Rue Abbé de l'Épée, 33000 Bordeaux, France",4.9,646,http://www.zephirine.fr/,44.8419924,-0.5825625999999999,"establishment, food, point_of_interest, restaurant",False
+Estaminet La CH’TITE BRIGITTE,"10 Rue des Bouchers, 59800 Lille, France",4.7,6609,https://www.chtitebrigitte.com/,50.6384841,3.058173,"establishment, food, point_of_interest, restaurant",False
+Les Fils à Maman Lille,"41 Rue de Gand, 59000 Lille, France",4.5,5298,https://www.lesfilsamaman.com/restaurants/lille/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website,50.6425969,3.0664301,"bar, establishment, food, meal_delivery, meal_takeaway, point_of_interest, restaurant",False
+MAMA RESTAURANT LILLE,"97 Pl. Saint-Hubert, 59800 Lille, France",4.5,1959,https://fr.mamashelter.com/lille/restaurants/#booking-table?utm_source=google+Maps&utm_medium=seo+maps&utm_campaign=seo+maps,50.6385231,3.0716097,"establishment, food, point_of_interest, restaurant",False
+La Bellezza Lille,"126 Rue Esquermoise, 59800 Lille, France",4.8,26501,https://www.bigmammagroup.com/fr/restaurants-italiens/la-bellezza-lille?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website,50.63897559999999,3.058805,"establishment, food, meal_takeaway, point_of_interest, restaurant",False
+Restaurant Sébastopol,"1 Pl. Sébastopol, 59000 Lille, France",4.7,1061,http://www.restaurantsebastopol.com/,50.628867,3.059011,"establishment, food, point_of_interest, restaurant",False
+Le Barbier qui fume Vieux Lille,"69 Rue de la Monnaie, 59000 Lille, France",4.4,3563,http://www.lebarbierquifume.fr/,50.6413749,3.0620997,"establishment, food, point_of_interest, restaurant, store",False
+Estaminet Au Vieux De La Vieille,"2 Rue des Vieux Murs, 59800 Lille, France",4.5,7841,https://estaminetlille.fr/nos-estaminets/estaminet-au-vieux-de-la-vieille/,50.64089569999999,3.0613641,"cafe, establishment, food, point_of_interest, restaurant",False
+"Les Marmites Lilloises, Bistrot de Copains","6 Rue de Pas, 59800 Lille, France",4.7,1068,https://www.marmiteslilloises.com/,50.6371218,3.0617006,"establishment, food, point_of_interest, restaurant",False
+Les Compagnons de la Grappe,"26 Rue Lepelletier, 59800 Lille, France",4.5,5408,https://www.lescompagnonslille.com/,50.6385387,3.0628919,"establishment, food, point_of_interest, restaurant",False
+La Petite Table - Estaminet Vieux Lille,"59 Rue de la Monnaie, 59000 Lille, France",4.6,1132,https://www.lapetitetable-vieuxlille.com/,50.6411768,3.0623371,"bar, establishment, food, liquor_store, point_of_interest, restaurant, store",False
+Autour de Vous Lille,"81 Rue d'Angleterre, 59800 Lille, France",4.8,1409,https://www.autourdevouslille.fr/,50.6401052,3.0582049,"establishment, food, point_of_interest, restaurant",False
+Bloempot,"22 Rue des Bouchers, 59800 Lille, France",4.6,1739,http://www.bloempot.fr/,50.638032,3.0580775,"establishment, food, point_of_interest, restaurant",False
+La Petite Cour,"17 Rue du Cure Saint-Etienne, 59800 Lille, France",4.6,2294,http://www.lapetitecour-lille.fr/,50.6383699,3.062424,"establishment, food, point_of_interest, restaurant",False
+La Fleur de Lille,"19 Rue de Gand, 59800 Lille, France",4.5,1000,https://lafleurdelille-restaurant.fr/,50.641816,3.0656383,"establishment, food, point_of_interest, restaurant",False
+Come Prima Lille,"108 bis Bd de la Liberté, 59000 Lille, France",4.7,3565,https://www.comeprimalille.com/,50.629515,3.0654726,"bar, establishment, food, meal_delivery, meal_takeaway, point_of_interest, restaurant",False
+"Les Casseroles Lilloises, Bistrot de copains!","150 Rue Solférino, 59800 Lille, France",4.7,4144,https://www.casseroleslilloises.com/,50.63138540000001,3.054307,"establishment, food, point_of_interest, restaurant",False
+Brasserie Campion,"32 Rue Lepelletier, 59800 Lille, France",4.7,3579,https://lanouvellegarde.com/fr/brasserie-campion/,50.63868129999999,3.062533,"establishment, food, point_of_interest, restaurant",False
+Magmatic by Ephemera,"11 Parv. Saint-Maurice, 59000 Lille, France",4.9,10400,https://www.ephemera-group.com/magmatic-lille?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website,50.6362876,3.0674307,"bar, establishment, food, point_of_interest, restaurant",False
+Ô Cercle - Restaurant Lille,"79 Rue Jacquemars Giélée, 59800 Lille, France",4.8,664,https://ocerclebistrotmoderne.fr/fr,50.63404970000001,3.0547047,"bar, establishment, food, point_of_interest, restaurant",False
+Le Scoop - Restaurant Vieux Lille,"64 Rue Saint-André, 59800 Lille, France",4.7,1537,http://www.le-scoop-lille.fr/,50.6447023,3.0576714,"establishment, food, point_of_interest, restaurant",False
+Les Fils à Maman Rennes,"11 Rue du Champ Jacquet, 35000 Rennes, France",4.5,3221,https://www.lesfilsamaman.com/restaurants/rennes/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website,48.113077,-1.6803748,"bar, establishment, food, meal_delivery, meal_takeaway, point_of_interest, restaurant",False
+Chez Brume,"5 Rue de la Parcheminerie, 35000 Rennes, France",4.6,1051,https://www.chezbrume.fr/,48.1088569,-1.6805028,"establishment, food, point_of_interest, restaurant",False
+La Saint-Georges,"11 Rue du Chapitre, 35000 Rennes, France",4.7,2624,https://www.creperie-saintgeorges.fr/,48.1109871,-1.6824695,"establishment, food, point_of_interest, restaurant, store",False
+Bombance,"23 Rue de la Chalotais, 35000 Rennes, France",4.8,867,https://bombance-restaurant.fr/,48.1092138,-1.6823224,"bar, establishment, food, liquor_store, point_of_interest, restaurant, store",False
+Restaurant IMA,"20 Bd de la Tour d'Auvergne, 35000 Rennes, France",4.8,889,https://ima.restaurant/,48.1066645,-1.684675,"establishment, food, point_of_interest, restaurant",False
+Le Vasselot,"34 Rue Vasselot, 35000 Rennes, France",4.9,302,https://levasselotrennes.eatbu.com/?lang=fr,48.1085319,-1.676901,"establishment, food, point_of_interest, restaurant",False
+Le Bistrot Des Remparts,"16 Rue Nantaise bât A, 35000 Rennes, France",4.8,525,http://www.lebistrotdesremparts.bzh/,48.111831,-1.6852555,"establishment, food, point_of_interest, restaurant",False
+Fezi,"2 Rue des Carmes, 35000 Rennes, France",4.9,619,https://fezi-restaurant.fr/,48.1083538,-1.6762534,"establishment, food, point_of_interest, restaurant",False
+Le bocal,"6 Rue d'Argentré, 35000 Rennes, France",4.7,396,,48.1095712,-1.6812688,"establishment, food, point_of_interest, restaurant",True
+L'Ambassade de Rennes,"12 Rue de la Parcheminerie, 35000 Rennes, France",4.4,1566,https://restaurant-lambassade.fr/,48.10926320000001,-1.6808982,"bar, establishment, food, point_of_interest, restaurant",False
+Gueuleton - Rennes,"96 Rue de la Poterie, 35200 Rennes, France",4.7,1507,https://www.gueuleton.fr/,48.0935642,-1.6431658,"establishment, food, point_of_interest, restaurant",False
+LE PARIS-BREST - Restaurant,"Gare de, 35000 Rennes, France",4.6,1070,https://parisbrest.bzh/,48.10357279999999,-1.6718883,"establishment, food, point_of_interest, restaurant",False
+La Taverne,"2 Rue de l'Alma, 35000 Rennes, France",4.2,4970,https://www.lataverne-rennes.com/,48.1047331,-1.6777501,"establishment, food, point_of_interest, restaurant",False
+Le Grill,"35 Rue Poullain Duparc, 35000 Rennes, France",4.4,1912,http://www.legrill.fr/,48.1084976,-1.6827798,"establishment, food, point_of_interest, restaurant",False
+Estime,"15 Rue du Chapitre, 35000 Rennes, France",4.8,603,https://estime-restaurant.com/,48.11099429999999,-1.682779,"establishment, food, point_of_interest, restaurant",False
+La Chope,"3 Rue de la Chalotais, 35000 Rennes, France",4.4,1419,http://lachope.fr/,48.1092944,-1.6805608,"establishment, food, point_of_interest, restaurant",False
+La Réserve,"36-38 Rue de la Visitation, 35000 Rennes, France",4.5,839,http://restaurant-lareserve-rennes.fr/,48.1138888,-1.6781039,"establishment, food, point_of_interest, restaurant",False
+Kôlochô,"8 Rue Saint-Melaine, 35000 Rennes, France",4.8,1254,http://www.kolocho.fr/,48.11484429999999,-1.678542,"bakery, establishment, food, meal_takeaway, point_of_interest, restaurant, store",False
+Restaurant La Petite Ourse,"48 Bd de la Liberté, 35000 Rennes, France",4.9,330,http://restaurantlapetiteourse.com/,48.1083062,-1.6828361,"establishment, food, point_of_interest, restaurant",False
+Le 2 rue des Dames,"2 Rue des Dames, 35000 Rennes, France",4.8,623,http://www.le2ruedesdames.fr/,48.1106469,-1.6833444,"establishment, food, point_of_interest, restaurant",False
+L'Atelier Entrecôte et Volaille - Reims,"89 Pl. Drouet d'Erlon, 51100 Reims, France",4.8,4942,https://latelierev.com/fr/restaurants/reims,49.2567022,4.0258695,"establishment, food, point_of_interest, restaurant",False
+Le Tablier Reims,"30 Pl. Drouet d'Erlon, 51100 Reims, France",4.4,4465,https://www.nobigroupe.com/le-tablier-reims/,49.2549899,4.0276162,"bar, establishment, food, point_of_interest, restaurant",False
+L'Alambic,"63 bis Rue de Chativesle, 51100 Reims, France",4.7,1056,http://www.restaurant-lalambic.fr/,49.2546905,4.0229982,"establishment, food, point_of_interest, restaurant",False
+La Brigade - Restaurant Reims,"45 Pl. Drouet d'Erlon, 51100 Reims, France",4.7,1156,https://www.la-brigade.fr/,49.255403,4.026755,"bar, establishment, food, meal_delivery, meal_takeaway, point_of_interest, restaurant",False
+Au Cul de Poule Restaurant Reims - Bistronomie Reims,"46 Bd Carteret, 51100 Reims, France",4.5,1214,https://www.auculdepoule.com/?utm_source=gmb,49.2578028,4.047922199999999,"establishment, food, point_of_interest, restaurant",False
+"La table des sacres, Reims","6 Rue Gambetta, 51100 Reims, France",4.7,772,https://www.latabledessacres.fr/,49.2506564,4.035232,"establishment, food, point_of_interest, restaurant",False
+Restaurant Gabrielle Toit Terrasse,"11 Rue des Fuseliers, 51100 Reims, France",4.6,2202,http://www.restaurant-gabrielle-reims.fr/,49.25273259999999,4.0328853,"bar, establishment, food, liquor_store, point_of_interest, restaurant, store",False
+Le Millénaire,"4-6 Rue Bertin, 51100 Reims, France",4.7,1330,https://www.lemillenaire.com/,49.2561111,4.0341667,"establishment, food, point_of_interest, restaurant",False
+BASTA ! RISTORANTE E BAR,"30 Rue de Mars, 51100 Reims, France",4.8,1492,https://www.basta-reims.fr/,49.2592789,4.031801199999999,"bar, establishment, food, point_of_interest, restaurant",False
+Restaurant La Fontaine,"131 Rue du Barbâtre, 51100 Reims, France",4.9,445,https://www.instagram.com/restaurantlafontainereims/,49.2476586,4.0413667,"cafe, establishment, food, point_of_interest, restaurant",False
+NONNA Restaurant Italien Reims,"Parvis de la Cathèdrale, 11 Rue des Fuseliers, 51100 Reims, France",4.6,1228,https://www.nonnareims.fr/,49.2527351,4.032882799999999,"establishment, food, point_of_interest, restaurant",False
+Le Petit Basque,"13 Rue du Colonel Fabien, 51100 Reims, France",4.8,2011,https://www.le-petit-basque.fr/,49.2496683,4.0185814,"establishment, food, point_of_interest, restaurant",False
+Le Paradis du Fruit - Reims,"71 Pl. Drouet d'Erlon, 51100 Reims, France",4.5,2645,https://restaurants.leparadisdufruit.fr/reims/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website,49.25611809999999,4.0262613,"establishment, food, point_of_interest, restaurant",False
+Restaurant Chez Nous,"32 Av. d'Épernay, 51100 Reims, France",4.7,822,http://chez-nous-restaurant-reims.eatbu.com/,49.24670099999999,4.0122554,"establishment, food, point_of_interest, restaurant",False
+ARBANE,"7 Rue Noël, 51100 Reims, France",4.9,1237,http://www.arbane-philippe-mille.com/,49.257465,4.0272534,"establishment, food, point_of_interest, restaurant",False
+Ö double A,"32 Pl. du Forum, 51100 Reims, France",4.8,210,,49.2571257,4.0345522,"establishment, food, point_of_interest, restaurant",True
+L’ Agape - Restaurant Bistronomique,"2 Rue Tronsson Ducoudray, 51100 Reims, France",4.6,784,http://www.restaurantlatelierreims.com/,49.25405259999999,4.0312636,"establishment, food, point_of_interest, restaurant",False
+L'Apostrophe,"59 Pl. Drouet d'Erlon, 51100 Reims, France",4.2,4913,https://www.lapostrophe-reims.com/,49.2557409,4.0265767,"bar, establishment, food, night_club, point_of_interest, restaurant",False
+Restaurant Lexperience Reims,"83 Pl. Drouet d'Erlon, 51100 Reims, France",4.5,2330,https://www.lexperience-reims.fr/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website,49.2564836,4.0259297,"bar, establishment, food, meal_takeaway, point_of_interest, restaurant",False
+Le Coq Rouge Reims,"67 Rue Chanzy, 51100 Reims, France",4.7,514,https://www.le-coq-rouge.fr/,49.2515787,4.0337969,"establishment, food, liquor_store, point_of_interest, restaurant, store",False
+Le Bouche A Oreille,"19 Rue Paul Doumer, 76600 Le Havre, France",4.8,832,https://m.facebook.com/people/Le-Bouche-%C3%80-Oreille-LBAO/100086088245014/,49.4926615,0.101055,"establishment, food, point_of_interest, restaurant",False
+Taverne Paillette,"22 Rue Georges Braque, 76600 Le Havre, France",4.5,4030,https://www.taverne-paillette.com/,49.4953858,0.1031715,"establishment, food, point_of_interest, restaurant",False
+La Voile Bleue,"58 Rue des Sauveteurs, 76600 Le Havre, France",4.5,1002,https://www.instagram.com/lavoilebleuelh/,49.4918603,0.0973407,"establishment, food, point_of_interest, restaurant",False
+Le Grand Quai,"25 Quai de Southampton, 76600 Le Havre, France",4.5,1579,http://www.augrandquai.fr/,49.485994,0.1083894,"bar, cafe, establishment, food, point_of_interest, restaurant",False
+A l'Ardoise,"85 Quai de Southampton, 76600 Le Havre, France",4.7,493,http://lardoise-lehavre.fr/,49.4865553,0.1105671,"establishment, food, point_of_interest, restaurant",False
+L'Anecdote,"5 Rue Saint-Louis, 76600 Le Havre, France",4.7,1045,https://www.restaurantlanecdote.fr/,49.4894287,0.1118675,"establishment, food, point_of_interest, restaurant",False
+La Bise Le Havre,"1 Rue Maurice Taconet, 76310 Sainte-Adresse, France",4.5,882,https://labise.cool/,49.50350479999999,0.0820726,"establishment, food, point_of_interest, restaurant",False
+Le Bistrot des Grands Bassins,"23 Bd Amiral Mouchez, 76600 Le Havre, France",4.5,995,https://www.lebistrotdesgrandsbassins.fr/,49.4844162,0.1315531,"establishment, food, point_of_interest, restaurant",False
+Bistrot Normand,"44 Rue Georges Braque, 76600 Le Havre, France",4.7,206,https://bistrot-normand-le-havre.com/,49.4953824,0.1022436,"bar, establishment, food, point_of_interest, restaurant",False
+Restaurant Les Enfants Sages,"20 Rue Gustave Lennier, 76600 Le Havre, France",4.3,3443,https://restaurant-lesenfantssages.com/,49.4889361,0.1083676,"establishment, food, point_of_interest, restaurant",False
+A Deux Pas d'Ici,"69 Rue Dauphine, 76600 Le Havre, France",4.7,940,http://adeuxpasdici.fr/,49.4882778,0.1136306,"establishment, food, point_of_interest, restaurant",False
+P'tit Bouillon - LH,"11 Quai de l'Île, 76600 Le Havre, France",4.7,214,https://www.o-ptit-bouillon.fr/,49.48706259999999,0.1132077,"establishment, food, point_of_interest, restaurant",False
+Restaurant Le Pure,"93 Quai de Southampton, 76600 Le Havre, France",4.6,630,http://restaurant-lepure-lehavre.com/,49.4866436,0.1107223,"establishment, food, point_of_interest, restaurant",False
+Bistrot Canaille,"32 Rue du Général Faidherbe, 76600 Le Havre, France",4.4,799,https://www.bistrot-canaille.com/,49.4874181,0.1128489,"establishment, food, point_of_interest, restaurant",False
+Bistrot Parisien,"39 Pl. de l'Hôtel de ville, 76600 Le Havre, France",4.3,3762,http://www.lebistrotparisienlh.com/,49.4928287,0.1061642,"bar, establishment, food, point_of_interest, restaurant",False
+Bouchon Normand,"77 Rue Louis Brindeau, 76600 Le Havre, France",4.3,1437,https://bouchonnormand.fr/,49.4912532,0.1042609,"establishment, food, point_of_interest, restaurant",False
+L'Imprévu,"29 Pl. des Halles Centrales, 76600 Le Havre, France",4.6,277,https://www.facebook.com/limprevulh/,49.4908454,0.1038585,"establishment, food, point_of_interest, restaurant",False
+Le Diplodocus,"Le, 21 Rue Maréchal Gallieni, 76600 Le Havre, France",4.6,515,http://www.lediplodocus-restaurant-havre.fr/,49.4942901,0.113771,"establishment, food, point_of_interest, restaurant",False
+Le Grand Large - Restaurant vue mer au Havre | Cuisine raffinée Terre & Mer,"11 Place Clemenceau, 76310 Sainte-Adresse, France",4.3,844,https://www.legrandlarge76.fr/,49.5025089,0.08561800000000001,"establishment, food, point_of_interest, restaurant",False
+Le Garde-Manger,"40 Rue de l'Alma, 76600 Le Havre, France",4.6,464,,49.496009,0.098689,"establishment, food, point_of_interest, restaurant",True
+La Cocotte Stéphanoise,"2 Rue Ferrer, 42000 Saint-Étienne, France",4.6,2478,https://saintetienne.sevensquares.fr/brasserie-saint-etienne-la-cocotte-stephanoise/,45.447465,4.41974,"establishment, food, point_of_interest, restaurant",False
+La Bouche Pleine,"21 Pl. Chavanelle, 42000 Saint-Étienne, France",4.7,794,,45.4350713,4.3933719,"establishment, food, point_of_interest, restaurant",True
+A La Table des Lys,"58 Rue Saint-Simon, 42000 Saint-Étienne, France",4.8,2028,https://www.latabledeslys.fr/,45.4549891,4.3688254,"establishment, food, point_of_interest, restaurant",False
+Restaurant Un Eléphant dans Un Jeu de Quilles,"16 Rue Léon Nautin, 42000 Saint-Étienne, France",4.6,766,http://www.restaurant-un-elephant-dans-un-jeu-de-quilles.fr/,45.4347904,4.3912116,"establishment, food, point_of_interest, restaurant",False
+Chez Les Fondus Saint Étienne,"4 Rue Sainte-Catherine, 42000 Saint-Étienne, France",4.6,949,http://www.chezlesfondus.com/,45.4371108,4.3872379,"bar, establishment, food, point_of_interest, restaurant",False
+La Java Bleue Saint Etienne,"2 Cr Fauriel, 42100 Saint-Étienne, France",4.5,1386,http://www.restaurant-lajavableue.fr/,45.43154579999999,4.394892899999999,"establishment, food, point_of_interest, restaurant",False
+Le Dolce Rosa | Restaurant | Brunch | Dessert | Saint-Étienne,"5 Rue Dormoy, 42000 Saint-Étienne, France",4.7,343,http://www.ledolcerosa.fr/,45.4422453,4.3849246,"establishment, food, point_of_interest, restaurant",False
+Le Barboton,"5 Rue François Albert, 42000 Saint-Étienne, France",4.5,427,https://www.facebook.com/lebarboton/?locale=fr_FR,45.4467224,4.398119800000001,"establishment, food, point_of_interest, restaurant",False
+la loco,"29 Av. Denfert Rochereau, 42000 Saint-Étienne, France",4.4,535,http://www.restaurant-la-loco.com/,45.4422466,4.398582,"establishment, food, point_of_interest, restaurant",False
+Le Canopy restaurant,"27 Rue Léon Nautin, 42000 Saint-Étienne, France",4.3,498,http://canopy-saint-etienne.fr/,45.4350224,4.3911356,"establishment, food, point_of_interest, restaurant",False
+El Inca,"21 Rue Louis Braille, 42000 Saint-Étienne, France",4.9,268,https://el-inca.fr/,45.4401638,4.3887543,"establishment, food, point_of_interest, restaurant",False
+Café de la Grande Poste,"10 Av. de la Libération, 42000 Saint-Étienne, France",4.9,130,https://grandeposte.fr/,45.4370982,4.392053499999999,"establishment, food, point_of_interest, restaurant",False
+La Table des Matrus,"26 Rue du Grand-Gonnet, 42000 Saint-Étienne, France",4.5,274,https://www.la-table-des-matrus.dousto.com/,45.4430308,4.383176,"establishment, food, point_of_interest, restaurant",False
+L'hédoniste,"5 Pl. Grenette, 42000 Saint-Étienne, France",4.8,279,https://www.restaurant-lhedoniste.fr/,45.4358219,4.3868162,"establishment, food, point_of_interest, restaurant",False
+L’Aile ou la Cuisse | Restaurant Place Jean Jaurès St-Etienne,"15 Pl. Jean Jaurès, 42000 Saint-Étienne, France",4.7,594,,45.4419106,4.3855905,"establishment, food, point_of_interest, restaurant",True
+Corne d'Aurochs,"18 Rue Michel Servet, 42000 Saint-Étienne, France",4.8,461,http://cornedaurochs.eatbu.com/,45.440343,4.390345,"establishment, food, point_of_interest, restaurant",False
+Les Perles d'Ivoire,"26 Rue Brossard, 42000 Saint-Étienne, France",5.0,34,https://lesperlesdivoire.fr/,45.4391603,4.3896923,"establishment, food, point_of_interest, restaurant",False
+Au Bureau - Pub et Brasserie,"5 Esp. de France, 42000 Saint-Étienne, France",4.6,2694,https://www.aubureau.fr/restaurant-brasserie/au-bureau-saint-etienne?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website,45.44233490000001,4.400026,"bar, establishment, food, point_of_interest, restaurant",False
+L'Escargot d'Or,"5 Cr Victor Hugo, 42000 Saint-Étienne, France",4.3,1681,https://lescargotdor.fr/,45.433999,4.388065399999999,"bar, establishment, food, point_of_interest, restaurant",False
+Brasserie Geoffroy Guichard,"Dans le stade Geoffroy Guichard, 14 Rue Paul et Pierre Guichard, 42000 Saint-Étienne, France",4.6,1123,https://bgg.rest/,45.4600869,4.389183,"establishment, food, point_of_interest, restaurant",False
+Restaurant Le Saint Gabriel,"334 Av. de la République, 83000 Toulon, France",4.6,1028,https://www.restaurantsaintgabriel.fr/,43.11984349999999,5.932671399999999,"establishment, food, point_of_interest, restaurant",False
+Le Rock Toulon,"465 Littoral Frédéric Mistral, 83000 Toulon, France",4.7,1949,https://www.restaurant-lerock.fr/,43.1083617,5.9404382,"establishment, food, point_of_interest, restaurant",False
+L'Équerre Restaurant Toulon,"Pl. de l'Equerre, 83000 Toulon, France",4.6,559,https://www.leautel-toulon.com/fr/hotel-4-etoiles-toulon,43.1223597,5.9294753,"establishment, food, point_of_interest, restaurant",False
+Le Bistrok Toulon,"19 Rue Picot, 83000 Toulon, France",4.7,621,http://www.lebistrok.com/,43.12543369999999,5.932430600000001,"establishment, food, point_of_interest, restaurant",False
+Les Tables de la Fontaine,"Pl. Gustave Lambert, 83000 Toulon, France",4.7,674,https://www.lestablesdelafontainetoulon.fr/,43.1215122,5.9318129,"establishment, food, point_of_interest, restaurant",False
+Le Pastel - Restaurant Toulon,"20, rue Victor Micholet, Sq. Léon Vérane, 83000 Toulon, France",4.9,446,https://www.restaurantlepastel.fr/,43.1213348,5.9304406,"establishment, food, point_of_interest, restaurant",False
+PETIT SUD,"Littoral Frédéric Mistral, Anse, Plages du Mourillon, 83000 Toulon, France",4.4,1912,https://petitsud.fr/,43.1068527,5.943152,"establishment, food, point_of_interest, restaurant",False
+Sappia,"3 Bd Eugène Pelletan, 83000 Toulon, France",4.9,267,https://www.sappia-restaurant.fr/,43.1118095,5.9356253,"establishment, food, point_of_interest, restaurant",False
+Brasserie La Tortue Port de Toulon,"71 Quai de la Sinse, 83000 Toulon, France",4.6,605,https://brasserielatortue.com/,43.1187962,5.9343268,"bar, establishment, food, point_of_interest, restaurant",False
+Casa Mia,"45 Quai Cronstadt, 83000 Toulon, France",4.8,475,,43.121037,5.930217,"establishment, food, point_of_interest, restaurant",True
+Terre Et Mer,"128 Av. de la République, 83000 Toulon, France",4.4,1356,https://m.facebook.com/terreetmer83/,43.1209693,5.930445199999999,"establishment, food, point_of_interest, restaurant",False
+Dakota,"37 Rue Castillon, 83000 Toulon, France",4.8,1723,https://www.dakota-mourillon.fr/,43.1103136,5.9401077,"bar, establishment, food, night_club, point_of_interest, restaurant",False
+Canova,"19 Rue Richard Andrieu, 83000 Toulon, France",4.9,938,https://www.instagram.com/canova_toulon/,43.1227531,5.9321918,"establishment, food, point_of_interest, restaurant",False
+Côté terrasses toulon,"13 Rue Richard Andrieu, 83000 Toulon, France",4.8,226,https://www.instagram.com/restaurant_cote_terrasses/,43.1229027,5.932292299999999,"establishment, food, point_of_interest, restaurant",False
+Hôi An,"2 Rue Corneille, 83000 Toulon, France",4.8,529,https://hoian.eatbu.com/?lang=fr,43.124309,5.9328445,"establishment, food, point_of_interest, restaurant",False
+Saucé,"5 Rue Larmodieu, 83000 Toulon, France",4.6,433,http://www.restosauce.fr/,43.1239063,5.9311366,"establishment, food, point_of_interest, restaurant",False
+AOC 41,"41 Rue Pascal, 83000 Toulon, France",4.9,609,https://www.aoc41-restaurant.fr/,43.1124372,5.9401215,"establishment, food, point_of_interest, restaurant",False
+Chez le palestinien restaurant,"223 Rue Jean Jaurès, 83000 Toulon, France",4.9,109,,43.1244701,5.9290889,"establishment, food, point_of_interest, restaurant",True
+Racines - Cuisine de Producteurs,"9 Rue Corneille, 83000 Toulon, France",4.8,304,https://www.racines-restaurant-toulon.com/,43.124082,5.9331473,"establishment, food, point_of_interest, restaurant",False
+Restaurant Ma'a Tahiti,"41 Rue du Mûrier, 83000 Toulon, France",4.7,1361,https://www.maatahiti.fr/,43.119663,5.934589,"establishment, food, point_of_interest, restaurant",False
+Restaurant L'Ardoise,"2 Rue de Miribel, 38000 Grenoble, France",4.6,1809,http://www.lardoisegrenoble.fr/,45.190434,5.7254032,"bar, establishment, food, point_of_interest, restaurant",False
+Restaurant La Belle idée,"7 Cr Jean Jaurès, 38000 Grenoble, France",4.6,1856,http://www.labelleidee-grenoble.fr/,45.19077859999999,5.7202701,"establishment, food, point_of_interest, restaurant",False
+"L'Ardoise ""GOURMANDE"" (Quartier rue de Strasbourg)!!!","20 Rue de Strasbourg, 38000 Grenoble, France",4.8,312,http://www.lardoise-gourmande.fr/,45.1866525,5.731325500000001,"establishment, food, point_of_interest, restaurant",False
+Restaurant Tchoutchoura,"16 Rue Gabriel Péri, 38000 Grenoble, France",4.9,1041,https://www.restaurant-tchoutchoura.fr/,45.188623,5.718046200000001,"establishment, food, point_of_interest, restaurant",False
+Restaurant Le Seven – Cuisine maison & Ambiance bohème | Grenoble,"2 Bd de l'Esplanade, 38000 Grenoble, France",4.6,924,https://leseven-grenoble.fr/,45.1944539,5.718824,"establishment, food, point_of_interest, restaurant",False
+Le 17.45 Grenoble - Restaurant de Planches à composer,"14 bis Av. Alsace Lorraine, 38000 Grenoble, France",4.8,1497,https://www.le17-45.fr/reservations?resto=grenoble,45.1893888,5.721180299999999,"bar, establishment, food, point_of_interest, restaurant",False
+Restaurant Le Gratin Dauphinois,"52 Av. Félix Viallet, 38000 Grenoble, France",4.6,966,http://www.jaimelegratindauphinois.com/,45.19058099999999,5.716470999999999,"establishment, food, point_of_interest, restaurant",False
+Le Bistrot des 3 Amis,"3 Pl. de Gordes, 38000 Grenoble, France",4.7,233,,45.192302,5.727788299999999,"establishment, food, point_of_interest, restaurant",True
+Et Si,"16 Rue de Strasbourg, 38000 Grenoble, France",4.7,559,https://etsigrenoble.com/,45.1868028,5.7310395,"establishment, food, point_of_interest, restaurant",False
+Restaurant L'Inattendu,"52 Av. Félix Viallet, 38000 Grenoble, France",4.7,755,http://restaurant-linattendu.fr/,45.1906433,5.7166804,"establishment, food, point_of_interest, restaurant",False
+Restaurant La Table des Bro's Grenoble,"15 bis Rue Lakanal, 38000 Grenoble, France",4.3,955,https://latabledesbros.fr/,45.18583520000001,5.722873,"bar, establishment, food, point_of_interest, restaurant",False
+Le DauphinoiX,"11 Rue Bayard, 38000 Grenoble, France",4.7,635,https://www.facebook.com/Le-Dauphinoix-Grenoble-108903497632352,45.1914747,5.732339,"establishment, food, point_of_interest, restaurant",False
+La Ferme à Dédé Grenoble - Centre,"24 Rue Barnave, 38000 Grenoble, France",4.3,3624,http://www.restaurantlafermeadede.com/,45.1927031,5.7299371,"establishment, food, point_of_interest, restaurant",False
+Restaurant Une Semaine sur Deux,"4 Pl. Championnet, 38000 Grenoble, France",4.5,1306,https://www.facebook.com/1sur2grenoble,45.1856705,5.7224217,"establishment, food, point_of_interest, restaurant",False
+LULU,"11 Rue de la Poste, 38000 Grenoble, France",4.7,136,https://www.lulugrenoble.fr/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=18122664879013487271,45.1893973,5.727626,"establishment, food, point_of_interest, restaurant",False
+Restaurant L'Envie des Mets,"7 Rue Genissieu, 38000 Grenoble, France",4.7,323,https://www.facebook.com/Lenvie-des-mets-1566980680180106/?ref=br_rs,45.1865028,5.722368100000001,"establishment, food, point_of_interest, restaurant",False
+Restaurant L'Amélyss,"3 Bd Gambetta, 38000 Grenoble, France",4.8,431,http://sites.google.com/view/restaurant-l-amelyss,45.1915619,5.721220499999999,"establishment, food, point_of_interest, restaurant",False
+Restaurant L'Inspiration,"1 Rue Saint-Joseph, 38000 Grenoble, France",4.9,501,http://linspiration-grenoble.fr/,45.1872207,5.7286797,"establishment, food, point_of_interest, restaurant",False
+Restaurant La Table de Gordes,"4 Pl. de Gordes, 38000 Grenoble, France",4.6,572,http://www.latabledegordes.fr/,45.19207,5.727700599999999,"bar, establishment, food, point_of_interest, restaurant",False
+Restaurant Le Côte,"15 Rue Paul Janet, 38100 Grenoble, France",4.6,955,https://www.restaurant-le-cote-grenoble.fr/,45.1812907,5.7297024,"establishment, food, point_of_interest, restaurant",False
+Mamie Fada,"18 Quai des Carmes, 49100 Angers, France",4.7,9545,https://www.mamiefada.com/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website,47.4726732,-0.5609695,"bar, establishment, food, point_of_interest, restaurant",False
+Les Fils à Maman Angers,"Pl. du Pilori, 49100 Angers, France",4.5,4404,https://www.lesfilsamaman.com/restaurants/angers/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website,47.4733116,-0.549882,"bar, establishment, food, meal_delivery, meal_takeaway, point_of_interest, restaurant",False
+La Réserve Angers,"Bd Henri Arnauld 5ème étage - Par l'ascenseur, 49100 Angers, France",4.5,3359,http://www.lareserveangers.fr/,47.4724819,-0.5643809,"bar, establishment, food, point_of_interest, restaurant",False
+Bistrot des Ducs,"6 Rue des 2 Haies, 49100 Angers, France",4.8,2876,http://www.bistrotdesducs.fr/,47.47172519999999,-0.5530299000000001,"establishment, food, point_of_interest, restaurant",False
+La Cour - Angers,"23 Rue de la Roë, 49100 Angers, France",4.6,2883,http://www.lacour-angers.com/,47.472899,-0.5532747,"bakery, bar, cafe, establishment, food, point_of_interest, restaurant, store",False
+Les Petits Prés,"6 Pl. du Ralliement, 49100 Angers, France",4.4,2052,https://www.lespetitspres.fr/,47.4710625,-0.5525137,"establishment, food, point_of_interest, restaurant",False
+Belle Rive,"32 Prom. de Reculée, 49000 Angers, France",4.8,1532,https://www.restaurant-bellerive.com/,47.48719999999999,-0.5501157,"establishment, food, point_of_interest, restaurant",False
+La Maison,"20 Quai des Carmes, 49100 Angers, France",4.6,1229,https://lamaisonangers.com/,47.4725568,-0.5611682,"establishment, food, point_of_interest, restaurant",False
+Maison Paganelli Angers,"5 Rue des 2 Haies, 49100 Angers, France",4.8,725,https://maisonpaganelli.com/,47.47190459999999,-0.5528651,"establishment, food, point_of_interest, restaurant",False
+La Brigade - Restaurant Angers,"5 Pl. Mondain Chanlouineau, 49100 Angers, France",4.7,224,https://www.la-brigade.fr/,47.4713758,-0.5540587,"bar, establishment, food, meal_delivery, meal_takeaway, point_of_interest, restaurant",False
+Le Pas Sage,"44 Rue Saint-Laud 00, 49100 Angers, France",4.7,593,https://lepas-sagebar.fr/,47.4718495,-0.5536035,"bar, establishment, food, point_of_interest, restaurant",False
+Le Mail - Restaurant Angers,"2 Av. du 11 Novembre 1918, 49100 Angers, France",4.5,1928,https://restaurant-lemail.fr/,47.470766,-0.545153,"bar, cafe, establishment, food, point_of_interest, restaurant, store",False
+Wonderwoods by Ephemera - Angers,"Ecoparc du buisson, 49073 Beaucouzé, France",4.8,10836,https://www.ephemera-group.com/wonderwoods-angers?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website,47.4853625,-0.6246986,"bar, establishment, food, point_of_interest, restaurant",False
+Chez Pont-Pont,"13 Prom. du Bout du Monde, 49100 Angers, France",4.5,5029,https://chezpontpont.com/,47.4701729,-0.5580428,"establishment, food, point_of_interest, restaurant",False
+La table de Clément Paillard,"5 Rue Saint-Christophe, 49100 Angers, France",5.0,147,https://clementpaillard.fr/,47.4710638,-0.5560215,"establishment, food, point_of_interest, restaurant",False
+DAZUMA,"44 Rue Beaurepaire, 49100 Angers, France",4.8,1152,http://dazuma.fr/,47.4747412,-0.5606074999999999,"establishment, food, point_of_interest, restaurant",False
+La Chouette,"Au Rez-de-Chaussée, 9 Pl. du Ralliement, 49100 Angers, France",4.1,958,https://lachouette-angers.com/,47.471227,-0.5510336,"establishment, food, point_of_interest, restaurant",False
+Brasserie de la Gare,"Pl. de la Gare, 49100 Angers, France",4.6,1613,http://brasseriedelagare.barmade.fr/-t1,47.4655067,-0.5565835,"establishment, food, point_of_interest, restaurant",False
+Restaurant DADDY - Bistronomie & Pâtes Flambées – Angers,"22 Rue de la Parcheminerie, 49100 Angers, France",4.7,546,https://www.daddyrestaurant.fr/,47.4736692,-0.5532133000000001,"establishment, food, point_of_interest, restaurant",False
+GUEULETON ANGERS,"14 Rue de la Roë, 49100 Angers, France",4.7,1259,https://www.gueuleton.fr/gueuleton-angers/,47.4733171,-0.5539791,"bar, establishment, food, point_of_interest, restaurant",False
+The Bird,"2 Rue Tedenat, 30000 Nîmes, France",4.8,981,https://www.facebook.com/thebirdnimes/?locale=fr_FR,43.8361326,4.3563323,"establishment, food, point_of_interest, restaurant",False
+Le Dé-K-Lé Bistrot Gourmand,"40 Rue de la Madeleine, 30000 Nîmes, France",4.5,2105,,43.8372093,4.3570042,"establishment, food, point_of_interest, restaurant",True
+La Table d'Assas,"Pl. d'Assas, 30900 Nîmes, France",4.7,303,https://www.tripadvisor.fr/Restaurant_Review-g187154-d26906298-Reviews-La_Table_D_assas-Nimes_Gard_Occitanie.html,43.8388655,4.3543907,"establishment, food, point_of_interest, restaurant",False
+Restaurant Vincent Croizard,"17 Rue des Chassaintes, 30900 Nîmes, France",4.8,803,http://www.restaurantcroizard.com/,43.8371542,4.353054699999999,"establishment, food, point_of_interest, restaurant",False
+Le Questel,"4 Pl. Questel, 30900 Nîmes, France",4.7,893,http://www.lequestel.fr/,43.8373317,4.3552906,"bar, cafe, establishment, food, point_of_interest, restaurant",False
+L’Accent Bistrot chic,"2 Bd Gambetta, 30000 Nîmes, France",5.0,424,http://www.restaurant-laccent.com/,43.8399949,4.3569184,"establishment, food, point_of_interest, restaurant",False
+La Table,"5 Rue de Sauve, 30900 Nîmes, France",4.7,422,https://m.facebook.com/LaTableNimes/?ref=bookmarks,43.8377112,4.349275899999999,"establishment, food, point_of_interest, restaurant",False
+Le Bistrot de Tatie Agnès,"16 Rue de la Maison Carrée, 30000 Nîmes, France",4.7,928,,43.837755,4.3565431,"establishment, food, point_of_interest, restaurant",True
+La Locanda Comptoir italien,"12 Rue de la Maison Carrée, 30000 Nîmes, France",4.6,1861,http://www.lalocandafamily.com/,43.8376302,4.3565569,"establishment, food, meal_takeaway, point_of_interest, restaurant",False
+Restaurant Skab,"7 Rue de la République, 30000 Nîmes, France",4.7,721,http://www.restaurant-skab.fr/,43.8330421,4.3595499,"establishment, food, point_of_interest, restaurant",False
+L'ATYPIQUE,"27 Rue de la Madeleine, 30000 Nîmes, France",4.6,705,https://www.latypiquerestaurant.fr/,43.8373166,4.3575366,"establishment, food, point_of_interest, restaurant",False
+Restaurant Mésopota'Nîmes,"87 Bis Rue de la République, 30900 Nîmes, France",4.9,687,https://mesopotanimes.com/,43.8272036,4.3540765,"establishment, food, point_of_interest, restaurant",False
+Pinocchio,"29 Rue de la Madeleine, 30000 Nîmes, France",4.5,2032,https://pinocchio-restaurant.fr/,43.8372954,4.3573415,"establishment, food, meal_takeaway, point_of_interest, restaurant",False
+GAMEL Restaurant,"8 Rue Xavier Sigalon, 30000 Nîmes, France",4.9,268,http://gamelrestaurant.fr/,43.8391045,4.3615128,"establishment, food, point_of_interest, restaurant",False
+ROUGE Nîmes,"6 Rue Fresque, 30000 Nîmes, France",4.5,394,https://www.margaret-hotelchouleur.com/restaurants/restaurant-nimes/,43.836954,4.358032,"bar, establishment, food, point_of_interest, restaurant",False
+Barancini | Restaurant Nimes | Restaurant Italien Nimes,"2 Pl. Bellecroix, 30000 Nîmes, France",4.8,180,https://www.barancini-restaurant-italien-nimes.fr/,43.8385293,4.3614107,"establishment, food, point_of_interest, restaurant",False
+MENNA - Restaurant Nîmes,"7 Rue de Bernis, 30000 Nîmes, France",4.8,360,https://www.restaurant-menna.fr/,43.8369075,4.358279599999999,"establishment, food, point_of_interest, restaurant",False
+HÈITA,"27 Rue de l'Étoile, 30000 Nîmes, France",4.9,399,https://www.heita.fr/,43.83620639999999,4.358469299999999,"establishment, food, point_of_interest, restaurant",False
+L'Esclafidou 'La Table du Cap',"7 Rue Xavier Sigalon, 30000 Nîmes, France",4.6,557,https://www.lesclafidou-restaurant-nimes.fr/,43.83916670000001,4.3613889,"establishment, food, point_of_interest, restaurant",False
+IL RISTORANTE - le restaurant italien de Nîmes,"155 Rue Paul Laurent, 30900 Nîmes, France",4.3,5668,https://www.ilristorante.fr/il-ristorante-le-restaurant-italien-de-nimes/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website,43.80870669999999,4.3656348,"bar, establishment, food, grocery_or_supermarket, meal_takeaway, point_of_interest, restaurant, store",False
+LA BASCULE,"7 Pl. Charles Hernu, 69100 Villeurbanne, France",4.9,643,https://www.restaurant-labascule.fr/,45.770967,4.8633679,"establishment, food, point_of_interest, restaurant",False
+La Tamtamerie - Restaurant /Bar Villeurbanne,"18 Rue Poizat, 69100 Villeurbanne, France",4.9,476,,45.7582833,4.893167399999999,"bar, establishment, food, point_of_interest, restaurant",True
+Le Bistro des Vivants,"6 Rue Jean-Claude Vivant, 69100 Villeurbanne, France",5.0,59,https://le-bistro-des-vivants-villeurbanne.eatbu.com/,45.7704713,4.8680127,"establishment, food, point_of_interest, restaurant",False
+Cuisine En Ville - Restaurant Halal,"11 Rue Bellecombe, 69100 Villeurbanne, France",4.6,1673,http://www.cuisine-en-ville.fr/,45.7696942,4.863161,"establishment, food, point_of_interest, restaurant",False
+La Pavane Villeurbanne,"79 Rue Louis Becker, 69100 Villeurbanne, France",4.7,314,https://linktr.ee/pavanevilleurbanne,45.7653963,4.872139799999999,"bar, establishment, food, point_of_interest, restaurant",False
+"MOON RESTAURANT®, Villeurbanne/Lyon🌙","2 Av. Salvador Allende, 69100 Villeurbanne, France",4.9,637,http://moonrestaurantlyon.eatbu.com/,45.7760821,4.8624895,"establishment, food, point_of_interest, restaurant",False
+Bistrot Le Filanthrope,"16 Av. Auguste Blanqui, 69100 Villeurbanne, France",4.5,987,http://lefilanthrope.fr/,45.7634578,4.8843916,"bar, establishment, food, point_of_interest, restaurant",False
+LE JARDIN D'ALINE,"4 Rue Jean-Baptiste Clément, 69100 Villeurbanne, France",4.6,736,,45.7823864,4.879081999999999,"establishment, food, point_of_interest, restaurant",True
+H,"80 Rue Magenta, 69100 Villeurbanne, France",4.7,390,https://www.instagram.com/h_restaurant.lounge?igsh=MXF6OHhzN3RzZnhwbA==,45.7647387,4.8714613,"bar, establishment, food, night_club, point_of_interest, restaurant",False
+Le Kashmir,"150 Rue du 4 Août 1789, 69100 Villeurbanne, France",4.8,7349,http://restaurant-lekashmir.fr/,45.7642715,4.8906357,"establishment, food, point_of_interest, restaurant",False
+3Poivres Villeurbanne,"263 Cr Émile-Zola, 69100 Villeurbanne, France",4.7,5359,https://borneoapp.com/3PoivresVilleurbanne?s=gmb-sw,45.76788579999999,4.8893781,"establishment, food, point_of_interest, restaurant",False
+Le Tourbillon de la Vigne - Restaurant,"28 Rue Michel Servet, 69100 Villeurbanne, France",5.0,142,https://www.letourbillondelavigne.fr/,45.7673833,4.8786968,"establishment, food, point_of_interest, restaurant",False
+Uncle thaï,"132 Cr Émile-Zola, 69100 Villeurbanne, France",4.8,1067,https://jungle-thai-villeurbanne.fr/fr,45.7700201,4.875991300000001,"establishment, food, point_of_interest, restaurant",False
+La Maison des Délices Villeurbanne - Brunch & Desserts,"29 Rue des Charmettes, 69100 Villeurbanne, France",4.7,356,https://lmddvilleurbanne.cloudwaitress.com/,45.7702247,4.86755,"establishment, food, point_of_interest, restaurant",False
+Le Taille-Crayon,"21 Rue Flachet, 69100 Villeurbanne, France",4.4,1095,http://www.le-taille-crayon.fr/,45.7696182,4.889973299999999,"bar, establishment, food, point_of_interest, restaurant",False
+MASTER POULET - Villeurbanne,"56 Cr Émile-Zola, 69100 Villeurbanne, France",4.9,326,https://restaurants.master-poulet.fr/fr/restaurant-poulet-grille/56-cremile-zola-villeurbanne/,45.770767,4.8678568,"establishment, food, point_of_interest, restaurant",False
+Chez Marion,"66 Cr de la République, 69100 Villeurbanne, France",4.7,330,,45.7650116,4.8739187,"establishment, food, point_of_interest, restaurant",True
+Le Bieristan,"14 Rue Paul Lafargue, 69100 Villeurbanne, France",4.6,2749,http://www.bieristan.fr/,45.767894,4.883538,"bar, cafe, establishment, food, point_of_interest, restaurant, store",False
+DELIZIA TRATTORIA - VILLEURBANNE,"39 Rue de Fontanières, 69100 Villeurbanne, France",4.7,503,https://www.deliziatrattoria.com/,45.7753564,4.883609499999999,"establishment, food, meal_delivery, meal_takeaway, point_of_interest, restaurant",False
+CHILLS,"121 Cr Tolstoï, 69100 Villeurbanne, France",4.8,119,,45.7613846,4.883537,"establishment, food, point_of_interest, restaurant",True
+L'instantané,"2 Rue Abbé Girard, 63000 Clermont-Ferrand, France",4.8,1159,https://linstantane-restaurant.fr/,45.77742440000001,3.0869737,"establishment, food, point_of_interest, restaurant",False
+Le Bistrot d'à Côté,"16 Rue des Minimes, 63000 Clermont-Ferrand, France",4.7,1597,https://restaurant-bistrotdacote.fr/,45.777893,3.0810754,"establishment, food, point_of_interest, restaurant",False
+Lard De Vivre,"15 Rue des Chaussetiers, 63000 Clermont-Ferrand, France",4.7,903,http://www.larddevivre.fr/?utm_source=gmb,45.7782229,3.0839135,"establishment, food, point_of_interest, restaurant",False
+La Mère Moustache,"17 Rue de l'Eminee, 63000 Clermont-Ferrand, France",4.6,1415,https://www.instagram.com/lameremoustache_clfd,45.7602554,3.1415213,"establishment, food, point_of_interest, restaurant",False
+Restaurant Fille à papa,"28 Rue des Petits Gras, 63000 Clermont-Ferrand, France",4.7,686,https://fille-a-papa.dousto.com/,45.777998,3.083616,"establishment, food, point_of_interest, restaurant",False
+Lard Et La Manière,"6 Rue des Minimes, 63000 Clermont-Ferrand, France",4.6,1275,http://www.lardetlamaniere.fr/?utm_source=gmb,45.7783008,3.0810139,"establishment, food, point_of_interest, restaurant",False
+Le Comptoir,"42 Rue de l'Ange, 63000 Clermont-Ferrand, France",4.5,1421,http://www.lecomptoir-clermont.fr/?utm_source=gmb,45.7798103,3.0808496,"establishment, food, point_of_interest, restaurant",False
+la Table du Puy,"8 Rue Abbé Girard, 63000 Clermont-Ferrand, France",4.9,171,https://www.latabledupuy.fr/,45.7771373,3.0869641,"establishment, food, point_of_interest, restaurant",False
+Bouillon Clermont,"8 Rue des Minimes, 63000 Clermont-Ferrand, France",4.5,1706,https://www.bouillonclermont.fr/,45.7782138,3.0809919,"establishment, food, point_of_interest, restaurant",False
+Le Kitchen,"29 Rue des Chaussetiers, 63000 Clermont-Ferrand, France",4.7,637,http://lekitchen63.fr/,45.778346,3.083136,"establishment, food, point_of_interest, restaurant",False
+Restaurant Anatole Clermont-ferrand,"3 Rue Kepler, 63100 Clermont-Ferrand, France",4.7,486,https://www.restaurant-anatole.fr/,45.7799035,3.1197356,"establishment, food, point_of_interest, restaurant",False
+Comme A La Maison SAS,"77 Rue du Ressort, 63100 Clermont-Ferrand, France",4.7,485,http://www.facebook.com/commealamaison63?utm_source=gmb,45.7889049,3.1153969,"establishment, food, point_of_interest, restaurant",False
+L'En-But,"Stade Marcel-Michelin, 107 Av. de la République, 63100 Clermont-Ferrand, France",4.8,696,https://lenbut.com/,45.7886841,3.1056691,"establishment, food, point_of_interest, restaurant",False
+L'Odevie restaurant,"1 Rue Eugène Gilbert, 63000 Clermont-Ferrand, France",4.4,1627,http://www.restaurantodevie.com/,45.7735785,3.0812058,"establishment, food, point_of_interest, restaurant",False
+La Riviere Des Parfums,"70 Rue Henri Barbusse, 63000 Clermont-Ferrand, France",4.7,925,https://la-riviere-des-parfums.my-shoop.store/?utm_source=gmb,45.7824055,3.0925805,"establishment, food, point_of_interest, restaurant",False
+Le bruit du bouchon,"26 Rue de la Boucherie, 63000 Clermont-Ferrand, France",4.8,381,https://www.facebook.com/latelierduvinclermontfd/,45.77962489999999,3.08348,"establishment, food, point_of_interest, restaurant",False
+Le 17.45 Clermont-Ferrand - Planches à Composer,"6 Rue Michel Rocard, 63000 Clermont-Ferrand, France",4.8,371,https://www.le17-45.fr/,45.772199,3.085696,"establishment, food, point_of_interest, restaurant",False
+Restaurant Le Devant,"32 Rue des Gras, 63000 Clermont-Ferrand, France",4.4,1049,https://www.restaurant-ledevant.fr/,45.7788713,3.0834411,"establishment, food, point_of_interest, restaurant",False
+Les Petits Crus Clermont-Ferrand,"14 bis Pl. Gilbert Gaillard, 63000 Clermont-Ferrand, France",4.7,414,https://www.lespetitscrus.com/,45.7804983,3.0815082,"bar, establishment, food, point_of_interest, restaurant",False
+Il Visconti,"9 Rue du Terrail, 63000 Clermont-Ferrand, France",4.6,1147,https://www.ilvisconti.com/,45.7785248,3.0871794,"establishment, food, point_of_interest, restaurant",False
+Le Ramus - Restaurant Aix-En-Provence,"12 Pl. Ramus, 13100 Aix-en-Provence, France",4.7,1749,https://www.restaurant-le-ramus-aix.fr/,43.528397,5.4471,"establishment, food, point_of_interest, restaurant",False
+Les Fils à Maman Aix en Provence,"42 Rue de la Verrerie, 13100 Aix-en-Provence, France",4.4,6213,https://www.lesfilsamaman.com/restaurants/aix-en-provence/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website,43.528422,5.4470953,"bar, establishment, food, meal_delivery, meal_takeaway, point_of_interest, restaurant",False
+Le bouche à Oreille,"1 Rue Aumône Vieille, 13100 Aix-en-Provence, France",4.7,968,https://le-bouche-a-oreille-aix-en-provence.com/,43.5282997,5.4467273,"establishment, food, point_of_interest, restaurant",False
+La Bouchée,"5 Rue d'Entrecasteaux, 13100 Aix-en-Provence, France",4.7,929,https://labouchee-aix.com/,43.5285017,5.4450214,"establishment, food, point_of_interest, restaurant",False
+AREV,"5 Pl. Ramus, 13100 Aix-en-Provence, France",4.8,3480,,43.5281993,5.446934199999999,"establishment, food, point_of_interest, restaurant",True
+Il Etait une Fois,"4 Rue Lieutaud, 13100 Aix-en-Provence, France",4.8,956,http://iletaitune-fois.fr/,43.528854,5.44548,"establishment, food, point_of_interest, restaurant",False
+"O'père, Cuisine d'Amour Restaurant","1840 Rte de Berre, 13090 Aix-en-Provence, France",4.8,1750,http://www.opere.fr/,43.5352907,5.3945687,"establishment, food, point_of_interest, restaurant",False
+Restaurant l'envie,"16 Rue Duperrier, 13100 Aix-en-Provence, France",4.7,340,,43.52939790000001,5.4430964,"establishment, food, point_of_interest, restaurant",True
+Les Galinas - La Table Provençale,"10 Rue Constantin, 13100 Aix-en-Provence, France",4.8,266,https://lesgalinas.eatbu.com/,43.5305883,5.4497963,"bar, establishment, food, point_of_interest, restaurant",False
+Faubourg 46 - Restaurant Aix-En-Provence,"46 Cr Sextius, 13100 Aix-en-Provence, France",4.7,1929,http://www.faubourg46.fr/,43.5293841,5.4437327,"bar, cafe, establishment, food, point_of_interest, restaurant",False
+La Flamme d’Aix,"9 Rue Aumône Vieille, 13100 Aix-en-Provence, France",4.8,639,https://laflamme-aix.fr/,43.528169,5.4464345,"establishment, food, point_of_interest, restaurant",False
+Yves Restaurant,"23 Rue Lisse des Cordeliers, 13100 Aix-en-Provence, France",4.9,458,http://www.yvesrestaurantaix.com/,43.5282071,5.4440602,"establishment, food, point_of_interest, restaurant",False
+Coucou,"4 Rue des Cordeliers, 13100 Aix-en-Provence, France",4.6,656,https://coucou-aix.fr/,43.5296357,5.446985499999999,"establishment, food, point_of_interest, restaurant",False
+L'incontournable,"Place des 3 Ormeaux, 5 Rue des Epinaux, 13100 Aix-en-Provence, France",4.6,1296,https://m.facebook.com/LIncontournable-412407662129682/,43.5300192,5.4500841,"establishment, food, point_of_interest, restaurant",False
+Mammò - Aix-en-Provence,"15 Rue Constantin, 13100 Aix-en-Provence, France",4.7,613,https://www.facebook.com/profile.php?id=61576189863165,43.5305313,5.4503238,"establishment, food, point_of_interest, restaurant",False
+Tita - Restaurant Aix en Provence,"11 Rue des Bernardines, 13100 Aix-en-Provence, France",4.8,2065,https://www.titaaix.fr/,43.527559,5.445473,"establishment, food, meal_takeaway, point_of_interest, restaurant",False
+Étude,"24 rue de l Rue Aumône Vieille, 13100 Aix-en-Provence, France",4.9,708,https://www.etude-aix.fr/,43.528383,5.446624,"establishment, food, point_of_interest, restaurant",False
+de l'une à l'autre,"12 Rue du Cancel, 13100 Aix-en-Provence, France",4.7,449,https://www.facebook.com/delunealautre.aix/,43.53041400000001,5.445698,"establishment, food, point_of_interest, restaurant",False
+Villa Gallici - Relais & Châteaux,"18 Av. de la Violette, 13100 Aix-en-Provence, France",4.8,491,https://www.villagallici.com/,43.5361009,5.4487142,"establishment, food, lodging, point_of_interest, restaurant, spa",False
+Le Poivre d'Ane,"40 Pl. Forum des Cardeurs, 13100 Aix-en-Provence, France",4.7,464,https://m.facebook.com/Le-Poivre-dAne-185300011557852,43.5301741,5.446025199999999,"establishment, food, point_of_interest, restaurant",False
+Jardin d'hiver - Restaurant Brest,"7 Rue Amiral Linois, 29200 Brest, France",4.7,1257,https://jardin-hiver.fr/,48.3858671,-4.4904163,"establishment, food, point_of_interest, restaurant",False
+La Tentation des Mets,"2 Rue de l'Observatoire, 29200 Brest, France",4.9,201,,48.3924506,-4.492119199999999,"establishment, food, point_of_interest, restaurant",True
+Memes Tra Brest,"26 Quai de la Douane, 29200 Brest, France",4.8,896,https://www.memestra.bzh/,48.3828723,-4.484908,"establishment, food, point_of_interest, restaurant",False
+La Brigade - Restaurant Brest,"14 Pl. de la Liberté, 29200 Brest, France",4.8,416,https://www.la-brigade.fr/,48.39086169999999,-4.4862018,"bar, establishment, food, meal_delivery, meal_takeaway, point_of_interest, restaurant",False
+Le garde manger,"32 Rue Jean Macé, 29200 Brest, France",4.6,496,http://www.le-garde-manger-brest.fr/,48.3869169,-4.4886485,"establishment, food, point_of_interest, restaurant",False
+Restaurant Le Repaire ⋅ Brest,"25 Rue Emile Zola, 29200 Brest, France",4.7,350,https://lerepaire-brest.fr/,48.3855599,-4.4895366,"bar, establishment, food, liquor_store, point_of_interest, restaurant, store",False
+Le Tri Menn,"13 Rue d'Aboville, 29200 Brest, France",4.9,255,https://le-tri-menn.eatbu.com/?lang=fr,48.39186960000001,-4.4789565,"bar, establishment, food, point_of_interest, restaurant",False
+La Maison de l'Océan,"2 Quai de la Douane, 29200 Brest, France",4.4,2875,http://www.restaurant-fruit-mer-brest.com/,48.3815488,-4.4881334,"establishment, food, point_of_interest, restaurant",False
+L'Embrun,"48 Rue de Lyon, 29200 Brest, France",4.8,822,https://www.lembrunrestaurant.fr/,48.3900449,-4.4913565,"establishment, food, point_of_interest, restaurant",False
+Brasserie Rosalie - Brasserie Brest,"8 Rue Algésiras, 29200 Brest, France",4.8,137,,48.389824,-4.488809,"bar, establishment, food, point_of_interest, restaurant",True
+Restaurant Les 3C Brest (copains comme cochon),"33 Av. Georges Clemenceau, 29200 Brest, France",4.7,251,,48.3913528,-4.4877164,"bar, cafe, establishment, food, point_of_interest, restaurant, store",True
+La Table de L'Amirauté - Restaurant Brest,"41 Rue Branda, 29200 Brest, France",4.7,40,https://www.restaurant-latabledelamiraute.com/,48.3923269,-4.4808559,"establishment, food, point_of_interest, restaurant",False
+L'Atelier Gourmand,"33 Rue Navarin, 29200 Brest, France",4.7,513,http://lateliergourmand.eatbu.com/,48.397087,-4.479146099999999,"establishment, food, point_of_interest, restaurant",False
+Peck & co.,"23 Rue Fautras, 29200 Brest, France",4.8,179,http://peckandco.fr/,48.3905412,-4.4910029,"establishment, food, point_of_interest, restaurant",False
+Le Crabe Marteau,"8 Quai de la Douane, 29200 Brest, France",4.5,2047,http://crabemarteau.fr/,48.3818588,-4.4875159,"establishment, food, point_of_interest, restaurant",False
+Les Ptites Recettes,"40 Rue du Château, 29200 Brest, France",4.5,1361,https://lesptitesrecettes-brest.fr/,48.3870678,-4.4864723,"bar, establishment, food, point_of_interest, restaurant",False
+Le Bistrot de P'tit Louis,"2 bis Rue de Kerros, 29200 Brest, France",4.6,537,http://www.lebistrotdeptitlouis.com/,48.388092,-4.4825763,"establishment, food, point_of_interest, restaurant",False
+SÌ RISTORANTE LIBERTE,"19 Pl. de la Liberté, 29200 Brest, France",4.6,1023,http://www.si-ristorante.fr/,48.3905307,-4.4852573,"establishment, food, point_of_interest, restaurant",False
+Restaurant Chez Coco,"Port de commerce, 38 Quai de la Douane, 29200 Brest, France",4.6,396,https://www.facebook.com/coco.dorignac,48.3831257,-4.483777100000001,"establishment, food, point_of_interest, restaurant",False
+Le Bœuf sur le Quai,"2 Rue Commandant Malbert, 29200 Brest, France",4.3,1947,http://boeufsurlequai.com/,48.38199729999999,-4.4898449,"establishment, food, point_of_interest, restaurant",False
+Les Petits Ventres,"20 Rue de la Boucherie, 87000 Limoges, France",4.7,2256,http://www.les-petits-ventres.fr/,45.8286516,1.2578464,"establishment, food, point_of_interest, restaurant",False
+La Table du Couvent,"15 Rue Neuve des Carmes, 87000 Limoges, France",4.5,1005,https://latableducouvent.com/,45.8294978,1.2503145,"establishment, food, point_of_interest, restaurant",False
+Le Bouillon Limousin,"5 Rue du 71ème Mobiles, 87000 Limoges, France",4.8,797,https://le-bouillon-limousin.eatbu.com/,45.83047209999999,1.264614,"establishment, food, point_of_interest, restaurant",False
+L'Aparté,"39 Bd Carnot, 87000 Limoges, France",4.7,494,https://www.laparte-limoges.fr/,45.8327857,1.2590789,"establishment, food, point_of_interest, restaurant",False
+Chez Mimi,"4 Rdpt Margaine, 87000 Limoges, France",4.8,820,http://chez-mimi87.eatbu.com/,45.8366884,1.2535389,"establishment, food, point_of_interest, restaurant",False
+Un jardin en ville,"50 Cr Gay Lussac, 87000 Limoges, France",4.8,316,,45.8354129,1.2609161,"bar, establishment, food, point_of_interest, restaurant",True
+Le Bœuf à la Mode,"60 Rue François Chénieux, 87000 Limoges, France",4.7,869,http://leboeufalamode87.fr/,45.8376439,1.2566099,"establishment, food, point_of_interest, restaurant",False
+Martin Comptoir,"13 Rue Lansecot, 87000 Limoges, France",4.8,414,http://www.martincomptoir.fr/,45.8291593,1.2573953,"establishment, food, point_of_interest, restaurant",False
+LES ÉCHOPPES,"8 Rue Adrien Dubouché, 87000 Limoges, France",4.7,660,https://www.les-echoppes.com/,45.8306796,1.2564315,"bar, establishment, food, point_of_interest, restaurant",False
+Le Pont Saint Etienne,"8 Pl. de Compostelle, 87000 Limoges, France",4.4,2362,http://www.lepontsaintetienne.fr/,45.8286111,1.2713889,"establishment, food, point_of_interest, restaurant",False
+L'HARMONIE,"39 Rue des Combes, 87000 Limoges, France",4.9,170,https://www.lharmonie-restaurant-limoges.fr/,45.8324182,1.2566649,"bakery, bar, establishment, food, liquor_store, point_of_interest, restaurant, store",False
+Les Tables du Bistrot,"7 Rue du Grand Theil, 87280 Limoges, France",4.3,4617,http://www.lestablesdubistrot.fr/,45.8712467,1.2779053,"establishment, food, point_of_interest, restaurant",False
+LE BISTROT GOURMAND,"5 Pl. Winston Churchill, 87000 Limoges, France",4.4,1822,http://www.bistrotgourmand.fr/,45.8314212,1.2542487,"establishment, food, point_of_interest, restaurant",False
+Le Cheverny,"57 Av. Baudin, 87000 Limoges, France",4.6,1195,http://lecheverny.fr/,45.8242455,1.2575547,"establishment, food, point_of_interest, restaurant",False
+ANTIQ restaurant,"43 Av. de la Révolution, 87000 Limoges, France",4.7,236,https://www.antiq-limoges.fr/,45.8237603,1.2599201,"establishment, food, point_of_interest, restaurant",False
+Le Geyracois,"15 Boulevard Georges Périn, 87000 Limoges, France",4.4,865,https://www.geyracois-restaurant.fr/,45.8312027,1.262855,"establishment, food, point_of_interest, restaurant",False
+Le Comptoir St Jean,"14 bis Bd de la Cité, 87000 Limoges, France",4.6,827,http://www.lecomptoirsaintjean.com/,45.82995649999999,1.2642817,"bar, establishment, food, point_of_interest, restaurant",False
+Au relais Louis Blanc,"Bis 29, Bd Louis Blanc, 87000 Limoges, France",4.5,889,https://aurelaislouisblanc.fr/,45.827709,1.2610288,"establishment, food, meal_takeaway, point_of_interest, restaurant",False
+La Taverne - Table de caractère - Limoges,"6 Bd Victor Hugo, 87000 Limoges, France",4.1,776,https://www.lestavernes.com/limoges/,45.83244740000001,1.25507,"establishment, food, point_of_interest, restaurant",False
+L'Irlandais,"2 Rue Haute Cité, 87000 Limoges, France",4.6,2239,https://lirlandais.net/,45.8294936,1.2653996,"bar, establishment, food, point_of_interest, restaurant",False
+Maison Gloria,"15 Pl. Jean Jaurès, 37000 Tours, France",4.4,907,https://www.maison-gloria-tours.fr/,47.3892301,0.6887128,"establishment, food, point_of_interest, restaurant",False
+Le Chien Fou,"7 Rue de la Grosse Tour, 37000 Tours, France",4.5,1288,https://www.chien-fou-bistrot.fr/,47.39389329999999,0.6790965,"establishment, food, point_of_interest, restaurant",False
+Au jardin Comme à La Maison,"21 Rue Constantine, 37000 Tours, France",4.7,706,https://www.au-jardin-comme-a-la-maison-restaurant-tours.fr/,47.3952967,0.6839389,"bar, establishment, food, point_of_interest, restaurant",False
+Le Céci’Bon,"35 Rue Briçonnet, 37000 Tours, France",4.8,398,https://www.lececibon.fr/,47.394562,0.681429,"establishment, food, point_of_interest, restaurant",False
+Restaurant Les Canailles,"123 Rue Colbert, 37000 Tours, France",4.6,1034,https://www.instagram.com/lescanaillesrestaurant,47.3960787,0.6920417999999999,"establishment, food, point_of_interest, restaurant",False
+CHEZ MADIE,"37 Rue Briçonnet, 37000 Tours, France",4.7,944,http://chez-madie-restaurant-tours.eatbu.com/,47.39447759999999,0.6813513999999999,"bar, establishment, food, point_of_interest, restaurant",False
+La Maison des Halles,"19 Pl. des Halles, 37000 Tours, France",4.7,1063,https://lamaisondeshalles.eatbu.com/,47.39207620000001,0.6798048,"establishment, food, point_of_interest, restaurant",False
+Les Gens Heureux,"5 Rue Marceau, 37000 Tours, France",4.5,1059,https://www.gensheureux.fr/,47.394663,0.6844469999999999,"establishment, food, point_of_interest, restaurant",False
+Le Vieux Mûrier,"11 Pl. Plumereau, 37000 Tours, France",4.4,772,http://levieuxmurier.fr/,47.3944812,0.6814541,"bar, establishment, food, point_of_interest, restaurant",False
+Restaurant Le Turon,"94 Rue Colbert, 37000 Tours, France",4.7,1740,http://www.leturon.fr/,47.3961063,0.6914445,"establishment, food, point_of_interest, restaurant",False
+Le Frenchy Resto - Restaurant & Burgers maison,"14 Pl. du Grand Marché, 37000 Tours, France",4.6,1375,https://www.frenchysburger.com/le-frenchy-resto/,47.3937809,0.6807705,"establishment, food, point_of_interest, restaurant",False
+Le Bon Temps,"5 Av. de Grammont, 37000 Tours, France",4.5,3443,http://www.restaurantlebontemps.fr/,47.3882754,0.689395,"establishment, food, point_of_interest, restaurant",False
+La Table Ronde,"126 Rue Colbert, 37000 Tours, France",4.9,453,https://latableronde37.eatbu.com/,47.3962519,0.6925791,"bar, establishment, food, point_of_interest, restaurant",False
+Casse-Cailloux,"26 Rue Jehan Fouquet, 37000 Tours, France",4.7,539,http://www.facebook.com/laurendeau37,47.38783040000001,0.6837167000000001,"establishment, food, point_of_interest, restaurant",False
+Brasserie Madeleine Tours,"48 Rue Nationale, 37000 Tours, France",4.1,5692,https://www.brasseriemadeleine-tours.fr/,47.39407869999999,0.6874904,"establishment, food, point_of_interest, restaurant",False
+Brasserie de l'Univers,"8 Pl. Jean Jaurès, 37000 Tours, France",4.2,6087,http://www.brasserie-univers.com/,47.3897684,0.6895676,"bar, cafe, establishment, food, point_of_interest, restaurant",False
+Le Marché Gourmand,"27 Rue du Grand Marché, 37000 Tours, France",4.5,740,http://www.lemarchegourmand.fr/,47.39430189999999,0.6802252,"establishment, food, point_of_interest, restaurant",False
+Kabuli,"10 Pl. du Général Leclerc, 37000 Tours, France",4.8,444,https://kabuli.fr/,47.3904503,0.6941412,"establishment, food, point_of_interest, restaurant",False
+La Souris Gourmande - Restaurant Tours,"100 Rue Colbert, 37000 Tours, France",4.4,1244,https://www.lasourisgourmande37.fr/,47.39615269999999,0.6916775,"establishment, food, point_of_interest, restaurant",False
+Le Comptoir de Mamie Bigoude Tours Centre,"22 Rue de Châteauneuf, 37000 Tours, France",4.4,2366,http://comptoirmamiebigoude.com/,47.3932598,0.6816028,"establishment, food, point_of_interest, restaurant",False
+Le Quai,"15 Quai Belu, 80000 Amiens, France",4.4,3407,https://restaurant-lequai.fr/,49.89641659999999,2.3046681,"establishment, food, point_of_interest, restaurant",False
+Les Petits Bonheurs,"30 Pl. René Goblet, 80000 Amiens, France",4.8,501,http://les-petits-bonheurs-restaurant-amiens.eatbu.com/,49.8909737,2.302682,"cafe, establishment, food, liquor_store, point_of_interest, restaurant, store",False
+BABO ! - Restaurant Traiteur brasero,"18 Rue Dusevel, 80000 Amiens, France",4.7,739,https://baborestaurant.fr/,49.8943027,2.2998047,"establishment, food, point_of_interest, restaurant",False
+Ail des Ours,"11 Rue Sire Firmin Leroux, 80000 Amiens, France",4.7,1031,http://www.aildesours-restaurant.fr/,49.8931933,2.2991613,"establishment, food, point_of_interest, restaurant",False
+Brasserie de l'horloge,"7 Rue des Sergents, 80000 Amiens, France",4.4,1945,https://www.brasseriedelhorloge.fr/,49.894027,2.2983475,"establishment, food, point_of_interest, restaurant",False
+La Brasserie Jules,"18 Bd d'Alsace Lorraine, 80000 Amiens, France",4.4,1728,https://www.brasserie-jules.fr/,49.89197739999999,2.3079003,"establishment, food, point_of_interest, restaurant",False
+Querelle,"10 Rue Sire Firmin Leroux, 80000 Amiens, France",4.8,396,http://www.querelle.net/,49.8929018,2.2993693,"establishment, food, point_of_interest, restaurant",False
+Les étoiles,"22 Rue Sire Firmin Leroux, 80000 Amiens, France",4.8,256,https://les-etoiles-amiens.eatbu.com/?lang=fr,49.8931665,2.2995531,"establishment, food, point_of_interest, restaurant",False
+L'Edito Amiens,"42 Rue de Noyon, 80000 Amiens, France",4.7,337,https://www.restaurant-ledito-amiens.fr/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website,49.8904806,2.3057843,"bar, cafe, establishment, food, point_of_interest, restaurant, store",False
+Le Lobby - Les Marissons,"Rue d'engoulvent Pont, 62 Rue Motte, 80000 Amiens, France",4.5,1250,http://www.lelobby80.fr/,49.8965967,2.303865,"bar, establishment, food, point_of_interest, restaurant",False
+La Manufacture,"5 Rue de Metz, 80000 Amiens, France",4.4,1199,https://www.la-manufacture-amiens.fr/,49.8950294,2.2952169,"establishment, food, point_of_interest, restaurant",False
+Les Orfèvres,"14 Rue des Orfèvres, 80000 Amiens, France",4.5,584,http://www.lesorfevres.com/,49.8958208,2.2991908,"establishment, food, point_of_interest, restaurant",False
+Ô Jardin,"57 Chem. de Halage, 80000 Amiens, France",4.2,2104,https://www.o-jardin-amiens.fr/,49.8944809,2.3151959,"establishment, food, point_of_interest, restaurant",False
+La Ferme,"2 Rue Robert Pierre, 80000 Amiens, France",4.4,632,,49.8930556,2.2897222,"establishment, food, point_of_interest, restaurant",True
+L'improviste,"16 Pl. René Goblet, 80000 Amiens, France",4.3,451,https://limproviste-restaurant.metro.rest/,49.8912092,2.3022607,"bar, establishment, food, liquor_store, point_of_interest, restaurant, store",False
+Le Dos D'Âne,"1 Rue de la Dodane, 80000 Amiens, France",4.4,1212,https://www.ledosdane.fr/,49.8966995,2.3041344,"bar, cafe, establishment, food, point_of_interest, restaurant, store",False
+Les Bouchées Doubles,"11 Rue Gresset, 80000 Amiens, France",4.5,1582,https://www.restaurantlesboucheesdoubles.fr/,49.8937627,2.2943133,"establishment, food, point_of_interest, restaurant",False
+Okinawa,"7 Rue Léon Blum, 80000 Amiens, France",4.6,1588,http://okinawa-amiens.com/,49.8943677,2.2942425,"establishment, food, point_of_interest, restaurant",False
+Les Marronniers,"27 Rue de Metz, 80000 Amiens, France",4.5,769,https://www.restaurantlesmarronniers.com/,49.8952427,2.293904,"establishment, food, point_of_interest, restaurant",False
+Restaurant Instinct Amiens,"44 Rue Jean Catelas, 80000 Amiens, France",4.9,350,https://www.instinct-restaurant.fr/,49.89643239999999,2.2893345,"establishment, food, point_of_interest, restaurant",False
+Le 17,"1 Rue Cité Bartissol, 66000 Perpignan, France",4.8,803,,42.7005761,2.8964871,"establishment, food, point_of_interest, restaurant",True
+Restaurant Le Sujet,"2 Pl. Albert de Belgique, 66000 Perpignan, France",4.8,387,https://lesujet-restaurant.fr/,42.6959676,2.8829536,"establishment, food, point_of_interest, restaurant",False
+La table de Thomas🥩 | Restaurant viande - Restaurant | Perpignan,"mas palegry, Chem. du Mas Palegry, 66000 Perpignan, France",4.6,2651,http://www.latabledethomas.com/,42.6559951,2.9067946,"bar, establishment, food, point_of_interest, restaurant",False
+Le Méditerranée,"26 Av. Maréchal Leclerc, 66000 Perpignan, France",4.8,187,http://le-mediterranee-perpignan.fr/,42.7016258,2.890715,"establishment, food, point_of_interest, restaurant",False
+Restaurant Le Sud,"12 Rue Louis Bausil, 66000 Perpignan, France",4.5,535,http://www.restaurantlesud.fr/,42.699361,2.9015,"establishment, food, point_of_interest, restaurant",False
+L’Hibiscus,"11 Rue Maximilien de Sully, 66000 Perpignan, France",4.8,3090,,42.6979103,2.8894565,"establishment, food, point_of_interest, restaurant",True
+Ô grain de sel,"14 Rue de la Fusterie, 66000 Perpignan, France",4.8,410,http://ograindesel.fr/,42.6977124,2.8956965,"establishment, food, point_of_interest, restaurant",False
+BAM!,"70 Av. Louis Torcatis, 66000 Perpignan, France",4.8,118,,42.7034154,2.8875461,"bar, establishment, food, point_of_interest, restaurant",True
+Le 17.45 Perpignan - Planches à Composer,"43B Av. Maréchal Leclerc, 66000 Perpignan, France",4.9,221,https://www.le17-45.fr/reservations,42.70088700000001,2.8896631,"establishment, food, point_of_interest, restaurant",False
+Le Clos des Lys - Restaurant et Traiteur à Perpignan,"660 Chem. de la Fossella, 66100 Perpignan, France",4.7,1829,http://www.closdeslys.com/,42.6705057,2.8963124,"establishment, food, point_of_interest, restaurant",False
+Au Goustous,"5 Rue du Théatre, 66000 Perpignan, France",4.9,445,https://au-goustous.eatbu.com/?lang=fr,42.6982825,2.8962703,"establishment, food, point_of_interest, restaurant",False
+Fricaccia : Italian Street Food,"15 Av. du Lycée, 66000 Perpignan, France",4.8,1234,http://www.fricaccia.fr/,42.6949776,2.887702,"establishment, food, point_of_interest, restaurant",False
+L Entrepotes,"16 Av. des Marendes, 66470 Sainte-Marie-la-Mer, France",4.8,1481,https://www.facebook.com/RestaurantSainteMarieLaMerEntrepotes/,42.73432469999999,3.0315626,"establishment, food, point_of_interest, restaurant",False
+7 Spices Restaurant,"78 Av. Victor Dalbiez, 66000 Perpignan, France",4.8,82,https://7spices-1720.myshopify.com/,42.6867519,2.8817501,"establishment, food, point_of_interest, restaurant",False
+La Fabrik,"53 Av. Maréchal Leclerc, 66000 Perpignan, France",4.5,590,https://www.facebook.com/La-Fabrik-Perpignan-225012704363433/,42.7004253,2.8880887,"establishment, food, point_of_interest, restaurant",False
+Mamma Mia / Pizzeria,"37 Quai Sébastien Vauban, 66000 Perpignan, France",4.9,305,https://www.facebook.com/profile.php?id=61557705191907,42.6997218,2.8922773,"establishment, food, point_of_interest, restaurant",False
+La Famille,"3 bis Rue François Marie Voltaire, 66000 Perpignan, France",4.6,447,https://www.facebook.com/lafamillerestau/?ref=page_internal,42.6980233,2.894503,"establishment, food, point_of_interest, restaurant",False
+Le Grain de Folie,"71 Avenue du Général Leclerc, 66000 Perpignan, France",4.6,335,http://www.facebook.com/legraindefolieperpignan/,42.7001519,2.8869669,"establishment, food, point_of_interest, restaurant",False
+La Galinette,"23 Rue Jean Payra, 66000 Perpignan, France",4.6,784,http://www.restaurant-galinette.com/,42.7024586,2.8932149,"establishment, food, point_of_interest, restaurant",False
+Broqueta Des Halles - Brochettes Perpignan,"37/39 Halles Vauban 66000, 66000 Perpignan, France",4.9,294,https://www.instagram.com/broqueta/,42.6997346,2.8920734,"establishment, food, point_of_interest, restaurant",False
+Restaurant La Table - Metz,"12 Rue Sainte-Marie, 57000 Metz, France",4.9,328,https://latable-metz.fr/,49.1190463,6.1722058,"establishment, food, point_of_interest, restaurant",False
+Restaurant Le Paris,"2 Rue de la Gendarmerie, 57000 Metz, France",4.8,826,http://www.restaurant-leparis-metz.fr/?utm_source=gmb,49.1140439,6.1794376,"establishment, food, point_of_interest, restaurant",False
+𝐋𝐚 𝐓𝐚𝐯𝐞𝐫𝐧𝐞 𝑇𝑎𝑏𝑙𝑒 𝑑𝑒 𝐶𝑎𝑟𝑎𝑐𝑡è𝑟𝑒 𝐌𝐞𝐭𝐳 ☨,"38 Rue des Clercs, 57000 Metz, France",4.4,3934,https://www.lestavernes.com/metz/,49.1163472,6.1730667,"establishment, food, point_of_interest, restaurant",False
+La Fleure de Ly,"5 Rue des Piques, 57000 Metz, France",4.7,1275,https://www.lafleuredely.fr/?utm_source=gmb,49.12107950000001,6.175645299999999,"establishment, food, point_of_interest, restaurant",False
+La Lanterne,"17 Pl. de Chambre, 57000 Metz, France",4.8,295,http://lalanternemetz.fr/,49.120641,6.174387299999999,"establishment, food, point_of_interest, restaurant",False
+La Réserve,"5 Av. Ney, 57000 Metz, France",4.4,600,http://www.lareserve-metz.com/,49.1140708,6.1699061,"establishment, food, point_of_interest, restaurant",False
+Guarà - Metz,"14 Rue de l'Abreuvoir, 57000 Metz, France",4.8,366,https://guarametz.fr/,49.1158379,6.1804894,"bar, establishment, food, point_of_interest, restaurant",False
+L'Assiette au Bœuf Metz,"1 Rue du Pont des Morts, 57000 Metz, France",4.5,4674,https://linktr.ee/assietteauboeufmetz,49.1198905,6.170393799999999,"establishment, food, point_of_interest, restaurant",False
+Poulette,"23 Place St Louis, 57000 Metz, France",4.7,1163,https://linktr.ee/PouletteRestaurant,49.1166765,6.1787256,"bar, establishment, food, point_of_interest, restaurant",False
+La Popote,"30 Rue Clovis, 57000 Metz, France",4.8,1180,https://www.lapopote-metz.com/,49.1057493,6.168748300000001,"establishment, food, point_of_interest, restaurant",False
+Émile & Lola,"29 Pl. St Thiébault, 57000 Metz, France",4.5,526,https://www.emile-et-lola-restaurant.fr/,49.1130298,6.176980899999999,"bar, establishment, food, point_of_interest, restaurant",False
+Chez Baptiste,"13 Rue Lafayette, 57000 Metz, France",4.5,1143,http://www.chez-baptiste.fr/,49.10834269999999,6.1732675,"establishment, food, point_of_interest, restaurant",False
+Les Copains d'Abord,"32 bis Rue du Coetlosquet, 57000 Metz, France",4.6,1010,http://restaurantlescopainsdabordmetz.fr/?utm_source=gmb,49.114904,6.1759043,"establishment, food, point_of_interest, restaurant",False
+Au Petit Louis,"3 Av. de Lattre de Tassigny, 57000 Metz, France",4.6,1292,https://www.aupetitlouis.fr/,49.1099038,6.166762599999999,"establishment, food, point_of_interest, restaurant",False
+Osteria dei sapori,"19 Rue Dupont des Loges, 57000 Metz, France",4.5,466,http://osteria-dei-sapori.fr/,49.1158349,6.175548999999999,"establishment, food, point_of_interest, restaurant",False
+Heureux comme Alexandre | L'Antre à Barbak,"38 Rue de la Tête d'Or, 57000 Metz, France",4.7,1467,https://lantre-a-barbak.fr/,49.1169988,6.1779857,"establishment, food, point_of_interest, restaurant",False
+Canada 'Venture,"12 Rue des Roches, 57000 Metz, France",4.5,1130,https://canada-venture.eatbu.com/?lang=fr,49.1208333,6.1741667,"establishment, food, point_of_interest, restaurant",False
+Restaurant Derrière,"17 Rue de la Chèvre, 57000 Metz, France",4.5,947,http://www.restaurant-derriere.com/,49.1168103,6.177881999999999,"establishment, food, point_of_interest, restaurant",False
+Casa Ricci,"16 Rue Sainte-Marie, 57000 Metz, France",4.8,922,,49.1190435,6.1720643,"establishment, food, point_of_interest, restaurant",True
+L'Éveil,"2 Rue du Pont des Roches, 57000 Metz, France",4.7,396,http://www.webmetz.net/eveil/index.html,49.1202295,6.1731302,"cafe, establishment, food, point_of_interest, restaurant",False
+LÔ Restaurant,"9 Rue du Lycée, 25000 Besançon, France",4.8,1061,https://lo-restaurant.fr/,47.2379731,6.0206111,"establishment, food, point_of_interest, restaurant",False
+La Petite Adresse,"28 Rue Claude Pouillet, 25000 Besançon, France",4.7,695,,47.2388671,6.020076,"establishment, food, point_of_interest, restaurant",True
+L'Alchimie,"1 Rue Bersot, 25000 Besançon, France",4.8,384,http://www.restaurantlalchimie.com/,47.2372409,6.0275314,"establishment, food, point_of_interest, restaurant",False
+l'Unalôme,"3 Rue Rivotte, 25000 Besançon, France",4.8,307,http://lunalome.restaurant/,47.2352175,6.0317571,"establishment, food, point_of_interest, restaurant",False
+L'Alsacien Besançon,"2 Quai Vauban, 25000 Besançon, France",4.5,3775,http://www.lalsacien.com/restaurant-alsacien-besancon/,47.2394444,6.0208333,"bar, establishment, food, point_of_interest, restaurant",False
+Restaurant Le Sauvage,"6 Rue du Chapitre, 25000 Besançon, France",4.6,981,https://www.lesauvage-besancon.fr/le-restaurant/,47.2317385,6.0276691,"establishment, food, point_of_interest, restaurant",False
+Les Tables d'antan,"18 Rue Bersot, 25000 Besançon, France",4.6,1019,http://lestablesdantan.fr/,47.2375477,6.028048399999999,"establishment, food, point_of_interest, restaurant",False
+Le 1802,"Place Granvelle, 2 Rue Lacoré, 25000 Besançon, France",4.5,1253,http://www.restaurant-1802.fr/fr/,47.2347884,6.0262049,"bar, establishment, food, point_of_interest, restaurant",False
+La Clocherade,"18 Fbg Rivotte, 25000 Besançon, France",4.6,1144,https://golden-unicorn-804825.netlify.app/restaurant/la-clocherade-25000-besancon,47.2322987,6.0347059,"establishment, food, point_of_interest, restaurant",False
+Casinne - Restaurant Besançon,"132 Grande Rue, 25000 Besançon, France",4.9,226,https://www.casinne-restaurant.fr/,47.2348687,6.0289643,"establishment, food, point_of_interest, restaurant",False
+Le Saint Cerf,"1 Rue Megevand, 25000 Besançon, France",4.8,361,https://www.facebook.com/lesaintcerf/?_rdr,47.2364072,6.0229344,"establishment, food, point_of_interest, restaurant",False
+Au P’tit Coin 🦆,"5 bis Rue Luc Breton, 25000 Besançon, France",4.8,260,https://reservapro.unsolite.com/recherche/restaurant/au-p-tit-coin-besancon,47.2392703,6.0225781,"establishment, food, point_of_interest, restaurant",False
+Le Petit Atelier,"20 Rue Bersot, 25000 Besançon, France",4.6,534,http://www.facebook.com/lepetitatelier.besancon/,47.2376152,6.0281129,"establishment, food, point_of_interest, restaurant",False
+L'Effet Bœuf,"3 Rue Mairet, 25000 Besançon, France",4.6,875,https://www.lesmeilleursrestos.fr/restaurant-besancon/142-l-effet-boeuf-besancon.html,47.2342467,6.026490099999999,"establishment, food, point_of_interest, restaurant",False
+Le Fils du Poissonnier,"45 Av. Georges Clémenceau, 25000 Besançon, France",4.8,510,http://le-fils-du-poissonnier.eatbu.com/,47.2382706,6.008679,"bar, establishment, food, point_of_interest, restaurant",False
+Le Record,"37 Rue Bersot, 25000 Besançon, France",4.9,172,https://www.instagram.com/le_record_bisontin/,47.2380855,6.028578599999999,"bar, establishment, food, point_of_interest, restaurant",False
+Le Primate,"39 Rue Bersot, 25000 Besançon, France",4.7,248,,47.238142,6.0286455,"establishment, food, point_of_interest, restaurant",True
+Au Bien Ficelé,"30 Rue Bersot, 25000 Besançon, France",4.8,285,http://au-bien-ficele-restaurant-besancon.eatbu.com/,47.237769,6.028408499999999,"establishment, food, point_of_interest, restaurant",False
+Le 76…,"76 Rue des Granges, 25000 Besançon, France",4.7,651,https://mymenuweb.com/fr/restaurants/165363/?utm_source=google_profile&utm_medium=google_profile&utm_campaign=admin,47.2370138,6.0274833,"establishment, food, point_of_interest, restaurant",False
+La Boucle,"19 Av. Elisée Cusenier, 25000 Besançon, France",4.7,273,https://facebook.com/Restaurant-La-Boucle-Besan%C3%A7on-102937359057473/,47.2408587,6.0237757,"establishment, food, point_of_interest, restaurant",False
+Well in Town,"34 Rue Notre Dame de Recouvrance, 45000 Orléans, France",4.8,1441,https://www.wellintownpub.com/,47.9001558,1.9012438,"bar, establishment, food, point_of_interest, restaurant",False
+"Restaurant Le Gaulois - Cuisine française Orléans, 100% fait maison","148 Rue de Bourgogne, 45000 Orléans, France",4.7,2003,https://www.restaurant-gastronomique-orleans.fr/,47.9004751,1.9123001,"establishment, food, point_of_interest, restaurant",False
+Les Fils À Maman Orléans,"195 Rue de Bourgogne, 45000 Orléans, France",4.3,4113,https://www.lesfilsamaman.com/restaurants/orleans/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website,47.90010789999999,1.9095814,"bar, establishment, food, meal_delivery, meal_takeaway, point_of_interest, restaurant",False
+Le Brin de Zinc Restaurant,"62-64 Rue Sainte-Catherine, 45000 Orléans, France",4.3,3735,https://lebrindezinc.fr/,47.9021194,1.9051861,"establishment, food, point_of_interest, restaurant",False
+Chez Dionysos,"1 Rue du Tabour, 45000 Orléans, France",4.8,1122,http://www.chezdionysos.fr/,47.9003321,1.9037475,"establishment, food, point_of_interest, restaurant",False
+Le Chien Fou,"3 Rue Jean Hupeau, 45000 Orléans, France",4.6,311,https://www.lechienfouorleans.fr/,47.8983996,1.9046219,"establishment, food, point_of_interest, restaurant",False
+MAGA,"136 Rue de Bourgogne, 45000 Orléans, France",4.9,398,https://magarestaurant.fr/,47.9005383,1.9130295,"establishment, food, point_of_interest, restaurant",False
+Petite Saison,"26 Pl. du Général de Gaulle, 45000 Orléans, France",4.8,1584,https://petitesaison.fr/pizzas/,47.90161819999999,1.9030476,"establishment, food, point_of_interest, restaurant",False
+Au Bouillon,"12 Pl. du Châtelet, 45000 Orléans, France",4.3,1350,https://aubouillon.restaurant/,47.8990048,1.9068974,"bar, establishment, food, point_of_interest, restaurant",False
+L'escalier,"262 Rue de Bourgogne, 45000 Orléans, France",4.5,886,http://www.restaurant-lescalier-orleans.fr/,47.900035,1.907348,"establishment, food, point_of_interest, restaurant",False
+Le Ptit Gavroche,"restaurant le ptit gavroche, 145 Rue de Bourgogne, 45000 Orléans, France",4.6,691,https://leptitgavroche.fr/,47.9002828,1.912245,"establishment, food, point_of_interest, restaurant",False
+Gric,"8-10 Rue des Halles, 45000 Orléans, France",4.8,503,http://www.restaurantgric.fr/,47.89855970000001,1.9072946,"establishment, food, point_of_interest, restaurant",False
+L'Essentiel,"15 Rue Croix de Malte, 45000 Orléans, France",4.8,152,https://www.facebook.com/profile.php?id=100083155517365,47.9040313,1.9053461,"establishment, food, point_of_interest, restaurant",False
+Food factory orléans,"Zone commerciale d'olivet, 3 Rue Crignon Desormeaux, 45100 Orléans, France",4.7,915,https://www.foodfactory45.com/,47.87773379999999,1.910266,"establishment, food, point_of_interest, restaurant",False
+La Petite Folie,"223 Rue de Bourgogne, 45000 Orléans, France",4.1,865,https://lapetitefolie-orleans.fr/,47.9000556,1.9085917,"establishment, food, point_of_interest, restaurant",False
+Olde Nola Cookery,"205 Bourbon St, New Orleans, LA 70130, USA",4.4,6824,https://www.nolacookery.com/,29.954908,-90.069122,"establishment, food, point_of_interest, restaurant",False
+Taverne,"1 Place de Loire, 45000 Orléans, France",4.3,2551,https://taverne-brasserie.fr/,47.8983809,1.9086451,"bar, establishment, food, point_of_interest, restaurant",False
+GW Fins,"808 Bienville St, New Orleans, LA 70112, USA",4.8,5326,http://gwfins.com/,29.9555463,-90.06883859999999,"establishment, food, point_of_interest, restaurant",False
+L'Hibiscus,"175 Rue de Bourgogne, 45000 Orléans, France",4.7,659,https://hibiscus-orleans.fr/fr,47.90020370000001,1.9111656,"establishment, food, point_of_interest, restaurant",False
+Restaurant des Plantes,"44 Rue Tudelle, 45100 Orléans, France",4.7,560,http://www.restaurantdesplantes.fr/,47.8935115,1.901383,"establishment, food, point_of_interest, restaurant",False
+Restaurant Zum Sauwadala,"13 Rue de l'Arsenal, 68100 Mulhouse, France",4.6,2713,https://www.zum-sauwadala.fr/?utm_source=Google&utm_medium=My%20Business,47.7465672,7.334074600000001,"bar, establishment, food, point_of_interest, restaurant",False
+L'Entrecôte de Mulhouse,"42 Av. Robert Schuman, 68100 Mulhouse, France",4.3,1920,https://lentrecote68.fr/carte-et-menu/,47.752926,7.3442002,"establishment, food, point_of_interest, restaurant",False
+LE FAUBOURG,"3 Rue de Metz, 68100 Mulhouse, France",4.8,480,http://le-faubourg.eatbu.com/,47.74939490000001,7.341952399999999,"bar, establishment, food, point_of_interest, restaurant",False
+Restaurant El Perú Mulhouse,"7b Rue Louis Pasteur, 68100 Mulhouse, France",4.7,862,https://el-peru-restaurant.eatbu.com/,47.7480436,7.3415113,"bar, establishment, food, point_of_interest, restaurant",False
+La Table de Michèle,"16 Rue de Metz, 68100 Mulhouse, France",4.5,533,https://www.tabledemichele.fr/,47.7480262,7.3430003,"establishment, food, point_of_interest, restaurant",False
+Au fil des saisons,"3 Rue des Fleurs, 68100 Mulhouse, France",4.8,306,https://www.restaurant-au-fil-des-saisons.fr/,47.744787,7.336459899999999,"establishment, food, point_of_interest, restaurant",False
+Winstub Factory,"Place de la victoire, 68100 Mulhouse, France",4.2,2898,https://www.winstub-factory.fr/,47.7475805,7.3398024,"bar, cafe, establishment, food, point_of_interest, restaurant, store",False
+Volfoni Mulhouse,"11 Rue de la Moselle, 68100 Mulhouse, France",4.4,5118,https://www.volfoni.fr/nos-restaurants/volfoni-mulhouse?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website,47.7484037,7.340102099999998,"establishment, food, point_of_interest, restaurant",False
+Mealtin Potes,"6 Rue des Halles, 68100 Mulhouse, France",4.5,731,https://www.mealtinpotes.fr/,47.7447707,7.3361075,"establishment, food, point_of_interest, restaurant",False
+Restaurant The 4,"5 Rue Bonbonnière, 68100 Mulhouse, France",4.6,537,https://restaurantle4.com/,47.7472782,7.3349482,"establishment, food, point_of_interest, restaurant",False
+Le Gargantua,"7 Prte de Bâle, 68100 Mulhouse, France",4.6,1492,,47.7465408,7.343041299999999,"establishment, food, point_of_interest, restaurant",True
+Le Cellier,"4 Rue des 3 Rois, 68100 Mulhouse, France",4.6,1087,http://www.restaurant-lecellier.fr/,47.7441439,7.3338841,"bar, establishment, food, point_of_interest, restaurant",False
+Le Bistrot à Huîtres,"2 Rue du Moenchsberg, 68100 Mulhouse, France",4.6,656,https://bistrot-a-huitres.fr/,47.73732529999999,7.3349476,"establishment, food, point_of_interest, restaurant",False
+Los Buenos Días,"5 Av. du Maréchal Foch, 68100 Mulhouse, France",4.5,1064,https://www.losbuenosdias.fr/,47.7445715,7.34221,"bar, establishment, food, grocery_or_supermarket, point_of_interest, restaurant, store",False
+L'astronome Rooftop,"26 Rue des Maréchaux, 68100 Mulhouse, France",4.1,2805,,47.7481055,7.338381000000001,"bar, establishment, food, point_of_interest, restaurant",True
+Le Petit Paris - Restaurant bistronomique à Mulhouse,"12 Rue de la Moselle, 68100 Mulhouse, France",4.5,539,https://www.lepetitparis.alsace/,47.7482391,7.3399918,"bar, establishment, food, point_of_interest, restaurant",False
+Stroganoff,"9 Rue de l'Arsenal, 68100 Mulhouse, France",4.7,625,https://www.stroganoff-mulhouse.fr/,47.74669129999999,7.334252799999999,"establishment, food, point_of_interest, restaurant",False
+Restaurant Le 17,"17 Rue Paille, 68100 Mulhouse, France",4.4,950,https://restaurant-le-17.eatbu.com/,47.7487747,7.338094399999999,"establishment, food, point_of_interest, restaurant",False
+Auberge du Zoo,"31 Av. de la 9ème Division d'Infanterie Coloniale, 68100 Mulhouse, France",4.4,1524,http://www.auberge-zoo.com/,47.7328593,7.3470646,"establishment, food, point_of_interest, restaurant",False
+Jalmogoyo,"41 Rue de la Sinne, 68100 Mulhouse, France",4.5,2507,http://www.jalmogoyo.com/,47.7453329,7.3397228,"establishment, food, point_of_interest, restaurant",False
+Les Fils à Maman Rouen,"232 Rue Martainville, 76000 Rouen, France",4.6,6692,https://www.lesfilsamaman.com/restaurants/rouen/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website,49.44,1.0986111,"bar, establishment, food, meal_delivery, meal_takeaway, point_of_interest, restaurant",False
+Le Bistrot d'Arthur,"27 Rue Cauchoise, 76000 Rouen, France",4.6,4557,https://www.lebistrotdarthur.com/,49.44414930000001,1.0875224,"establishment, food, point_of_interest, restaurant",False
+Paul-Arthur,"23-25 Pl. de la Pucelle, 76000 Rouen, France",4.8,1571,https://www.paul-arthurrestaurant.fr/,49.4423106,1.0884706,"establishment, food, point_of_interest, restaurant",False
+L'incontournable Rouen restaurant,"1 Rue de la Pie, Pl. du Vieux Marché, 76000 Rouen, France",4.6,793,http://lincontournable-rouen.fr/,49.4428534,1.0872232,"establishment, food, point_of_interest, restaurant",False
+Le Kitsch,"10 Rue du Tambour, 76000 Rouen, France",4.8,1439,https://www.kitsch-rouen.com/,49.4421312,1.0911133,"bar, establishment, food, point_of_interest, restaurant",False
+Le Boom Boom,"14 Rue de l'Ancienne Prison, 76000 Rouen, France",4.8,2606,http://www.leboomboomrouen.fr/,49.4438505,1.0890602,"establishment, food, point_of_interest, restaurant",False
+Le Bistrot de la Pucelle,"6 Pl. de la Pucelle, 76000 Rouen, France",4.6,712,https://www.lebistrotdelapucelle.fr/,49.4420587,1.0890055,"establishment, food, point_of_interest, restaurant",False
+Le Jehanne,"6 Rue du Donjon, 76000 Rouen, France",4.5,1350,https://www.le-jehanne.com/,49.4466724,1.0944296,"establishment, food, point_of_interest, restaurant",False
+Goupil - Restaurant Rouen,"66 Rue Bouvreuil, 76000 Rouen, France",4.8,479,https://goupilrouen.com/,49.446436,1.0951262,"establishment, food, point_of_interest, restaurant",False
+LE P'TIT BEC,"182 Rue Eau de Robec, 76000 Rouen, France",4.5,1419,http://www.leptitbec.com/,49.441525,1.0999692,"establishment, food, point_of_interest, restaurant",False
+La Marmite,"3 Rue de Florence, 76000 Rouen, France",4.8,1261,http://www.lamarmiterouen.com/,49.4436267,1.0875103,"establishment, food, point_of_interest, restaurant",False
+Carrousel,"77 Rue d'Amiens, 76000 Rouen, France",4.8,1269,https://www.carrousel-rouen.com/,49.4409298,1.0997174,"bar, establishment, food, point_of_interest, restaurant",False
+Mon Amour,"28 Pl. des Carmes, 76000 Rouen, France",4.6,4199,https://www.restaurantmonamour.fr/,49.4420611,1.0964803,"establishment, food, meal_takeaway, point_of_interest, restaurant",False
+L'ODAS,"4 Pass. Maurice Lenfant, 76000 Rouen, France",4.6,2020,https://lodas.fr/,49.4410371,1.0943431,"establishment, food, point_of_interest, restaurant",False
+In Situ,"35 Rue Jean Lecanuet, 76000 Rouen, France",4.5,832,http://www.insitu-restaurant.com/,49.4441667,1.0938889,"establishment, food, point_of_interest, restaurant",False
+Navio,"5 Rue du Père Adam, 76000 Rouen, France",4.7,352,https://www.naviorestaurant.fr/,49.4409939,1.0982047,"establishment, food, point_of_interest, restaurant",False
+Un Grain de...,"24 Rue Cauchoise, 76000 Rouen, France",4.5,1063,https://www.facebook.com/UnGrainDe/?utm_source=gmb,49.44401269999999,1.0879045,"establishment, food, point_of_interest, restaurant",False
+Le P'tit Zinc,"20 Pl. du Vieux Marché, 76000 Rouen, France",4.3,1512,http://www.restaurant76.fr/,49.4436259,1.0886927,"bar, establishment, food, point_of_interest, restaurant",False
+Brasserie Chéri,"44 Rue de l'Hôpital, 76000 Rouen, France",4.6,2886,https://www.brasseriecheri.com/,49.4430726,1.0957451,"establishment, food, point_of_interest, restaurant",False
+Les Gens Heureux,"196 Rue Eau de Robec, 76000 Rouen, France",4.7,777,https://www.lesgensheureuxrouen.fr/,49.4415886,1.0993925,"establishment, food, point_of_interest, restaurant",False
+Les Fils à Maman Caen,"2 Rue du Vaugueux, 14000 Caen, France",4.4,4581,https://www.lesfilsamaman.com/restaurants/caen/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website,49.1853506,-0.3592367,"bar, establishment, food, meal_delivery, meal_takeaway, point_of_interest, restaurant",False
+Bœuf & Cow,"6 Bd des Alliés, 14000 Caen, France",4.7,4732,http://www.boeufandcow.com/,49.1834259,-0.3604218,"bar, establishment, food, point_of_interest, restaurant",False
+Balthazar,"2 Pl. Malherbe, 14000 Caen, France",4.7,1387,https://balthazar-caen.fr/,49.1821265,-0.3666884,"bar, establishment, food, point_of_interest, restaurant",False
+L'assiette au beurre,"4 Rue Léon Lecornu, 14000 Caen, France",4.9,244,https://www.assietteaubeurrebistrot.com/,49.1884955,-0.3602663,"establishment, food, point_of_interest, restaurant",False
+Le Bouchon du Vaugueux,"12 Rue Graindorge, 14000 Caen, France",4.7,873,http://www.bouchonduvaugueux.com/,49.18494889999999,-0.3596012,"establishment, food, point_of_interest, restaurant",False
+Le Sans Gêne Caen,"4 Rue du Chemin Vert, 14000 Caen, France",4.8,3484,https://lesansgene.fr/,49.1846502,-0.384521,"establishment, food, point_of_interest, restaurant",False
+Ju'ste Chez Moi,"90 Rue de Geôle, 14000 Caen, France",4.8,888,https://www.google.fr/url?sa=t&source=web&rct=j&url=https://fr-fr.facebook.com/Juste-Chez-Moi-1759877900901976/info/%3Fsection%3Dhours%26tab%3Dpage_info&ved=0ahUKEwit26T1lsrVAhWNJVAKHZLPDCgQFgggMAE&usg=AFQjCNGN_K5PRqFYgtS6bq3gd2dKofg-iA,49.1864639,-0.365754,"establishment, food, point_of_interest, restaurant, store",False
+Le Bistronome,"31 Rue Prairies Saint-Gilles, 14000 Caen, France",4.5,3119,http://bistronome-caen.com/,49.18459,-0.356488,"cafe, establishment, food, point_of_interest, restaurant, store",False
+La Casinière,"10 Rue aux Namps, 14000 Caen, France",4.7,706,http://www.la-casiniere.fr/,49.1841772,-0.3666094,"establishment, food, point_of_interest, restaurant",False
+Une Cuillère Carrée,"22 Rue de Bernières, 14000 Caen, France",4.9,482,https://unecuillerecarree.fr/,49.1832832,-0.3577338,"establishment, food, point_of_interest, restaurant",False
+"La Verrière - Fromagerie, Restaurant et Bar à Fromages","69 Av. Henry Chéron, 14000 Caen, France",4.8,419,https://www.laverriere-caen.fr/,49.1721797,-0.3958547,"establishment, food, point_of_interest, restaurant",False
+Monsieur Louis,"11 Pl. Saint-Sauveur, 14000 Caen, France",4.6,1916,http://www.monsieur-louis.com/contact-us-with-google-map/,49.1828029,-0.3685023,"cafe, establishment, food, point_of_interest, restaurant",False
+AUGIA,"18 Rue Prte au Berger, 14000 Caen, France",4.9,211,https://www.augia.fr/,49.1853662,-0.3598328000000001,"establishment, food, point_of_interest, restaurant",False
+L’Étoile Caen,"121 Av. Georges Clemenceau, 14000 Caen, France",4.8,265,https://restaurant-letoile.metro.bar/?lang=fr,49.1900351,-0.34495,"establishment, food, point_of_interest, restaurant",False
+Les Papilles,"3 Rue de Vaucelles, 14000 Caen, France",4.8,244,https://lespapilles-restaurant.eatbu.com/,49.1766193,-0.3543271,"establishment, food, point_of_interest, restaurant",False
+Sacrée Mathilde,"3ter Rue du Vaugueux, 14000 Caen, France",4.8,408,http://sacreemathilde.com/,49.1853433,-0.3594877,"establishment, food, point_of_interest, restaurant",False
+Le Refuge,"11 Rue de la Miséricorde, 14000 Caen, France",4.4,800,,49.18245659999999,-0.3561859,"establishment, food, point_of_interest, restaurant",True
+Mookys,"24 Rue de la Fontaine, 14000 Caen, France",4.8,460,,49.1818007,-0.3626158,"establishment, food, grocery_or_supermarket, point_of_interest, restaurant, store",True
+Le Potager,"35 Bd Maréchal Leclerc, 14000 Caen, France",4.8,649,https://le-potager.eatbu.com/?lang=fr,49.1819083,-0.3615583,"establishment, food, point_of_interest, restaurant",False
+Simplexité,"102 Rue Saint-Martin, 14000 Caen, France",4.9,302,https://www.restaurant-simplexite.com/,49.1826435,-0.3736483,"establishment, food, point_of_interest, restaurant",False
+Les Fils à Maman Nancy,"41 Rue des Maréchaux, 54000 Nancy, France",4.5,5199,https://www.lesfilsamaman.com/restaurants/nancy/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website,48.6939556,6.180445499999999,"bar, establishment, food, meal_delivery, meal_takeaway, point_of_interest, restaurant",False
+La Gentilhommière - Nancy,"29 Rue des Maréchaux, 54000 Nancy, France",4.7,2310,http://www.lagentilhommierenancy.fr/,48.6940908,6.180968,"establishment, food, point_of_interest, restaurant",False
+Le bouche à oreille,"42 Rue des Carmes, 54000 Nancy, France",4.5,2833,http://www.restaurant-bouche-a-oreille.fr/,48.6906974,6.1810038,"establishment, food, point_of_interest, restaurant, store",False
+Le p'tit bouche,"42 Rue des Carmes, 54000 Nancy, France",4.5,412,https://restaurant-le-ptitbouche.fr/,48.6907168,6.180987300000001,"establishment, food, point_of_interest, restaurant, store",False
+"Marcella - Le Clan des Mamma, Pizzas & Cocktails - Nancy","35 Rue des Maréchaux, 54000 Nancy, France",4.6,4405,https://www.leclandesmamma.com/restaurant/marcella-restaurant-italien-nancy/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website,48.6940295,6.1807133,"bar, establishment, food, meal_delivery, meal_takeaway, point_of_interest, restaurant",False
+Restaurant Brend'Oliv,"141 Grande Rue, 54000 Nancy, France",4.7,1002,http://brendoliv.com/,48.6987095,6.1778379,"establishment, food, point_of_interest, restaurant",False
+Au Coin de la Rue,"19 Pl. du Colonel Fabien, 54000 Nancy, France",4.6,772,https://aucoindelaruenancy.fr/,48.6955862,6.1793387,"establishment, food, point_of_interest, restaurant",False
+Brasserie L'Excelsior,"50 Rue Henri-Poincaré, 54000 Nancy, France",4.3,6809,https://www.excelsior-nancy.fr/,48.690781,6.175566,"establishment, food, point_of_interest, restaurant",False
+Le Local,"59 Rue de la Commanderie, 54000 Nancy, France",4.7,482,,48.6859748,6.168969799999999,"establishment, food, point_of_interest, restaurant",True
+BUTTER,"17 Grande Rue, 54000 Nancy, France",4.1,969,http://drdh.fr/,48.6951854,6.181093799999999,"establishment, food, point_of_interest, restaurant",False
+"IL RISTORANTE, le restaurant Italien de Nancy","3 PLACE CINCINNATI, 54000 Nancy, France",4.5,5384,https://www.ilristorante.fr/il-ristorante-le-restaurant-italien-de-nancy/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website,48.6915947,6.1986829,"bar, establishment, food, grocery_or_supermarket, meal_takeaway, point_of_interest, restaurant, store",False
+A la Table du Bon Roi Stanislas,"7 Rue Gustave Simon, 54000 Nancy, France",4.8,784,http://www.latabledestan.com/,48.6937224,6.1809633,"establishment, food, point_of_interest, restaurant",False
+La Petite Cuillère,"123 Grande Rue, 54000 Nancy, France",4.4,1399,https://www.lapetitecuillere.fr/,48.6979833,6.1784003,"establishment, food, point_of_interest, restaurant",False
+L'Atelier 35,"35 Rue des Ponts, 54000 Nancy, France",4.6,832,https://restaurantlatelier35.fr/,48.68809419999999,6.182251099999999,"establishment, food, meal_takeaway, point_of_interest, restaurant",False
+Restaurant la Primatiale,"14 Rue de la Primatiale, 54000 Nancy, France",4.6,943,https://www.laprimatiale.fr/?utm_source=Google&utm_medium=My%20Business,48.690454,6.1853077,"establishment, food, point_of_interest, restaurant",False
+Racine,"9 Rue Stanislas, 54000 Nancy, France",4.6,676,https://racine-nancy.com/,48.6930292,6.1821116,"establishment, food, point_of_interest, restaurant",False
+La Table de Bacchus,"15 Rue des Maréchaux, 54000 Nancy, France",4.4,1395,https://www.la-table-de-bacchus-restaurant-nancy.fr/,48.6940572,6.1815674,"establishment, food, point_of_interest, restaurant",False
+Restaurant des Frères Marchand,"97 Grande Rue, 54000 Nancy, France",4.2,2690,https://reservation.fromages-freres-marchand.fr/fr/reservation/les-freres-marchand/,48.69731789999999,6.1789764,"establishment, food, point_of_interest, restaurant",False
+Bistrot Gros,"18 Rue de la Source, 54000 Nancy, France",4.8,315,https://gros-nancy.com/,48.6956943,6.1779449,"establishment, food, point_of_interest, restaurant",False
+L'Arborio,"79 Grande Rue, 54000 Nancy, France",4.9,202,https://www.instagram.com/arborio_risotto_bar?igsh=MWFlajRlbXJ1YzU4dg%3D%3D&utm_source=qr,48.69687,6.1793143,"establishment, food, point_of_interest, restaurant",False
+S'House - Saint-Denis,"16 Rue Jesse Owens, 93200 Saint-Denis, France",4.6,210,https://shouse.fr/,48.9253116,2.3646894,"establishment, food, point_of_interest, restaurant",False
+3 Brasseurs Saint-Denis,"1658 R. Saint-Denis, Montréal, QC H2X 3K4, Canada",4.2,4492,https://www.les3brasseurs.ca/fr/trouver-un-3-brasseurs/saint-denis/,45.51492229999999,-73.5635495,"bar, establishment, food, point_of_interest, restaurant",False
+BAR ST-DENIS,"6966 R. Saint-Denis, Montréal, QC H2S 2S4, Canada",4.4,533,http://www.barstdenis.com/,45.5371384,-73.6125733,"establishment, food, point_of_interest, restaurant",False
+Brasserie Dubillot,"222 Rue St Denis, 75002 Paris, France",4.7,9745,https://nouvellegardegroupe.com/,48.8680791,2.3519853,"establishment, food, point_of_interest, restaurant",False
+L'ère des mets,"18 Bd de Saint-François, Saint-Denis 97400, Réunion",4.8,284,,-20.8970128,55.460207,"establishment, food, point_of_interest, restaurant",True
+Le Majâz,"2 Pass. de l'Aqueduc, 93200 Saint-Denis, France",4.7,401,https://majaz-menu.netlify.app/,48.9365251,2.3585831,"establishment, food, point_of_interest, restaurant",False
+La Table Gourmande,"32 Rue de la Boulangerie, 93200 Saint-Denis, France",4.1,108,,48.9345247,2.356705,"bar, cafe, establishment, food, point_of_interest, restaurant",True
+Restaurant O'Grand Breton,"18 Rue de la Légion d'Honneur, 93200 Saint-Denis, France",4.6,434,http://www.ograndbreton.com/,48.9339248,2.3578019,"establishment, food, point_of_interest, restaurant",False
+Tasty Crousty - Saint Denis,"135 Rue Gabriel Péri, 93200 Saint-Denis, France",4.8,980,https://www.instagram.com/tastycrousty?igsh=YXhsNGwzbzl1Y2o=,48.9411254,2.3564786,"establishment, food, point_of_interest, restaurant",False
+Les Arts,"6 Rue de la Boulangerie, 93200 Saint-Denis, France",4.4,520,http://les-arts.eatbu.com/,48.93539639999999,2.3581202,"bar, establishment, food, point_of_interest, restaurant",False
+Le Reflet des Iles,"114 Rue Pasteur, Saint-Denis 97400, Réunion",4.5,900,,-20.8777232,55.4554831,"establishment, food, point_of_interest, restaurant",True
+Restaurant Casa Rosa,"212 Bd Macdonald, 75019 Paris, France",4.8,2662,https://casarosa-restaurant.fr/,48.8989111,2.3725511,"establishment, food, point_of_interest, restaurant",False
+Deepsea Restaurant,"41 Bd Marcel Sembat, 93200 Saint-Denis, France",4.8,656,https://deepsea-restaurant.fr/,48.9330359,2.3507617,"establishment, food, point_of_interest, restaurant",False
+Smok'eat,"83 Bd de Saint-François, Saint-Denis 97400, Réunion",4.7,238,http://www.smokeat.fr/,-20.8990339,55.4609659,"establishment, food, point_of_interest, restaurant",False
+Villa Fleurié,"84 All. des Topazes, Saint-Denis 97400, Réunion",4.7,1448,https://www.villafleurie.re/,-20.8982068,55.4410214,"establishment, food, point_of_interest, restaurant",False
+Apoteek,"18 Rue Rontaunay, Saint-Denis 97400, Réunion",4.4,376,,-20.8758998,55.44882699999999,"bar, establishment, food, point_of_interest, restaurant",True
+L'Oasis du Sphinx,"40 Rue Gabriel Péri, 93200 Saint-Denis, France",4.9,33,,48.9331803,2.3556986,"establishment, food, point_of_interest, restaurant",True
+Au Rendez-Vous,"11 All. des 6 Chapelles, 93200 Saint-Denis, France",4.9,725,https://aurendezvous-saintdenis.fr/,48.9360629,2.3603698,"cafe, establishment, food, point_of_interest, restaurant, store",False
+A la louche,"44 Rue de la Boulangerie, 93200 Saint-Denis, France",4.9,90,https://www.instagram.com/alalouche_resto?igsh=MTZmanRhb3p3c3BkcQ==,48.93411709999999,2.3562594,"establishment, food, point_of_interest, restaurant",False
+The Stage Skybar,"149 Bd Anatole France, 93200 Saint-Denis, France",4.3,42,https://www.h-hotels.com/fr/h4/hotels/h4-hotel-wyndham-paris-pleyel,48.9200415,2.3451841,"bar, establishment, food, point_of_interest, restaurant",False
+La CaVe à Montreuil - Restaurant et cave à vins,"45 Rue de Paris, 93100 Montreuil, France",4.6,1768,https://www.lacaveestrestaurant.com/,48.8576152,2.4342149,"bar, establishment, food, point_of_interest, restaurant",False
+Gypse,"26 Rue du Capitaine Dreyfus, 93100 Montreuil, France",4.8,868,https://gypsemontreuil.eatbu.com/,48.8586239,2.4385311,"establishment, food, point_of_interest, restaurant",False
+Le babylone,"33 Rue du Capitaine Dreyfus, 93100 Montreuil, France",4.8,702,,48.85939279999999,2.4399977,"establishment, food, point_of_interest, restaurant",True
+Villa9Trois - Restaurant Gastronomique,"71 Rue Hoche, 93100 Montreuil, France",4.6,3574,http://www.villa9trois.com/,48.863906,2.433255,"bar, establishment, food, point_of_interest, restaurant",False
+L'Amourette,"54 Rue Robespierre, 93100 Montreuil, France",4.3,1268,http://www.lamourette.fr/,48.85312159999999,2.4234494,"bar, cafe, establishment, food, point_of_interest, restaurant",False
+Crousty Game - Montreuil,"70 Rue du Capitaine Dreyfus, 93100 Montreuil, France",4.8,469,,48.8600565,2.4414603,"establishment, food, point_of_interest, restaurant",True
+TerraViva,"38 Rue Carnot, 93100 Montreuil, France",4.8,188,http://www.terravivamontreuil.fr/,48.8561608,2.4411624,"bakery, bar, cafe, establishment, food, point_of_interest, restaurant, store",False
+Bon Gusto,"2 Rue Eugène Varlin, 93100 Montreuil, France",4.8,636,https://bongustoristorante.com/,48.8593682,2.4465759,"establishment, food, point_of_interest, restaurant",False
+Le Pot du Clape,"17 Rue du Clape en Bas, 62170 Montreuil-sur-Mer, France",4.7,1576,,50.4621201,1.7637817,"establishment, food, point_of_interest, restaurant",True
+ARSENE Montreuil,"54 TER, Rue Robespierre, 93100 Montreuil, France",4.4,356,,48.8528358,2.4235438,"establishment, food, point_of_interest, restaurant",True
+Isolé - restaurant montreuil,"7 rue de rosny, 1 Rue Lucie Aubrac, 93100 Montreuil, France",4.7,310,https://bookings.zenchef.com/results?rid=363765&pid=1001,48.861104,2.4443834,"establishment, food, point_of_interest, restaurant",False
+Le Patio,"48 Rue de Paris, 93100 Montreuil, France",4.3,353,,48.857629,2.4331772,"establishment, food, point_of_interest, restaurant",True
+Grand’Place,"7 Pl. du Général de Gaulle, 62170 Montreuil-sur-Mer, France",4.5,523,https://www.instagram.com/grandplacecafe_/,50.4611171,1.7590674,"establishment, food, point_of_interest, restaurant",False
+Le Tiger Asian FOOD,"125 Rue de Stalingrad, 93100 Montreuil, France",5.0,852,,48.8533792,2.4485458,"establishment, food, point_of_interest, restaurant",True
+Restaurant Le Saint-Laurent,"35 Rue de l'Église, 93100 Montreuil, France",4.5,229,http://le-saint-laurent-montreuil.eatbu.com/,48.863861,2.4439487,"bar, establishment, food, point_of_interest, restaurant",False
+PIZZERIA LE CAPRI,"17 Rue Fernand Combette, 93100 Montreuil, France",4.8,898,https://www.pizzerialecapri.fr/,48.8722642,2.4518297,"bakery, establishment, food, meal_takeaway, point_of_interest, restaurant, store",False
+Jade,"48 Rue du Capitaine Dreyfus, 93100 Montreuil, France",4.6,135,https://wiictechnology.com/WiiC_clouds/offre.php?resto=115,48.8590737,2.439664,"establishment, food, point_of_interest, restaurant",False
+La Casa,"18 Bd Rouget de Lisle, 93100 Montreuil, France",4.7,475,https://la-casa-pizzeria-montreuil.fr/fr,48.8612652,2.4402045,"establishment, food, meal_takeaway, point_of_interest, restaurant",False
+L'Atelier,"60bis Rue Robespierre, 93100 Montreuil, France",4.2,624,http://restaulatelier.fr/,48.8522825,2.4237558,"establishment, food, point_of_interest, restaurant",False
+Le Rue Parmentier,"31 Av. de la Résistance, 93100 Montreuil, France",4.4,447,http://www.lerueparmentier.com/,48.8600013,2.4363897,"establishment, food, point_of_interest, restaurant",False
+Le Faubourg du Moulin,"2 Rue du Clos des Moines, 95100 Argenteuil, France",4.6,1815,https://www.lemoulindorgemont.fr/restaurant-lefaubourg/,48.9575196,2.2677928,"establishment, food, point_of_interest, restaurant",False
+Le Chalet Des Grillades Argenteuil,"32 Rue Carême Prenant, 95100 Argenteuil, France",4.4,494,,48.94541299999999,2.2534805,"establishment, food, point_of_interest, restaurant",True
+La Table de Mona,"26 Av. Gabriel Péri, 95100 Argenteuil, France",4.7,231,,48.943979,2.2515338,"establishment, food, point_of_interest, restaurant",True
+Restaurant LES ARTISANS,"114 Quai de Bezons, 95100 Argenteuil, France",4.7,201,https://les-artisans-restaurant.eatbu.com/?lang=en,48.9330345,2.2391396,"establishment, food, point_of_interest, restaurant",False
+Le Bistro Picolo,"62 Av. Gabriel Péri, 95100 Argenteuil, France",4.9,107,,48.9453841,2.2502226,"establishment, food, point_of_interest, restaurant",True
+Wingstop Argenteuil (à emporter et en livraison uniquement),"Centre Commercial Côté Seine, 45 Rue Paul Vaillant Couturier, 95100 Argenteuil, France",4.9,199,https://www.wingstopfrance.com/?y_source=1_MjAzNzQ2MTYyNi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D,48.9451064,2.2524547,"establishment, food, point_of_interest, restaurant",False
+Au bout du bar,"111 Rue Paul Vaillant Couturier, 95100 Argenteuil, France",4.4,1048,https://www.restaurant-au-bout-du-bar-argenteuil.fr/,48.9429826,2.2486367,"bar, cafe, establishment, food, point_of_interest, restaurant, store",False
+La marmite argenteuil,"27 Rue Paul Vaillant Couturier, 95100 Argenteuil, France",4.7,77,,48.94578689999999,2.2538148,"establishment, food, point_of_interest, restaurant",True
+Annamma Restaurant,"4 Rue Henri Barbusse, 95100 Argenteuil, France",4.7,103,,48.9415536,2.2466668,"establishment, food, point_of_interest, restaurant",True
+PB Poulet Braisé Argenteuil,"23 Av. Gabriel Péri, 95100 Argenteuil, France",4.6,8936,https://restaurants.pbpouletbraise.fr/argenteuil/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website,48.9436698,2.2512739,"establishment, food, meal_delivery, meal_takeaway, point_of_interest, restaurant",False
+Restaurant Florya,"43 Av. Gabriel Péri, 95100 Argenteuil, France",4.4,219,,48.9446878,2.250274,"establishment, food, point_of_interest, restaurant",True
+Restaurant Gourmet’s Café - Argenteuil,"64 Av. Gabriel Péri, 95100 Argenteuil, France",4.4,242,http://gourmetscafe.com/,48.9453841,2.2502226,"establishment, food, point_of_interest, restaurant",False
+Eagle restaurant,"85bis Rue Henri Barbusse, 95100 Argenteuil, France",4.7,26,http://eagle-restaurant.eatbu.com/,48.9372604,2.2405715,"establishment, food, point_of_interest, restaurant",False
+DAR🐔CROUSTY - Argenteuil,"32 Bd Jeanne d'Arc, 95100 Argenteuil, France",4.9,1319,,48.9443929,2.2450515,"establishment, food, point_of_interest, restaurant",True
+La Ferme d'Argenteuil,"2B Rue Verte, 95100 Argenteuil, France",4.4,396,http://lafermedargenteuil.fr/,48.9377083,2.2447546,"establishment, food, point_of_interest, restaurant",False
+LISA ROAST,"75 Rue Henri Barbusse, 95100 Argenteuil, France",4.7,517,https://lisaroast.fr/fr,48.9377522,2.2414053,"establishment, food, point_of_interest, restaurant",False
+Pouletos Braisé - Argenteuil,"8 Rue du Dr Leray, 95100 Argenteuil, France",4.7,165,https://pouletos.fr/#/,48.9484674,2.2557423,"establishment, food, point_of_interest, restaurant",False
+MASTER POULET - Argenteuil,"159 Rue Paul Vaillant Couturier, 95100 Argenteuil, France",4.8,2436,https://restaurants.master-poulet.fr/fr/restaurant-poulet-grille/rue-paul-vaillant-couturier-argenteuil/,48.9420509,2.2473967,"establishment, food, point_of_interest, restaurant",False
+"Le Moulin D'orgemont, Restaurants - Hébergements - Special Events","Le Moulin d'Orgemont, 2 Rue du Clos des Moines, 95100 Argenteuil, France",4.5,123,https://www.lemoulindorgemont.fr/,48.9575196,2.2677928,"establishment, food, lodging, point_of_interest, restaurant",False
+Wan Mey,"4 Rue de la Poste, 95100 Argenteuil, France",4.4,1500,https://frmaps.xyz/business/wan-mey-t6pSgj9c,48.9451464,2.2484414,"establishment, food, point_of_interest, restaurant",False
+Grill Garden,"10 Pl. de l'Église, 94400 Vitry-sur-Seine, France",4.6,298,https://grill-garden.fr/,48.7914696,2.3937144,"establishment, food, point_of_interest, restaurant",False
+Restaurant Gosto,"10 Av. de l'Abbé Roger Derry, 94400 Vitry-sur-Seine, France",4.8,537,https://restaurant-gosto.com/,48.7909282,2.3924357,"establishment, food, point_of_interest, restaurant",False
+LE CASANOVA VITRY SUR SEINE,"57 Av. Danielle Casanova, 94400 Vitry-sur-Seine, France",4.5,612,http://lecasanova-vitry.fr/,48.7910547,2.3965848,"establishment, food, point_of_interest, restaurant",False
+L'Imprévu,"94 Av. Anatole France, 94400 Vitry-sur-Seine, France",4.6,461,https://www.facebook.com/limprevuvitry,48.8066728,2.404744200000001,"establishment, food, point_of_interest, restaurant",False
+Bistrot À L’angle,"53 Rue Charles Fourier, 94400 Vitry-sur-Seine, France",4.7,100,,48.8025337,2.4057864,"establishment, food, point_of_interest, restaurant",True
+Restaurant Roi Galatasaray,"42 Av. Paul Vaillant Couturier, 94400 Vitry-sur-Seine, France",4.9,33,,48.7980622,2.3996129,"establishment, food, point_of_interest, restaurant",True
+DAR EL SOLTANE,"1 Av. de la République, 94400 Vitry-sur-Seine, France",4.8,261,,48.7994704,2.4004796,"establishment, food, meal_delivery, meal_takeaway, point_of_interest, restaurant",True
+Restaurant l’atlas,"159 Av. Paul Vaillant Couturier, 94400 Vitry-sur-Seine, France",4.2,240,https://atlas-restaurant.com/,48.7920463,2.3952479,"establishment, food, point_of_interest, restaurant",False
+KRYSPYZ Vitry Sur Seine,"37 Rue Anselme Rondenay, 94400 Vitry-sur-Seine, France",4.8,117,https://www.tiktok.com/@kryspyz94?_r=1&_t=ZN-92PWi1ktvfy,48.7805987,2.4020817,"establishment, food, point_of_interest, restaurant",False
+Jamaïssa Poulet Braisé - Fast Food Vitry-sur-Seine,"3 Rue St Germain, 94400 Vitry-sur-Seine, France",4.9,338,,48.79052919999999,2.3932457,"establishment, food, meal_takeaway, point_of_interest, restaurant",True
+Le Monde Marche - Restaurant du MAC VAL,"18 Av. Eugène Pelletan, 94400 Vitry-sur-Seine, France",4.8,41,https://www.instagram.com/lemondemarche.macval,48.793081,2.386593,"establishment, food, point_of_interest, restaurant",False
+Garba chaud vitry,"175 - 183 Bd de Stalingrad, 94400 Vitry-sur-Seine, France",4.7,1080,https://le-garba-chaud-vitry.eatbu.com/?lang=fr,48.8055014,2.3758696,"establishment, food, point_of_interest, restaurant",False
+L’amitié,"14 Rue Camille Groult, 94400 Vitry-sur-Seine, France",4.6,373,http://restaurant-lamitie-vitry-sur-seine.eatbu.com/,48.78967240000001,2.4018205,"establishment, food, point_of_interest, restaurant",False
+CHEZ ELY,"56 Av. Anatole France, 94400 Vitry-sur-Seine, France",4.8,50,https://www.facebook.com/share/19uDxsR9PC/?mibextid=wwXIfr,48.8043636,2.4051742,"bar, establishment, food, point_of_interest, restaurant",False
+Le Jardin des Phenix,"24 Av. Anatole France, 94400 Vitry-sur-Seine, France",4.7,109,,48.8026572,2.4037335,"establishment, food, point_of_interest, restaurant",True
+Seven Sushi Vitry Halal Japonais🇯🇵&Thaïlandais🇹🇭,"100 Rue de Choisy, 94400 Vitry-sur-Seine, France",4.8,3682,https://seven-sushi.fr/fr,48.785745,2.3997861,"establishment, food, point_of_interest, restaurant",False
+Krousty Fusion,"7 Av. de l'Abbé Roger Derry, 94400 Vitry-sur-Seine, France",4.7,144,https://www.tiktok.com/@krousty_fusion?_t=ZN-8xvKlbgF578&_r=1,48.7903676,2.3925161,"establishment, food, point_of_interest, restaurant",False
+Rajpoot,"37 Av. Danielle Casanova, 94400 Vitry-sur-Seine, France",4.4,1027,http://rajpoot.fr/,48.7907449,2.398391,"establishment, food, point_of_interest, restaurant",False
+Restaurant Le Phare de Seine,"25 Av. de Villeneuve Saint-Georges, 94600 Choisy-le-Roi, France",4.6,1140,http://lepharedeseine.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb,48.7652399,2.4158361,"establishment, food, point_of_interest, restaurant",False
+Wok Grill-Vitry,"Zone Commercial E.Leclerc, 1 Rue Eugène Hénaff, 94400 Vitry-sur-Seine, France",3.9,3205,https://vitry.wok-grill.fr/,48.7938297,2.4169666,"establishment, food, point_of_interest, restaurant",False
+La Parenthèse,"29 Av. Pierre Brossolette, 94000 Créteil, France",4.8,211,https://laparenthese-creteil.fr/,48.7919501,2.4621345,"bar, establishment, food, point_of_interest, restaurant",False
+BUNSH SMASH BURGER - CRÉTEIL,"12 Rue d'Estienne d'Orves, 94000 Créteil, France",4.9,285,,48.79190269999999,2.4624969,"establishment, food, point_of_interest, restaurant",True
+Seven Rooftop,"1 Rue Martin Luther King, 94000 Créteil, France",4.1,1357,https://www.sevenrooftop.com/,48.7675819,2.4564819,"establishment, food, point_of_interest, restaurant",False
+L'INTEMPOREL,"39 Av. de Verdun, 94000 Créteil, France",4.6,309,http://www.lintemporel-restaurant.fr/,48.796342,2.4631307,"establishment, food, point_of_interest, restaurant",False
+Le Boostan,"97 Av. de Paris, 94380 Bonneuil-sur-Marne, France",4.9,1484,https://instagram.com/leboostan?igshid=MmIzYWVlNDQ5Yg%3D%3D,48.7793278,2.4761455,"bar, establishment, food, night_club, point_of_interest, restaurant",False
+French Cantine Créteil Soleil,"Centre Commercial Régional Créteil-Soleil, 94000 Créteil, France",4.9,30,,48.78848230000001,2.4567614,"establishment, food, point_of_interest, restaurant",True
+C’est la que C’est bon,"10 Pass. de l'Image Saint-Martin, 94000 Créteil, France",4.7,346,https://www.facebook.com/profile.php?id=61556535999546,48.7923358,2.462722,"establishment, food, point_of_interest, restaurant",False
+FACTORY'S CRETEIL,"27 Rue de la Basse Quinte, 94000 Créteil, France",4.5,11119,https://factoryscreteil.shop/,48.7741319,2.4428246,"establishment, food, point_of_interest, restaurant",False
+Brendy's Café Créteil,"Centre commercial Créteil Soleil, Av. de la France libre, 94000 Créteil, France",4.9,18799,https://www.brendyscafe.com/,48.7803024,2.4561244,"establishment, food, meal_takeaway, point_of_interest, restaurant",False
+Black & White Burger Créteil Soleil,"Centre Commercial Régional Créteil-Soleil, 94000 Créteil, France",4.6,5412,https://restaurants.bnwburger.com/creteil-soleil/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website,48.778377,2.456396,"establishment, food, meal_delivery, meal_takeaway, point_of_interest, restaurant",False
+Tasty Crousty - Créteil Université,"30 Av. du Maréchal Lyautey, 94000 Créteil, France",4.8,464,https://www.tastycrousty.io/,48.7893365,2.4497798,"establishment, food, point_of_interest, restaurant",False
+Bavola Créteil,"76 Rue du Général Leclerc, 94000 Créteil, France",4.9,462,,48.7898467,2.465549,"establishment, food, point_of_interest, restaurant, store",True
+Les Deux Rives,"4 Rue Jean Gabin, 94000 Créteil, France",4.5,413,http://www.les-deux-rives.fr/,48.78145929999999,2.4462003,"establishment, food, point_of_interest, restaurant",False
+Los Pollos,"Centre Commercial Régional Créteil-Soleil, 94000 Créteil, France",4.6,5580,https://lospollos.fr/,48.7797348,2.4570484,"establishment, food, meal_delivery, meal_takeaway, point_of_interest, restaurant",False
+L'Océan Créteil,"16 Rue de la Basse Quinte, 94000 Créteil, France",4.3,462,,48.774059,2.4420863,"establishment, food, point_of_interest, restaurant",True
+O'braisé Créteil - poulet,"144 Av. du Maréchal Foch, 94000 Créteil, France",4.8,1202,https://www.obraise-restaurants.fr/,48.7873045,2.4364968,"establishment, food, point_of_interest, restaurant",False
+BABECO - Créteil Soleil,"1 Avenue du Général de Gaulle, Centre Commercial Régional Créteil-Soleil, 94000 Créteil, France",4.3,1562,http://babeco.fr/,48.7802281,2.4555134,"establishment, food, point_of_interest, restaurant",False
+Brasserie Le Paris - Restaurant & Pub,"5 Rue de Paris, 94000 Créteil, France",4.4,471,,48.7939027,2.4604226,"bar, establishment, food, point_of_interest, restaurant",True
+Indiana Café - Créteil Soleil,"Centre Commercial Régional Créteil-Soleil, 94000 Créteil, France",4.3,2257,https://www.indianacafe.fr/,48.78002069999999,2.4573906,"bar, establishment, food, point_of_interest, restaurant",False
+Il datterino,"8 Rue d'Estienne d'Orves, 94000 Créteil, France",4.7,584,https://ildatterino.fr/fr,48.7920661,2.462691,"establishment, food, point_of_interest, restaurant",False
+Le Clos - 93 AUBERVILLIERS,"Face à la Place Front Populaire ligne 12, 28 Rue Waldeck Rochet, 93300 Aubervilliers, France",4.7,432,https://www.brasserieleclos.fr/,48.90719619999999,2.3671661,"bar, establishment, food, night_club, point_of_interest, restaurant",False
+IZGARA AUBERVILLIERS,"41 Av. de la République, 93300 Aubervilliers, France",4.8,94,,48.9109321,2.3852529,"establishment, food, meal_takeaway, point_of_interest, restaurant",True
+Bumbú Restaurant,"9 Av. des Chemins de Fer Industriels Bâtiment 264, 93300 Aubervilliers, France",3.8,2393,https://www.lebumbuparis.fr/,48.9039837,2.368327,"establishment, food, point_of_interest, restaurant",False
+Restaurant Sèson,"Av. des Géomètres, 93300 Aubervilliers, France",4.5,299,http://www.seson.paris/,48.9036731,2.3681759,"cafe, establishment, food, point_of_interest, restaurant, store",False
+Italian Tasty,"132 Rue Danielle-Casanova, 93300 Aubervilliers, France",4.7,348,,48.9153219,2.4003335,"establishment, food, point_of_interest, restaurant",True
+Restaurant Le Saint Emilion Aubervilliers,"3 Rue de la Commune de Paris, 93300 Aubervilliers, France",4.4,221,,48.914234,2.382378,"cafe, establishment, food, meal_delivery, meal_takeaway, point_of_interest, restaurant",True
+Le Restaurant de la Commune,"2 Rue Edouard Poisson, 93300 Aubervilliers, France",4.7,70,,48.9107598,2.3836192,"establishment, food, point_of_interest, restaurant",True
+Le café d'Auber,"1 Rue du Dr Pesqué, 93300 Aubervilliers, France",4.5,276,https://www.instagram.com/lecafedauber?igsh=Nm1mcDd0eGdndjZw,48.9144701,2.383137,"establishment, food, point_of_interest, restaurant",False
+Le Clos Saint Auber - AUBERVILLIERS,"57 Av. Victor Hugo, 93300 Aubervilliers, France",4.2,366,https://leclossaintauber.eatbu.com/?lang=fr,48.9038842,2.3723605,"bar, establishment, food, point_of_interest, restaurant",False
+Climb Up Aubervilliers,"111 Av. Victor Hugo Accès par le, 1 Quai Lucien Lefranc, 93300 Aubervilliers, France",4.5,1738,https://aubervilliers.climb-up.fr/,48.9075977,2.3756573,"establishment, food, point_of_interest, restaurant",False
+Chez Kayes Grillades,"6 Rue André Karman, 93300 Aubervilliers, France",4.5,316,https://www.chezkayes.com/,48.902911,2.3837302,"establishment, food, point_of_interest, restaurant",False
+Restaurant Lamma à Sidi-Bou-Saïd,"15 Rue Ferragus, 93300 Aubervilliers, France",4.7,397,https://comarts.fr/clients/lamma_S_D_B/menu.php,48.9141184,2.3798175,"establishment, food, point_of_interest, restaurant",False
+Les deux amis,"1 Rue Danielle-Casanova, 93300 Aubervilliers, France",4.3,43,,48.9191933,2.387279,"establishment, food, point_of_interest, restaurant",True
+GOWOK Aubervilliers 93,"106 Av. Victor Hugo, 93300 Aubervilliers, France",4.8,153,https://www.gowok.fr/,48.9098115,2.3790009,"establishment, food, point_of_interest, restaurant",False
+Tasty Crousty - Aubervilliers,"59 Av. Jean Jaurès, 93300 Aubervilliers, France",4.8,1367,,48.9043223,2.3924331,"establishment, food, point_of_interest, restaurant",True
+Auberkitchen,"20 Rue Lécuyer, 93300 Aubervilliers, France",4.7,465,http://www.auberkitchen.com/,48.9050319,2.391992,"bar, cafe, establishment, food, point_of_interest, restaurant",False
+Crousty One - Aubervilliers,"109 Av. Jean Jaurès, 93300 Aubervilliers, France",4.8,16,,48.9065777,2.3948787,"establishment, food, point_of_interest, restaurant",True
+La goulette,"74 bisRue du Moutier, 93300 Aubervilliers, France",4.4,97,https://hoodspot.fr/restaurant/la-goulette-80527888400012/,48.9155414,2.3776445,"establishment, food, point_of_interest, restaurant",False
+Restaurant Les Tables du Maroc,"27 Bd Anatole France, 93300 Aubervilliers, France",4.8,212,,48.9173896,2.3815861,"establishment, food, point_of_interest, restaurant",True
+"Vice Versa · Restaurant italien, di qualità","71 Rue des Voies du Bois PARKING au n°77, 92700 Colombes, France",4.8,3347,http://viceversarestaurant.fr/,48.9181884,2.2490752,"establishment, food, meal_delivery, meal_takeaway, point_of_interest, restaurant",False
+Chez Mimi - Bistrot Pas Parisien,"3 bis Pl. du Général Leclerc, 92700 Colombes, France",4.6,2943,https://www.bistrot-chez-mimi.fr/,48.9224124,2.2523632,"bar, establishment, food, point_of_interest, restaurant",False
+Caracole,"2 Rue des Anciens Combattants, 92700 Colombes, France",4.7,1520,http://caracole-restaurant.fr/,48.9222945,2.2530489,"establishment, food, point_of_interest, restaurant",False
+Rodizio Brazil - Colombes,"157 Bd Charles de Gaulle, 92700 Colombes, France",4.6,11579,https://restaurants.rodizio-brazil.fr/colombes/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website,48.91578800000001,2.226551,"establishment, food, point_of_interest, restaurant",False
+All Together Restaurant Colombes,"1 All. Louise Michel, 92700 Colombes, France",4.7,177,https://www.allsuites.com/hotel/appart-hotel-paris-colombes,48.9354435,2.2591261,"bar, establishment, food, meal_takeaway, point_of_interest, restaurant",False
+Il Binario (92700 Colombes),"41 Rue des Vallées, 92700 Colombes, France",4.8,151,https://il-binario.fr/,48.9141286,2.2576716,"establishment, food, point_of_interest, restaurant",False
+Au Bureau - Pub et Brasserie,"1 Rue Saint-Denis, 92700 Colombes, France",4.4,2474,https://www.aubureau.fr/restaurant-brasserie/au-bureau-colombes?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website,48.9236261,2.2590239,"bar, establishment, food, point_of_interest, restaurant",False
+Garden Colombes,"23 Rue Sartoris, 92250 La Garenne-Colombes, France",4.7,1126,http://gardencolombes.fr/,48.90871749999999,2.2516724,"bar, establishment, food, point_of_interest, restaurant",False
+Seven restaurant,"7 Rue Saint-Denis, 92700 Colombes, France",4.1,61,,48.9237362,2.2588337,"establishment, food, point_of_interest, restaurant",True
+Les Deux Colombes,"4 Rue de la Colombe, 75004 Paris, France",4.7,1441,https://lesdeuxcolombes.fr/,48.8546874,2.350434700000001,"establishment, food, point_of_interest, restaurant",False
+Vinobah,"98 Rue du Maréchal Joffre, 92700 Colombes, France",4.6,319,http://www.vinobah.com/,48.9209176,2.2594668,"establishment, food, point_of_interest, restaurant",False
+Le Wezer,"167-169 Bd Charles de Gaulle, 92700 Colombes, France",3.9,710,https://www.instagram.com/le.wezer/,48.91607130000001,2.2264047,"establishment, food, point_of_interest, restaurant",False
+O Baan Thai colombes,"25 Bis Rue Gabriel Péri, 92700 Colombes, France",5.0,15,,48.9228769,2.2504353,"establishment, food, point_of_interest, restaurant",True
+Baciami,"12 Pl. Gabriel Péri, 92270 Bois-Colombes, France",4.6,1246,http://www.baciami.fr/,48.9139934,2.2725468,"establishment, food, point_of_interest, restaurant",False
+Cesar Italian Touch,"73 Bd Charles de Gaulle, 92700 Colombes, France",4.5,305,http://www.cesaritaliantouch.fr/,48.9109306,2.2331347,"establishment, food, meal_takeaway, point_of_interest, restaurant",False
+Local Bear,"71 rue du Bournard, Pl. Maurice Chavany, 92700 Colombes, France",4.4,755,http://www.localbear.fr/,48.9234179,2.2561501,"bar, establishment, food, liquor_store, point_of_interest, restaurant, store",False
+Le Monaco,"5 Rue Labouret, 92700 Colombes, France",4.1,78,,48.9243089,2.2538115,"establishment, food, point_of_interest, restaurant",True
+Ethik bistronomie,"1 Pl. Maurice Chavany, 92700 Colombes, France",4.1,1644,http://ethikbistronomie.com/,48.923276,2.2560287,"establishment, food, point_of_interest, restaurant",False
+Le Kabylia,"250 Rue des Voies du Bois, 92700 Colombes, France",4.5,289,https://www.lekabylia.fr/,48.91111799999999,2.2424625,"establishment, food, point_of_interest, restaurant",False
+JEFE BURGER BOIS-COLOMBES,"154 Rue Pierre Joigneaux, 92270 Bois-Colombes, France",4.8,50,,48.91098789999999,2.2578053,"establishment, food, point_of_interest, restaurant",True
+Yava Paris Restaurant,"30 Av. des Champs Pierreux, 92000 Nanterre, France",4.8,4495,https://yava-paris.com/,48.8889358,2.2125463,"establishment, food, point_of_interest, restaurant",False
+CABANE,"10 Rue du Dr Foucault 8, 92000 Nanterre, France",4.7,2046,http://www.cabanerestaurant.com/,48.8918819,2.1948125,"establishment, food, point_of_interest, restaurant",False
+L'Apostrophe,"9 Rue Maurice Thorez, 92000 Nanterre, France",4.5,1832,https://bouillonlapostrophe.fr/fr,48.891096,2.194926,"bar, cafe, establishment, food, meal_delivery, point_of_interest, restaurant, store",False
+Al dente,"72 Rue du 8 Mai 1945, 92000 Nanterre, France",4.9,643,http://www.aldenté.fr/,48.8916629,2.2060436,"establishment, food, point_of_interest, restaurant",False
+Maison Georges,"2095 Bd de la Défense, 92000 Nanterre, France",4.4,730,https://www.maison-georges92.fr/,48.8970105,2.2283052,"bar, establishment, food, point_of_interest, restaurant",False
+L'Atelier sur la Braise - Steakhouse et pizzeria feu de bois - Nanterre,"430 Av. de la République, 92000 Nanterre, France",4.5,2516,http://latelier-surlabraise.com/,48.9116201,2.2230708,"establishment, food, meal_delivery, meal_takeaway, point_of_interest, restaurant",False
+ZILLY,"88 Av. François Arago, 92000 Nanterre, France",3.8,3575,https://www.zillyrestaurantparis.com/,48.9004561,2.2243326,"establishment, food, point_of_interest, restaurant",False
+Bistrot Là-Haut,"70 Av. Franklin Roosevelt, 92150 Suresnes, France",4.8,5413,https://www.bistrolahaut.fr/,48.87534,2.2197092,"establishment, food, point_of_interest, restaurant",False
+La Place,"12 Pl. Gabriel-Péri, 92000 Nanterre, France",4.6,351,https://www.laplacenanterre.fr/,48.8898897,2.1977867,"establishment, food, point_of_interest, restaurant",False
+Noccio La Défense,"2261 Bd de la Défense, 92000 Nanterre, France",4.7,375,https://www.noccio.fr/,48.8968173,2.2305445,"bar, establishment, food, point_of_interest, restaurant",False
+Le désiré de la Méditerranée,"48 Rue Henri Barbusse, 92000 Nanterre, France",4.9,136,https://www.instagram.com/le_desire_de_la_mediterranee?igsh=azRmMzJtYWVkMXA0,48.8908597,2.194137,"establishment, food, point_of_interest, restaurant",False
+Le Dakota,"74 Rue du 8 Mai 1945, 92000 Nanterre, France",4.8,524,http://www.dakotagrill.fr/,48.8917685,2.2061956,"establishment, food, point_of_interest, restaurant",False
+Saperlipopette,"24 Rue Mars et Roty, 92800 Puteaux, France",4.5,6472,https://www.saperlipopette1.fr/,48.8805474,2.2393308,"establishment, food, point_of_interest, restaurant",False
+Le Favori,"13 Pl. Gabriel-Péri, 92000 Nanterre, France",4.5,484,https://www.le-favori-restaurant-nanterre.fr/,48.88998850000001,2.1974899,"establishment, food, point_of_interest, restaurant",False
+Le restaurant Docteur Pierre,"75 All. des Parfumeurs, 92000 Nanterre, France",4.9,43,https://www.docteur-pierre.fr/,48.8968654,2.1992021,"establishment, food, point_of_interest, restaurant",False
+Table du Marché,"13 Pl. Gabriel-Péri, 92000 Nanterre, France",4.5,44,http://www.alatabledumarche.fr/,48.8899142,2.1976884,"establishment, food, point_of_interest, restaurant",False
+Afrik’N’Fusion Nanterre cuisine africaine,"31 Terr. de l'Université, 92000 Nanterre, France",4.5,585,https://www.afriknfusion.fr/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website,48.8995363,2.2135601,"bar, establishment, food, meal_takeaway, point_of_interest, restaurant",False
+SUSHI WHITE - Nanterre,"88 Rue du 8 Mai 1945, 92000 Nanterre, France",4.8,1225,,48.8919491,2.2059483,"establishment, food, point_of_interest, restaurant",True
+Ferme,"4-5, Pl. de la Boule, 92000 Nanterre, France",4.4,406,,48.8867268,2.2008139,"establishment, food, point_of_interest, restaurant",True
+La Criée Nanterre,"60 à 66 Rue des Hautes Pâtures, 92000 Nanterre, France",4.0,1354,https://restaurant.lacriee.com/15-la-criee-nanterre,48.9177586,2.2204986,"establishment, food, point_of_interest, restaurant",False
+Restaurant Modulo,"15 Quai du Général Sarrail, 69006 Lyon, France",4.7,3624,https://restaurant-modulo.fr/fr,45.76425529999999,4.8407187,"bar, establishment, food, point_of_interest, restaurant",False
+A table,"Centre commercial les samouraïs, 2 All. Henri Georges Clouzot, 69100 Villeurbanne, France",4.7,80,,45.77592930000001,4.8619883,"establishment, food, point_of_interest, restaurant",True
+Pointe De Rêve,"83 Av. Roger Salengro, 69100 Villeurbanne, France",4.6,323,http://pointedereve.com/,45.777092,4.87678,"establishment, food, point_of_interest, restaurant",False
+Le Simple Goût Des Choses,"84 Cr Vitton, 69006 Lyon, France",4.7,936,http://www.lesimplegoutdeschoses.fr/,45.7698501,4.8581137,"establishment, food, point_of_interest, restaurant",False
+Table et Partage,"52 Rue Etienne Richerand, 69003 Lyon, France",4.8,612,http://www.table-et-partage.com/,45.7599277,4.8660727,"establishment, food, point_of_interest, restaurant",False
+Le Poivron Bleu,"12 Rue Professeur Weill, 69006 Lyon, France",4.8,947,http://lepoivronbleurestaurant.fr/,45.7689421,4.8562278,"establishment, food, point_of_interest, restaurant",False
+Restaurant l'Avenue Grill,"88 Av. de la Viste, 13015 Marseille, France",4.8,413,https://lavenuegrill13.eatbu.com/,43.3579289,5.3578413,"establishment, food, point_of_interest, restaurant",False
+Les Terrasses Saint Antoine,"2 Rte de la Gavotte, 13015 Marseille, France",4.7,97,,43.3722845,5.3558683,"establishment, food, point_of_interest, restaurant",True
+Côté Zen – Brunch & Tea Salon,"122 Av. de la Viste, 13015 Marseille, France",5.0,184,https://linktr.ee/cotezen?utm_source=linktree_profile_share&ltsid=a1c8f383-8a00-4734-a76c-2827b507a691,43.3592989,5.3578303,"establishment, food, point_of_interest, restaurant",False
+Grillade chez les frères,"366 Av. de Saint-Antoine, 13015 Marseille, France",4.7,76,,43.37906170000001,5.3571478,"establishment, food, point_of_interest, restaurant",True
+Taksim restaurant,"119 Av. de Saint-Antoine, 13015 Marseille, France",4.7,545,,43.3711688,5.3560359,"establishment, food, point_of_interest, restaurant",True
+The Bosphore,"11 Avenue de St antoine Centre commercial le grand littoral A côté de l'entrée 5 ( niveau supérieur, 13015 Marseille, France",4.4,1142,,43.3643448,5.3511384,"establishment, food, point_of_interest, restaurant",True
+Gold Istanbul,"83 Av. de Saint-Antoine, 13015 Marseille, France",4.6,441,,43.37011469999999,5.3561041,"establishment, food, point_of_interest, restaurant",True
+Gin Khao Saint-Antoine,"108 Av. de Saint-Antoine, 13015 Marseille, France",4.6,251,http://www.ginkhao.fr/,43.3707639,5.3563062,"establishment, food, point_of_interest, restaurant",False
+Restaurant de la cosmétique,"2 Rue Odette Jasse, 13015 Marseille, France",4.3,395,https://www.restaurant-de-la-cosmetique-marseille.fr/,43.3432329,5.3704895,"establishment, food, point_of_interest, restaurant",False
+Grillades royales - Poulet Braisé Nord Marseille,"361 Av. de Saint-Antoine, 13015 Marseille, France",4.9,88,,43.380694,5.357377500000001,"establishment, food, point_of_interest, restaurant",True
+Mevlana Restaurant,"43 Av. de la Viste, 13015 Marseille, France",4.2,328,https://www.ubereats.com/marseille/food-delivery/restaurant-mevlana/ZkBAcMs1SkOqAHtmUWKUEg,43.3560705,5.3568327,"establishment, food, point_of_interest, restaurant",False
+Via Pasta,"9 Av. de Saint-Antoine, 13015 Marseille, France",4.3,120,,43.3663681,5.356663,"establishment, food, point_of_interest, restaurant",True
+Restaurant Lezzet,"182 Av. de Saint-Antoine, 13015 Marseille, France",4.1,662,,43.37223729999999,5.3561358,"establishment, food, point_of_interest, restaurant",True
+Le Monticole Culinaire,"1 Rue des Frégates, 13015 Marseille, France",4.9,14,https://lesgrandestables.com/monticole/,43.3686329,5.3527518,"establishment, food, point_of_interest, restaurant",False
+Saray istanbul,"130 Av. de Saint-Louis, 13015 Marseille, France",4.7,77,,43.3473399,5.35923,"establishment, food, point_of_interest, restaurant",True
+Nobi Nobi Marseille Grand Littoral,"Centre commercial grand littoral, 11 Avenue de St antoine, 13015 Marseille, France",4.8,2537,https://www.nobinobi-streetfood.com/,43.3639103,5.3495135,"establishment, food, meal_delivery, meal_takeaway, point_of_interest, restaurant",False
+ELİTE DESTINA GRİLL,"124 Av. de Saint-Antoine, 13015 Marseille, France",4.8,19,,43.37108930000001,5.356307699999999,"establishment, food, point_of_interest, restaurant",True
+MAMA NELLY BISTRO,"89 Rue de la République, 13002 Marseille, France",4.7,608,https://mamanelly.fr/,43.3029185,5.3684492,"establishment, food, point_of_interest, restaurant",False
+Le Spécial Saint Antoine : Snack - Restaurant Halal,"212 Av. de Saint-Antoine, 13015 Marseille, France",4.5,1177,https://lespecial.dishop.co/,43.3729885,5.356017,"establishment, food, meal_takeaway, point_of_interest, restaurant",False
+Chez Mouss,"202 Av. de Saint-Antoine, 13015 Marseille, France",4.3,224,,43.3728126,5.3560473,"establishment, food, point_of_interest, restaurant",True
+Le Duplex,"54 Plage de l'Estaque, 13016 Marseille, France",4.5,224,,43.3606154,5.3142735,"establishment, food, point_of_interest, restaurant",True
+Restaurant le Palmier,"14 Rue Martial Reynaud, 13016 Marseille, France",4.8,478,http://restaurantlepalmier.free.fr/,43.36081,5.3143253,"establishment, food, point_of_interest, restaurant",False
+Poissonnerie & Restaurant de l’estaque,"56 Plage de l'Estaque, 13016 Marseille, France",4.8,269,https://www.poissonnerie-de-lestaque.fr/,43.3606758,5.314212299999999,"establishment, food, point_of_interest, restaurant, store",False
+Restaurant La Rade,"72 Plage de l'Estaque, 13016 Marseille, France",4.0,1593,https://www.instagram.com/restaurantlarade?igsh=NDIzcGh6NGxvYXZv&utm_source=qr,43.36081009999999,5.3135617,"establishment, food, point_of_interest, restaurant",False
+AU BORD DE L'EAU,"Estaque Beach Parc Espace Mistral, RN 56, 13016 Marseille, France",4.0,474,https://auborddeleau.eatbu.com/,43.3610626,5.3105284,"establishment, food, point_of_interest, restaurant",False
+O'kwat Food,"84 Bd Roger Chieusse, 13016 Marseille, France",4.9,253,https://o-kwat.eatbu.com/?lang=fr,43.3621959,5.315049600000001,"establishment, food, point_of_interest, restaurant",False
+Le Cabanon de l’Estaque,"Port Ouest - RN 568 - Site de la Lave, 13016 Marseille, France",4.5,231,https://www.lecabanondelestaque.fr/,43.3602916,5.2959236,"establishment, food, point_of_interest, restaurant",False
+Le Restaurant du C.A.M par Virginie et Sylvain Robert,"1 Plage de l'Estaque, 13016 Marseille, France",4.4,85,https://www.facebook.com/lerestaurantducamestaque,43.3592575,5.316590199999999,"establishment, food, point_of_interest, restaurant",False
+L'Hippocampe Estaque,"151 Plage de l'Estaque, 13016 Marseille, France",4.2,1420,https://lhippocampe-restaurant-marseille.eatbu.com/?lang=fr,43.3616697,5.3080577,"establishment, food, point_of_interest, restaurant",False
+Snack Grillade l’idéal les deux rives,"149 Plage de l'Estaque, 13016 Marseille, France",4.8,431,,43.3616534,5.308661799999999,"establishment, food, point_of_interest, restaurant",True
+Restaurant Maritime,"556 Chem. du Littoral, 13016 Marseille, France",4.6,98,,43.3546446,5.3336744,"bar, establishment, food, point_of_interest, restaurant",True
+Le Nautilus,"Chemin du Littoral Port de la SNEM, 13016 Marseille, France",4.4,492,https://le-nautilus-restaurant-marseille.fr/,43.3570295,5.3193296,"establishment, food, point_of_interest, restaurant",False
+L'horizon Brasserie,"1 Av. de l'Argilité, 13016 Marseille, France",4.9,15,,43.3604567,5.3471424,"establishment, food, point_of_interest, restaurant",True
+Le Cafouch Aux Saveurs,"21 Rue Gaston Castel, 13016 Marseille, France",4.4,207,http://www.lecafouch.com/,43.3564955,5.335202199999999,"establishment, food, point_of_interest, restaurant",False
+Regali de Manon,"652 Chem. du Littoral, 13016 Marseille, France",4.8,50,https://regali-de-manon.eatbu.com/,43.3557326,5.3279192,"bakery, cafe, establishment, food, point_of_interest, restaurant, store",False
+L'Etincelle,"82-84 Plage de l'Estaque, 13016 Marseille, France",4.1,971,https://restaurantletincelle13.fr/fr,43.3609451,5.313235700000001,"establishment, food, point_of_interest, restaurant",False
+Restaurant Le Français,"80 Plage de l'Estaque, 13016 Marseille, France",4.1,647,https://www.le-francais-restaurant-marseille.fr/,43.3608806,5.313333099999999,"establishment, food, point_of_interest, restaurant",False
+Coopérative CARAVANE CAFE,"86 Bd Roger Chieusse, 13016 Marseille, France",5.0,34,https://reservation.laddition.com/booking/caravane-cafe#/date,43.3620946,5.315017999999999,"establishment, food, point_of_interest, restaurant",False
+La storia,"116 Plage de l'Estaque, 13016 Marseille, France",4.7,137,https://lastorialestaque.fr/,43.3613058,5.3122883,"establishment, food, point_of_interest, restaurant",False
+Stanislas Béziat Head Private Kitchen Pour Vous,"Imp. de l'Harmonie, 13016 Marseille, France",5.0,110,https://www.cuisinepourvous.fr/,43.3630913,5.320723099999999,"establishment, food, point_of_interest, restaurant",False
+Sacrée Fleur Montmartre,"50 Rue de Clignancourt, 75018 Paris, France",4.8,3540,http://www.sacreefleur.fr/,48.8876187,2.3479882,"establishment, food, point_of_interest, restaurant",False
+Le Poulbot,"3 Rue Poulbot, 75018 Paris, France",4.7,6437,https://lepoulbot.com/,48.8869276,2.339969200000001,"establishment, food, point_of_interest, restaurant",False
+La Couvée Montmartre,"32 Rue Véron, 75018 Paris, France",4.7,1104,https://lacouveemontmartre.com/,48.88499239999999,2.3356595,"establishment, food, point_of_interest, restaurant",False
+L'Atelier Ramey,"23 Rue Ramey, 75018 Paris, France",4.8,1319,http://www.atelier-ramey.com/,48.8882962,2.3467252,"establishment, food, point_of_interest, restaurant",False
+La Taverne de Montmartre,"25 Rue Gabrielle, 75018 Paris, France",4.6,2470,https://fr-fr.facebook.com/pages/La-Taverne-de-Montmartre/158042090888080,48.8857735,2.340414,"establishment, food, point_of_interest, restaurant",False
+Chez Marie,"22 Rue Lepic, 75018 Paris, France",4.8,1681,https://chez-marie-cafe.webflow.io/,48.885116,2.334143,"establishment, food, point_of_interest, restaurant",False
+L'Annexe Montmartre,"13 Rue des Trois Frères, 75018 Paris, France",4.8,1238,http://lannexe-paris18.fr/fr,48.8843044,2.3411826,"establishment, food, point_of_interest, restaurant",False
+Chantoiseau,"63 Rue Lepic, 75018 Paris, France",4.8,1152,http://www.chantoiseau-paris.fr/,48.8877673,2.3347259,"establishment, food, point_of_interest, restaurant",False
+Les copains d’abord,"35 Rue Véron, 75018 Paris, France",4.7,281,https://lescopainsdabord18.fr/,48.8852533,2.3345609,"bar, establishment, food, point_of_interest, restaurant",False
+Le Lamarck,"8 Rue Lamarck, 75018 Paris, France",4.8,961,http://www.lelamarck.fr/,48.8868173,2.3444958,"establishment, food, point_of_interest, restaurant",False
+La Vache et le Cuisinier,"18 Rue des Trois Frères, 75018 Paris, France",4.7,1220,http://www.restaurantlavacheetlecuisinier.fr/,48.8845831,2.3412225,"establishment, food, point_of_interest, restaurant",False
+adraba,"40 Rue Véron, 75018 Paris, France",4.9,1706,https://adraba-paris.com/,48.8852372,2.3349937,"establishment, food, point_of_interest, restaurant",False
+Bistro L'Olivier,"88 Rue Ordener, 75018 Paris, France",4.8,2617,https://www.lolivierparis.fr/,48.8928249,2.3429749,"bar, establishment, food, point_of_interest, restaurant",False
+Gavroche,"4 Rue du Mont-Cenis, 75018 Paris, France",4.7,784,https://www.parisgavroche.com/,48.8868619,2.341378,"establishment, food, point_of_interest, restaurant",False
+Aléa,"39 Rue Lamarck, 75018 Paris, France",4.9,1201,http://www.alearestaurant.com/,48.8893499,2.3412945,"establishment, food, point_of_interest, restaurant",False
+Le Cabanon de la Butte,"6 Rue Lamarck, 75018 Paris, France",4.6,1484,https://www.lecabanondelabutte.fr/,48.88665570000001,2.3444701,"establishment, food, point_of_interest, restaurant",False
+La Boîte aux Lettres,"108 Rue Lepic, 75018 Paris, France",4.7,2412,http://www.laboiteauxlettres.com/,48.8867903,2.3381816,"bar, cafe, establishment, food, point_of_interest, restaurant",False
+L'Almanach Montmartre,"35 Rue Ramey, 75018 Paris, France",4.8,1101,http://almanach-montmartre.fr/,48.8890556,2.3463113,"establishment, food, point_of_interest, restaurant",False
+Sosso Restaurant,"36 Rue Ramey, 75018 Paris, France",4.9,1239,https://www.sossorestaurant.fr/,48.8895817,2.346334,"establishment, food, point_of_interest, restaurant",False
+Le Tire-Bouchon,"9 Rue Norvins, 75018 Paris, France",4.8,1306,https://www.letirebouchonmontmartre.fr/,48.8869589,2.3397565,"bar, establishment, food, point_of_interest, restaurant, store",False
+La Forge,"26 Av. Mathurin Moreau, 75019 Paris, France",4.7,1244,https://www.laforge.paris/,48.8782361,2.3737982,"establishment, food, point_of_interest, restaurant",False
+Le passage à niveau,"2A Rue de l'Ourcq, 75019 Paris, France",4.4,918,,48.8876506,2.3851322,"establishment, food, point_of_interest, restaurant",True
+Jeannette,"143 Av. Jean Jaurès, 75019 Paris, France",4.7,465,https://wiicmenu-qrcode.com/app/restaurantWebSite.php?resto=882,48.8867453,2.384519,"bar, cafe, establishment, food, point_of_interest, restaurant, store",False
+Au Comptoir Du Temps,"35 Av. Corentin Cariou, 75019 Paris, France",4.6,1475,https://wiicmenu-qrcode.com/app/restaurantWebSite.html?resto=190,48.8974521,2.3851936,"bar, establishment, food, meal_takeaway, point_of_interest, restaurant",False
+Restaurant Trois B,"48 Av. Jean Jaurès, 75019 Paris, France",4.8,895,https://www.troisbrestaurant.fr/,48.8836701,2.3744733,"establishment, food, point_of_interest, restaurant",False
+Les Frères Laumière,"3 Av. de Laumière, 75019 Paris, France",4.7,775,https://lesfrereslaumiere.fr/,48.8829033,2.381203,"establishment, food, point_of_interest, restaurant",False
+BOTZA - Paris 19,"86 Rue Botzaris, 75019 Paris, France",4.7,915,http://botza.fr/,48.87940829999999,2.3895216,"bar, establishment, food, meal_delivery, meal_takeaway, point_of_interest, restaurant",False
+La Terrasse,"41 Av. de Laumière, 75019 Paris, France",4.6,471,https://www.laterrasseparis19.com/,48.884873,2.3794074,"establishment, food, point_of_interest, restaurant",False
+Les Bancs Publics,"2 Rue de Nantes, 75019 Paris, France",4.5,1750,https://les-bancs-publics-restaurant-paris.eatbu.com/,48.8909974,2.3839234,"establishment, food, point_of_interest, restaurant",False
+Chez Arnaud,"16 Rue Eugène Jumin, 75019 Paris, France",4.4,1644,https://www.facebook.com/chez.arnaud.9,48.8873259,2.3925899,"establishment, food, point_of_interest, restaurant",False
+La Cantine Bretonne,"22bis Rue de l'Ourcq, 75019 Paris, France",4.5,2011,http://www.lacantinebretonne.com/,48.8892477,2.3839921,"establishment, food, point_of_interest, restaurant, store",False
+L'Atlantide,"07 Av. de Laumière, 75019 Paris, France",4.5,814,https://restaurant-latlantide-paris-19.fr/fr,48.8830308,2.3809725,"establishment, food, point_of_interest, restaurant",False
+Le Bastringue,"67 Quai de la Seine, 75019 Paris, France",4.4,2130,https://le-bastringue.eatbu.com/?lang=fr,48.887985,2.3769736,"establishment, food, point_of_interest, restaurant",False
+Wagyu Restaurant Paris,"23 Av. Corentin Cariou, 75019 Paris, France",4.5,2605,https://wagyuparis.com/,48.8969408,2.3843666,"establishment, food, point_of_interest, restaurant",False
+Chez JJ,"174 Av. Jean Jaurès, 75019 Paris, France",4.6,915,https://wiicmenu-qrcode.com/app/restaurantWebSite.php?resto=1184,48.8875384,2.3892571,"bar, establishment, food, point_of_interest, restaurant",False
+Mensae,"23 Rue Melingue, 75019 Paris, France",4.5,1010,https://www.mensae-restaurant.com/,48.8757226,2.3855878,"bar, establishment, food, point_of_interest, restaurant",False
+Le Petit Rhin,"7 Rue du Rhin, 75019 Paris, France",4.7,82,https://www.instagram.com/lepetitrhin/,48.884944,2.381282,"establishment, food, point_of_interest, restaurant",False
+Soces,"8 Rue Fessart, 75019 Paris, France",4.6,1000,http://soces.fr/,48.8763046,2.3879091,"establishment, food, point_of_interest, restaurant",False
+Restaurant Quedubon,"22 Rue du Plateau, 75019 Paris, France",4.6,510,https://restaurantquedubon.fr/fr,48.8781682,2.3843452,"bar, establishment, food, point_of_interest, restaurant",False
+La Confidente - Restaurant Bistrot Paris 20,"125 Av. Gambetta, 75020 Paris, France",4.6,828,https://www.laconfidenteparis.fr/,48.868258,2.4012344,"bar, establishment, food, meal_delivery, meal_takeaway, point_of_interest, restaurant",False
+Des Terres,"82 Rue Alexandre Dumas, 75020 Paris, France",4.7,577,https://www.instagram.com/desterres.paris/?hl=fr,48.8545931,2.3973699,"bar, establishment, food, point_of_interest, restaurant",False
+Restaurant La Colline,"10 Rue Pixérécourt, 75020 Paris, France",4.7,1087,https://www.restaurantlacolline.fr/,48.8706864,2.3954635,"establishment, food, point_of_interest, restaurant",False
+Restaurant Musa Belleville - Paris 20,"82 Bd de Belleville, 75020 Paris, France",4.9,929,http://www.musa.paris/,48.8699553,2.3798369,"bar, establishment, food, night_club, point_of_interest, restaurant",False
+Bistrot Père,"10 Av. du Père Lachaise, 75020 Paris, France",4.7,312,https://instagram.com/bistrotpere,48.8639691,2.3979023,"bar, establishment, food, point_of_interest, restaurant",False
+Chantefable,"93 Av. Gambetta, 75020 Paris, France",4.6,2268,http://chantefable.fr/,48.86645559999999,2.3996062,"bar, establishment, food, point_of_interest, restaurant",False
+Lichette,"381 Rue des Pyrénées, 75020 Paris, France",4.9,215,https://www.lichette-paris.fr/,48.8736682,2.388911,"establishment, food, point_of_interest, restaurant",False
+Les Rêveuses,"15 Rue Saint-Blaise, 75020 Paris, France",4.6,481,https://bistrotlesreveuses.fr/,48.8596931,2.4049994,"establishment, food, point_of_interest, restaurant",False
+AHO • cucina moderna,"67 Rue des Vignoles, 75020 Paris, France",4.8,246,https://www.aho-cucina-moderna-restaurant-paris.fr/,48.8553371,2.4014635,"establishment, food, point_of_interest, restaurant",False
+Café Le Papillon,"144 Rue de Bagnolet, 75020 Paris, France",4.6,1798,http://www.cafelepapillon.com/,48.861648,2.4059366,"cafe, establishment, food, point_of_interest, restaurant",False
+Bistrot Darsy,"15 Rue des Panoyaux, 75020 Paris, France",4.9,472,https://www.bistrotdarsy.fr/,48.8667622,2.3853681,"establishment, food, point_of_interest, restaurant",False
+Au Fond du Jardin,"39 Rue Pelleport, 75020 Paris, France",4.2,1026,https://sites.google.com/view/afdj/accueil,48.8640637,2.4040847,"bar, cafe, establishment, food, meal_takeaway, point_of_interest, restaurant, store",False
+La P'tite Vadrouille,"49 Rue de la Chine, 75020 Paris, France",4.8,413,https://la-ptite-vadrouille.fr/fr,48.8692197,2.3965835,"bar, establishment, food, point_of_interest, restaurant",False
+Paulownia,"15 Rue des Vignoles, 75020 Paris, France",4.8,284,https://www.instagram.com/paulownia.restaurant/,48.8536406,2.3988299,"establishment, food, point_of_interest, restaurant",False
+Les Mondes Bohèmes - Restaurant Paris 20,"31 Rue des Vignoles, 75020 Paris, France",4.4,1438,https://mondesbohemes.com/fr,48.853988,2.399385,"bar, cafe, establishment, food, point_of_interest, restaurant",False
+MAMA RESTAURANT PARIS EAST,"109 Rue de Bagnolet, 75020 Paris, France",4.5,421,https://fr.mamashelter.com/paris-east/restaurants?utm_source=google+Maps&utm_medium=seo+maps&utm_campaign=seo+maps,48.8598689,2.4027133,"establishment, food, point_of_interest, restaurant",False
+ChoueTte,"87 Rue des Pyrénées, 75020 Paris, France",4.6,529,http://lachouetteparis.fr/,48.8542195,2.4055057,"bar, establishment, food, point_of_interest, restaurant",False
+Le Jourdain,"101 Rue des Couronnes, 75020 Paris, France",4.7,1318,http://www.lejourdain.fr/,48.8722095,2.3892143,"establishment, food, point_of_interest, restaurant",False
+L'entracte,"21 Rue Malte Brun, 75020 Paris, France",4.7,500,http://www.lentractebistrot.fr/,48.8647593,2.3971,"establishment, food, point_of_interest, restaurant",False
+Monsieur Culbuto - Brasserie Restaurant & Bar Paris 20,"294 Rue des Pyrénées, 75020 Paris, France",4.3,1498,https://www.mrculbuto.com/,48.8716899,2.3925299,"bar, establishment, food, point_of_interest, restaurant",False
